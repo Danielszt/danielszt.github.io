@@ -6,25 +6,18 @@ title: Hey 👋
 
 *Switch to [english]({{ site.baseurl }}/Index-en).*
 
-Me llamo Daniel SSSS, aquí puedes ver algunos de mis trabajos de los últimos años
+Me llamo Daniel SSSS y soy UX Writer / Content Designer. Ahora mismo trabajo como consultor en TTTT, donde participo en proyectos muy diferentes (banca, energía, educación...). Antes estuve en FFFF, de freelance y en BBBB.
 
-There are currently two themes built on Poole:
 
-![Litte cat]({{ site.baseurl }}/assets/littlecat.png) 
+Aquí puedes ver un resumen de algunos de mis trabajos:
 
-<a href="{{ site.baseurl }}/assets/littlecat.png">
-    <img 
-        src="/{{ site.baseurl }}/assets/littlecat.png" 
-        alt="Ancient Bristlecone Pine Forest, USA"
-    >
-</a>
+- [Project1]({{ site.baseurl }}/Project1)
+- [Lanyon](https://lanyon.getpoole.com)
+- [Hyde](https://hyde.getpoole.com)
+- [Lanyon](https://lanyon.getpoole.com)
 
-<a href="/assets/littlecat.png">
-    <img 
-        src="/assets/littlecat.png" 
-        alt="Bncient Bristlecone Pine Forest, USA"
-    >
-</a>
+
+
 
 <a href="{{ site.baseurl }}/assets/littlecat.png">
     <img 
@@ -33,9 +26,6 @@ There are currently two themes built on Poole:
     >
 </a>
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+
 
 Learn more and contribute on [GitHub](https://github.com/poole).
