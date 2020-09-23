@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hey
+title: Hey 👋
 ---
 
 Me llamo Daniel SSSS, aquí puedes ver algunos de mis trabajos de los últimos años
