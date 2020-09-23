@@ -7,7 +7,7 @@ Me llamo Daniel SSSS, aquí puedes ver algunos de mis trabajos de los últimos a
 
 There are currently two themes built on Poole:
 
-![Sunset Image]({{ site.url }}/assets/Dsk_01inicio_01gestionMIN Copy.png) 
+![Litte cat]({{ site.url }}/assets/littlecat.png) 
 
 - [Hyde](https://hyde.getpoole.com)
 - [Lanyon](https://lanyon.getpoole.com)
