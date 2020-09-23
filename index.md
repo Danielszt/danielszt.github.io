@@ -11,11 +11,9 @@ Me llamo Daniel SSSS y soy UX Writer / Content Designer. Ahora mismo trabajo com
 
 Aquí puedes ver un resumen de algunos de mis trabajos:
 
-- [Project 1]({{ site.baseurl }}/Project1)
-- [Project2]({{ site.baseurl }}/projects/project2)
-- [Lanyon](https://lanyon.getpoole.com)
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+- [Project 1]({{ site.baseurl }}/projects/project1)
+- [Project 2]({{ site.baseurl }}/projects/project2)
+- [Project 3]({{ site.baseurl }}/projects/project2)
 
 
 
