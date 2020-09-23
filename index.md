@@ -4,7 +4,7 @@ title: Hey 👋
 ---
 
 
-###### Switch to [english]({{ site.baseurl }}/Index-en).
+*Switch to [english]({{ site.baseurl }}/Index-en).*
 
 Me llamo Daniel SSSS y soy UX Writer / Content Designer. Ahora mismo trabajo como consultor en TTTT, donde participo en proyectos muy diferentes (banca, energía, educación...). Antes estuve en FFFF, de freelance y en BBBB.
 
