@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1 en
+title: Project1 en
 ---
 
 Project 1 en description
