@@ -13,7 +13,7 @@ Aquí puedes ver un resumen de algunos de mis trabajos:
 
 - [Project 1]({{ site.baseurl }}/projects/project1)
 - [Project 2]({{ site.baseurl }}/projects/project2)
-- [Project 3]({{ site.baseurl }}/projects/project2)
+- [Project 3]({{ site.baseurl }}/projects/project3)
 
 
 
