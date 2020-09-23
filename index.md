@@ -3,6 +3,10 @@ layout: page
 title: Hey 👋
 ---
 
+Switch to [english](https://github.com/poole).
+Switch to [english]({{ site.baseurl }}/Index-en.md).
+Switch to [english]({{ site.baseurl }}/Index-en).
+
 Me llamo Daniel SSSS, aquí puedes ver algunos de mis trabajos de los últimos años
 
 There are currently two themes built on Poole:
