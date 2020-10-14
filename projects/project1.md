@@ -11,6 +11,7 @@ Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quier
 {: .message }
 
 
+
 ## El proyecto
 ------
 Rediseño de la **Intranet** de una multinacional energética presente en más de 15 países. 
