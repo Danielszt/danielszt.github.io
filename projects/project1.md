@@ -12,7 +12,7 @@ Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quier
 
 
 
-
+<br>
 ## El proyecto
 ------
 Rediseño de la **Intranet** de una multinacional energética presente en más de 15 países. 
@@ -27,6 +27,7 @@ Nuestro equipo estuvo compuesto por perfiles de UX, UI, Front, Data y Contenido.
         alt="Cncient Bristlecone Pine Forest, USA"
     >
 </a>
+
 
 
 
