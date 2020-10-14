@@ -19,9 +19,9 @@ El principal reto del proyecto fue centralizar las herramientas de trabajo, la i
 
 Nuestro equipo estuvo compuesto por perfiles de UX, UI, Front, Data y Contenido. Desde la conceptualización del proyecto hasta el lanzamiento del piloto pasaron 6 meses.
 
-<a href="{{ site.baseurl }}/assets/littlecat.png">
+<a href="{{ site.baseurl }}/assets/Intranet1.jpg">
     <img 
-        src="/assets/littlecat.png" 
+        src="/assets/Intranet1.jpg" 
         alt="Cncient Bristlecone Pine Forest, USA"
     >
 </a>
