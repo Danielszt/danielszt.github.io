@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intranet global
+title: ⛽ Intranet global
 ---
 
 Project 1 description
