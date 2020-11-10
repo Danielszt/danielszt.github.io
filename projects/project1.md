@@ -7,7 +7,7 @@ Un ecosistema de trabajo y comunicación a escala global.
 
 
 
-Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a dst.post@gmail.com
+Por confidencialidad, he omitido el nombre del cliente y otra información sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a dst.post@gmail.com
 {: .message }
 
 
@@ -31,7 +31,7 @@ Nuestro equipo estuvo compuesto por perfiles de UX, UI, Front, Data y Contenido.
 
 
 
-
+<br>
 ## Mi rol
 ------
 - Diseñé los **copies** de la interfaz de la nueva Intranet.
