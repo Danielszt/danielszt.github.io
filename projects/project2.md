@@ -30,7 +30,7 @@ Definimos 3 principios que nos guiaron durante los 3 meses que duró el proyecto
 
 
 
-
+<br>
 ## Mi rol
 ------
 - Realicé una **auditoría semántica** que nos permitió adoptar términos claros y consistentes a lo largo del proyecto, eliminando duplicidades.
