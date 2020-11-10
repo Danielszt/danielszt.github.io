@@ -3,7 +3,7 @@ layout: page
 title: ⛽ Intranet global
 ---
 
-Project 1 description
+Creación de un ecosistema de trabajo y comunicación a escala global
 
 
 
