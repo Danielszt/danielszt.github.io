@@ -3,7 +3,7 @@ layout: page
 title: ⛽ Intranet global
 ---
 
-Creación de un ecosistema de trabajo y comunicación a escala global
+Un ecosistema de trabajo y comunicación a escala global.
 
 
 
