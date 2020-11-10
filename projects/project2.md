@@ -3,7 +3,7 @@ layout: page
 title: 💧 Área de cliente para el suministro de agua
 ---
 
-Un área de cliente a la que (casi) te podría apetecer entrar.
+Un área de cliente que te habla claro y de tú a tú.
 
 
 
