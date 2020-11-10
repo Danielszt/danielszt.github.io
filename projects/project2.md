@@ -1,5 +1,38 @@
-# Project 2
+---
+layout: page
+title: 💧 Área de cliente para el suministro de agua
+---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+Un área de cliente a la que (casi) te podría apetecer entrar.
 
------
+
+
+Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a dst.post@gmail.com
+{: .message }
+
+
+
+<br>
+## El proyecto
+------
+Rediseño del **área de clientes** para una empresa de infraestructuras y energía renovable. 
+
+Definimos 3 principios que nos guiaron durante los 3 meses que duró el proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua. 
+
+
+<a href="{{ site.baseurl }}/assets/Project2_image1.jpg">
+    <img 
+        src="/assets/Project2_image1.jpg" 
+        alt="Cncient Bristlecone Pine Forest, USA"
+    >
+</a>
+
+
+
+
+
+## Mi rol
+------
+- Realicé una **auditoría semántica** que nos permitió adoptar términos claros y consistentes a lo largo del proyecto, eliminando duplicidades.
+- Participé en la definición e iteración de la *arquitectura de información*. 
+- Definí los mensajes y la distribución de información para todas las pantallas y procesos. 
