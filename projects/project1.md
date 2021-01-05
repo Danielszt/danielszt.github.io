@@ -31,7 +31,7 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 - Participé en la definición, test e iteración de la **arquitectura de información** (+200 páginas).
 - Diseñé los mensajes del **onboarding** (slider y tooltips) y guiones para **videotutoriales** sobre las nuevas funcionalidades de la Intranet.
 - Creé un **Content Kit** compuesto por una guía de estructura de contenido y una guía de estilo. Fue de gran ayuda tanto para la migración contenido antiguo como para la creación de nuevo contenido.
-
+<br>
 
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
     <img 
@@ -51,10 +51,3 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 *Onboarding: tour*
 
 <br>
-<a href="{{ site.baseurl }}/assets/Intra_4.png" target="_blank">
-    <img 
-        src="/assets/Intra_4.png" 
-        alt="Intra_4"
-    >
-</a>
-*Content kit: estructura de página*
