@@ -2,8 +2,7 @@
 layout: page
 title: 🌐 Intranet global
 ---
-
-
+<br>
 <a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
     <img 
         src="/assets/Intra_1.png" 
@@ -42,7 +41,7 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 </a>
 *Onboarding: slider*
 
-
+<br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
     <img 
         src="/assets/Intra_3.png" 
@@ -51,11 +50,11 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 </a>
 *Onboarding: tour*
 
-
-<a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
+<br>
+<a href="{{ site.baseurl }}/assets/Intra_4.png" target="_blank">
     <img 
-        src="/assets/Intra_3.png" 
-        alt="Intra_3"
+        src="/assets/Intra_4.png" 
+        alt="Intra_4"
     >
 </a>
 *Content kit: estructura de página*
