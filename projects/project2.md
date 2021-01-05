@@ -19,7 +19,7 @@ title: 💧 Área de cliente
 
 <br>
 ## El proyecto
-
+------
 Rediseño del **área de cliente** para una gran empresa de infraestructuras y energía renovable.
 
 El nuevo área de cliente debía mejorar la experiencia de usuario, comunicar claramente y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
