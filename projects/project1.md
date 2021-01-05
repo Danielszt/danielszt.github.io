@@ -2,14 +2,15 @@
 layout: page
 title: 🌐 Intranet global
 ---
-<a href="{{ site.baseurl }}/assets/Intra_1.png">
+
+<a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
     <img 
         src="/assets/Intra_1.png" 
         alt="Intra_1"
     >
 </a>
 
-Por confidencialidad, he omitido el nombre del cliente y algunos detalles sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com)
+Por confidencialidad, he omitido el nombre del cliente y algunos detalles sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
