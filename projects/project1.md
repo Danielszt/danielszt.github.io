@@ -3,6 +3,7 @@ layout: page
 title: 🌐 Intranet global
 ---
 
+
 <a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
     <img 
         src="/assets/Intra_1.png" 
