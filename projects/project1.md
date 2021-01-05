@@ -2,7 +2,12 @@
 layout: page
 title: 🌐 Intranet global
 ---
-
+<a href="{{ site.baseurl }}/assets/Intra_1.png">
+    <img 
+        src="/assets/Intra_1.png" 
+        alt="Intra_1"
+    >
+</a>
 
 Por confidencialidad, he omitido el nombre del cliente y algunos detalles sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com)
 {: .message }
@@ -15,14 +20,6 @@ Por confidencialidad, he omitido el nombre del cliente y algunos detalles sobre 
 Rediseño de la intranet de una multinacional energética presente en más de 15 países. 
 
 La nueva intranet debía centralizar las herramientas de trabajo, la información y la comunicación corporativa en un único ecosistema, que sería accesible para todos los empleados mediante un sistema de permisos y roles.
-
-<a href="{{ site.baseurl }}/assets/Intra_1.png">
-    <img 
-        src="/assets/Intra_1.png" 
-        alt="Intra_1"
-    >
-</a>
-
 
 
 
