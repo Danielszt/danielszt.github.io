@@ -1,13 +1,17 @@
 ---
 layout: page
-title: 💧 Área de cliente para el suministro de agua
+title: 💧 Área de cliente
 ---
 
-Un área de cliente que te habla claro y de tú a tú.
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
+    <img 
+        src="/assets/Acc_1.png" 
+        alt="Acc_1"
+    >
+</a>
 
-
-
-Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a dst.post@gmail.com
+Por confidencialidad, he omitido el nombre del cliente y algunos detalles sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
@@ -15,24 +19,51 @@ Por confidencialidad, he omitido datos e imágenes sobre este proyecto. Si quier
 <br>
 ## El proyecto
 ------
-Rediseño del **área de clientes** para una empresa de infraestructuras y energía renovable. 
+Rediseño del **área de cliente** para una gran empresa de infraestructuras y energía renovable.
 
-Definimos 3 principios que nos guiaron durante los 3 meses que duró el proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua. 
-
-
-<a href="{{ site.baseurl }}/assets/Project2_image1.jpg">
-    <img 
-        src="/assets/Project2_image1.jpg" 
-        alt="Cncient Bristlecone Pine Forest, USA"
-    >
-</a>
-
-
+El nuevo área de cliente debía mejorar la experiencia de usuario, comunicar claramente y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
 
 
 <br>
+<br>
 ## Mi rol
 ------
+- Definí los **copies** para todas las pantallas y procesos, priorizando la información más útil en cada momento de la navegación.
+- Participé en la definición e iteración de la **arquitectura de información**.
 - Realicé una **auditoría semántica** que nos permitió adoptar términos claros y consistentes a lo largo del proyecto, eliminando duplicidades.
-- Participé en la definición e iteración de la *arquitectura de información*. 
-- Definí los mensajes y la distribución de información para todas las pantallas y procesos. 
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_2.png" target="_blank">
+    <img 
+        src="/assets/Acc_2.png" 
+        alt="Acc_2"
+    >
+</a>
+*Vista general de facturas*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_3.png" target="_blank">
+    <img 
+        src="/assets/Acc_3.png" 
+        alt="Acc_3"
+    >
+</a>
+*Confirmación de pago realizado*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_4.png" target="_blank">
+    <img 
+        src="/assets/Acc_4.png" 
+        alt="Acc_4"
+    >
+</a>
+*Empty state: gestiones*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_5.png" target="_blank">
+    <img 
+        src="/assets/Acc_5.png" 
+        alt="Acc_5"
+    >
+</a>
+*Instrucciones para enviar la lectura de contador*
