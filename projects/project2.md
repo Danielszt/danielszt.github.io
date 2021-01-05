@@ -11,7 +11,7 @@ title: 💧 Área de cliente
     >
 </a>
 
-Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
