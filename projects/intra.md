@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌐 Intranet global
+title: Intranet de una multinacional energética
 ---
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
