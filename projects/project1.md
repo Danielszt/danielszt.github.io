@@ -39,7 +39,7 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
         alt="Intra_2"
     >
 </a>
-<*Onboarding: slider*>
+*Onboarding: slider*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
