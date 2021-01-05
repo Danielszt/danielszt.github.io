@@ -23,7 +23,7 @@ Rediseño de la intranet de una multinacional energética presente en más de 15
 La nueva intranet debía centralizar las herramientas de trabajo, la información y la comunicación corporativa en un único ecosistema, que sería accesible para todos los empleados mediante un sistema de permisos y roles.
 
 
-
+<br>
 <br>
 ## Mi rol
 ------
@@ -39,7 +39,7 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
         alt="Intra_2"
     >
 </a>
-*Onboarding: slider*
+<*Onboarding: slider*>
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
