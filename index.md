@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Hey 👋
+title: Muy buenas 👋
 ---
 
 
 *Switch to [english]({{ site.baseurl }}/Index-en).*
 
-Me llamo Daniel SSSS y soy UX Writer / Content Designer. Ahora mismo trabajo como consultor en TTTT, donde participo en proyectos muy diferentes (banca, energía, educación...). Antes estuve en FFFF, de freelance y en BBBB.
+Me llamo Daniel Sáez y soy un UX Writer / Content Designer con más de 5 años de experiencia en contenido y comunicación digital. Me gusta traducir ideas complejas en conceptos simples y ser útil para otros a través de mi trabajo.
+
+Ahora mismo trabajo en [The Cocktail] (https://the-cocktail.com), donde participo en proyectos para empresas de múltiples sectores (energía, banca, educación, etc). Antes estuve en [Fever] (https://feverup.com/), [Buzzial] (https://buzzial.com/) y por mi cuenta (como freelance).
 
 
 Aquí puedes ver un resumen de algunos de mis trabajos:
 
-- [Project 1]({{ site.baseurl }}/projects/project1)
-- [Project 2]({{ site.baseurl }}/projects/project2)
-- [Project 3]({{ site.baseurl }}/projects/project3)
+- [Intranet]({{ site.baseurl }}/projects/project1)
+- [Área de cliente]({{ site.baseurl }}/projects/project2)
+- [Fever]({{ site.baseurl }}/projects/project3)
 
 
 
@@ -26,5 +28,3 @@ Aquí puedes ver un resumen de algunos de mis trabajos:
 </a>
 
 
-
-Learn more and contribute on [GitHub](https://github.com/poole).
