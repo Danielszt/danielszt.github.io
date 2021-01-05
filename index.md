@@ -13,8 +13,8 @@ Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde participo
 
 Aquí puedes ver un resumen de algunos de mis trabajos:
 
+- [Área de cliente]({{ site.baseurl }}/projects/area)
+- [Fever]({{ site.baseurl }}/projects/fever)
 - [Intranet]({{ site.baseurl }}/projects/intra)
-- [Área de cliente]({{ site.baseurl }}/projects/project2)
-- [Fever]({{ site.baseurl }}/projects/project3)
 
 <br>
