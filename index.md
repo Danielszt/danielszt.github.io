@@ -17,14 +17,4 @@ Aquí puedes ver un resumen de algunos de mis trabajos:
 - [Área de cliente]({{ site.baseurl }}/projects/project2)
 - [Fever]({{ site.baseurl }}/projects/project3)
 
-
-
-
-<a href="{{ site.baseurl }}/assets/littlecat.png">
-    <img 
-        src="/assets/littlecat.png" 
-        alt="Cncient Bristlecone Pine Forest, USA"
-    >
-</a>
-
-
+<br>
