@@ -37,9 +37,10 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 <br>
 ## Highlights
 ------
-<br>
+Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyecto.
 
-### Onboarding: slider
+<br>
+#### Onboarding: slider
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
@@ -49,6 +50,7 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
     >
 </a>
 
+<br>
 ### Onboarding: tooltip tour
 
 <br>
