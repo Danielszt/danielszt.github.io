@@ -33,6 +33,13 @@ Durante las primeras semanas definimos, junto a cliente, tres grandes retos que 
 - Participé en la definición e iteración de la **arquitectura de información**.
 - Realicé una **auditoría semántica** que nos permitió adoptar términos claros y consistentes a lo largo del proyecto, eliminando duplicidades.
 
+
+<br>
+<br>
+## Highlights
+------
+Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyecto.
+
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_2.png" target="_blank">
     <img 
