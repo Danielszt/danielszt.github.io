@@ -13,7 +13,7 @@ Me llamo **Daniel Sáez** y soy un **UX Writer / Content Designer** con más de 
 Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde participo en proyectos para empresas de múltiples sectores (energía, banca, educación, etc). Antes estuve en [Fever](https://feverup.com/), en [Buzzial](https://buzzial.com/) y por mi cuenta (como freelance).
 
 <br>
-Aquí puedes ver un resumen de algunos de mis trabajos:
+La mayoría de mis trabajos recientes están bajo acuerdos de confidencialidad. Estos son los que puedo mostrar por aquí:
 
 - [Área de cliente para el suministro de agua]({{ site.baseurl }}/projects/area)
 - [Mi trabajo y evolución en Fever]({{ site.baseurl }}/projects/fever)
