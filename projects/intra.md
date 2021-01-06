@@ -41,6 +41,7 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
 
 <br>
 #### Onboarding: slider
+Slider que aparece la primera vez que el usuario visita la intranet.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
@@ -51,7 +52,8 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
 </a>
 
 <br>
-### Onboarding: tooltip tour
+#### Onboarding: tooltip tour
+Tour disponible la primera vez que el usuario visita la intranet y disponible permanentemente en el menú.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
