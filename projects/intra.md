@@ -46,7 +46,7 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
         alt="Intra_2"
     >
 </a>
-*Onboarding: slider*
+*Barra de favoritos*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
@@ -55,7 +55,7 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
         alt="Intra_3"
     >
 </a>
-*Onboarding: tooltip tour (1)*
+*Onboarding: slider*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_4.png" target="_blank">
@@ -64,6 +64,15 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
         alt="Intra_4"
     >
 </a>
-*Onboarding: tooltip tour (2)*
+*Onboarding: tooltip tour*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Intra_5.png" target="_blank">
+    <img 
+        src="/assets/Intra_5.png" 
+        alt="Intra_5"
+    >
+</a>
+*Slide del "Content Kit" que define la estructura de contenido de un tipo de página*
 
 <br>
