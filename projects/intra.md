@@ -40,18 +40,13 @@ La nueva intranet debía centralizar las herramientas de trabajo, la informació
 Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyecto.
 
 <br>
-#### Onboarding: slider
-
-<br>
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
     <img 
         src="/assets/Intra_2.png" 
         alt="Intra_2"
     >
 </a>
-
-<br>
-#### Onboarding: tooltip tour
+*Onboarding: slider*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
@@ -60,6 +55,7 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
         alt="Intra_3"
     >
 </a>
+*Onboarding: tooltip tour (1)*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_4.png" target="_blank">
@@ -68,5 +64,6 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
         alt="Intra_4"
     >
 </a>
+*Onboarding: tooltip tour (2)*
 
 <br>
