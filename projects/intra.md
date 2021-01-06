@@ -53,6 +53,7 @@ Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyec
 <br>
 #### Onboarding: tooltip tour
 
+<br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
     <img 
         src="/assets/Intra_3.png" 
