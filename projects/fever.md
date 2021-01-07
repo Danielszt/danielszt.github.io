@@ -27,10 +27,10 @@ Rakuten, Atresmedia y Accel son algunos de sus principales [inversores](https://
 ------
 Como parte del equipo de contenido, escribí más de 1000 planes de Fever para España y algunos para Londres y Nueva York. Todos ellos en HTML y a través del CMS interno de Fever.
 
-Siempre intenté cumplir con 2 máximas: 
-
-- El usuario debe entender las características y condiciones del plan sin esfuerzo.
-- Cada plan debe ser único e invitar a la acción, a levantarte del sofá.
+Siempre intenté cumplir con 2 premisas: 
+- Las características y condiciones del plan deben ser claras para que el usuario las entienda sin esfuerzo.
+- La información debe ser escaneable, es decir, que no sea necesario leer todo el texto para entender lo importante.
+- Cada plan debe ser único, atractivo e invitar a la acción. Eso sí, sin ser condescendientes con el usuario.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_2.png" target="_blank">
@@ -46,9 +46,9 @@ Siempre intenté cumplir con 2 máximas:
 ## Guía de estilo
 ------
 
-El equipo de contenido (del que yo formaba parte) estaba compuesto por 9 personas que escribían en 5 idiomas para ciudades de todo el mundo. Sin embargo, aunque con los años se había generado cierto consenso sobre el contenido, no existía ninguna guía o documentación que homogeneizara buenas prácticas o abordara temas como voz, tono, jerarquía, vocabulario o estructura HTML.
+El equipo de contenido (del que yo formaba parte) estaba compuesto por 9 personas que escribían en 5 idiomas para ciudades de todo el mundo. A pesar del gran volumen de contenido generado, y aunque existía cierto consenso en cuanto a buenas prácticas, no había ninguna guía o documentación que las unificara o abordara temas como voz, tono, jerarquía, vocabulario o estructura de HTML.
 
-Convertí la guía de estilo mi proyecto paralelo y, con la ayuda del resto del equipo, en breve lanzamos la versión 1.0.
+Convertí la guía de estilo mi proyecto paralelo y, con la ayuda del resto del equipo, en breve lanzamos la versión 1.0 en Confluence.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_3.png" target="_blank">
@@ -64,9 +64,9 @@ Convertí la guía de estilo mi proyecto paralelo y, con la ayuda del resto del 
 ## Product y UX writing
 ------
 
-Empecé a interesarme por el UX writing y a formarme en él. Poco a poco, empecé a trabajar más estrechamente con el equipo de producto, intentando aplicar lo que iba aprendiendo y evangelizar sobre la importancia del UX en el contenido.
+Tras unos meses en Fever empecé a trabajar más estrechamente con el equipo de producto. Aproveché esta oportunidad para integrar la definición del contenido en el proceso de diseño y evangelizar sobre la importancia del UX writing.
 
-Tras unos meses también asumí el rol de UX writer y comencé a trabajar con el equipo de producto en las nuevas funcionalidades de la app, escribiendo tanto en inglés como en español. También llevé a cabo una revisión de todos los microcopies de la app que sirvió para modificar más de 30 cadenas de texto.
+Asumí el rol de UX writer y comencé a trabajar con el equipo en las nuevas funcionalidades de la app. Además, llevé a cabo una revisión de todos los microcopies de la app que sirvió para modificar más de 30 cadenas de texto. 
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_4.png" target="_blank">
