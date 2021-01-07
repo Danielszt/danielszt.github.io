@@ -22,23 +22,23 @@ title: Área de cliente para el suministro de agua
 ------
 Rediseño del **área de cliente** para una gran empresa de infraestructuras y energía renovable con presencia en más de 65 países.
 
-Tres grandes retos marcaron el día a día y el resultado final del proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
+El reto consistió en rediseñar un área de cliente que empezaba a quedarse a obsoleta y no cumplía con las expectativas y necesidades de los usuarios. Durante la fase de imersión definimos tres principios que nos guiaron durante todo el desarrollo del proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
 
 
 <br>
 <br>
 ## Mi rol
 ------
-- Definí los **copies** para todas las pantallas y procesos, priorizando la información más útil en cada momento de la navegación.
+- Definí la estructura de contenido y los **copies** para todas las pantallas y procesos.
 - Participé en la definición e iteración de la **arquitectura de información**.
-- Realicé una **auditoría semántica** que nos permitió adoptar términos claros y consistentes a lo largo del proyecto, eliminando duplicidades.
+- Creé una **guía de estilo** que incluía recomendaciones de gramática, formatos, abreviaturas y una lista de palabras favoritas (controlled vocabulary).
 
 
 <br>
 <br>
 ## Highlights
 ------
-Aquí puedes ver algunas imágenes que reflejan parte de mi trabajo en el proyecto.
+Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_2.png" target="_blank">
