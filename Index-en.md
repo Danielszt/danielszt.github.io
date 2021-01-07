@@ -1,38 +1,23 @@
 ---
 layout: page
-title: Hello 👋
+title: Hey! 👋
 ---
 
-My name is Daniel SSSS, aquí puedes ver algunos de mis trabajos de los últimos años
 
-There are currently two themes built on Poole:
+*Cambiar a [español]({{ site.baseurl }}/Index-es).*
 
-![Litte cat]({{ site.baseurl }}/assets/littlecat.png) 
+<br>
+My name is **Daniel Sáez**. I'm a **UX Writer / Content Designer** with +5 years of professional writing experience. I like turning complicated ideas into simple concepts and being useful to others through my work.
 
-<a href="{{ site.baseurl }}/assets/littlecat.png">
-    <img 
-        src="/{{ site.baseurl }}/assets/littlecat.png" 
-        alt="Ancient Bristlecone Pine Forest, USA"
-    >
-</a>
+<br>
+Currently I work at [The Cocktail](https://the-cocktail.com/en), where I'm part of the core team in multiple projects. Before I was at [Fever](https://feverup.com/), at [Buzzial](https://buzzial.com/) and working as a freelancer.
 
-<a href="/assets/littlecat.png">
-    <img 
-        src="/assets/littlecat.png" 
-        alt="Bncient Bristlecone Pine Forest, USA"
-    >
-</a>
+<br>
+Here you can see a sample of my work:
 
-<a href="{{ site.baseurl }}/assets/littlecat.png">
-    <img 
-        src="/assets/littlecat.png" 
-        alt="Cncient Bristlecone Pine Forest, USA"
-    >
-</a>
+- [Client area for water supply]({{ site.baseurl }}/projects/area-en)
+- [My time at Fever]({{ site.baseurl }}/projects/fever-en)
+- [Energy multinational's Intranet]({{ site.baseurl }}/projects/intra-en)
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+<br>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
