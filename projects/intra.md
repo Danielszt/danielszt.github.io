@@ -29,7 +29,7 @@ La nueva intranet debía centralizar las **herramientas** de trabajo, la **infor
 ------
 - Definí los **copies** de la interfaz y participé en el **diseño de módulos**, para el que adoptamos un enfoque **content-first**.
 - Participé en la definición, test con usuarios e iteración de la **arquitectura de información** (+250 páginas).
-- Diseñé el **onboarding** para nuevos usuarios, compuesto por un slider, un tour y varios videotutoriales.
+- Diseñé el **onboarding** para nuevos usuarios, compuesto por un slider, un tour con tooltips y varios videotutoriales.
 - Creé un **Content Kit** compuesto por una guía de estructura de contenido y una guía de estilo, que fue de gran ayuda tanto para la migración contenido antiguo como para la creación de nuevo contenido.
 
 
@@ -37,7 +37,7 @@ La nueva intranet debía centralizar las **herramientas** de trabajo, la **infor
 <br>
 ## Highlights
 ------
-Aquí puedes ver algunas pantallas que reflejan parte de mi trabajo en el proyecto.
+Aquí puedes ver algunas pantallas representativas de mi trabajo en el proyecto.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
