@@ -17,7 +17,7 @@ Here you can see a sample of my work:
 
 - [Client area for water supply]({{ site.baseurl }}/projects/area-en)
 - [My time at Fever]({{ site.baseurl }}/projects/fever-en)
-- [Energy multinational's Intranet]({{ site.baseurl }}/projects/intra-en)
+- [Multinational Energy Company's Intranet]({{ site.baseurl }}/projects/intra-en)
 
 <br>
 
