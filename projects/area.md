@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💧 Área de cliente para el suministro de agua
+title: Área de cliente para el suministro de agua
 ---
 
 <br>
@@ -11,7 +11,7 @@ title: 💧 Área de cliente para el suministro de agua
     >
 </a>
 
-🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre el proyecto. Si quieres saber más sobre mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
@@ -22,7 +22,7 @@ title: 💧 Área de cliente para el suministro de agua
 ------
 Rediseño del **área de cliente** para una gran empresa de infraestructuras y energía renovable con presencia en más de 65 países.
 
-Durante las primeras semanas definimos, junto a cliente, tres grandes retos que marcaron todo el desarrollo del proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
+Tres grandes retos marcaron el día a día y el resultado final del proyecto: mejorar la usabilidad, adoptar una comunicación clara y aumentar el conocimiento del usuario sobre su consumo de agua en el hogar.
 
 
 <br>
