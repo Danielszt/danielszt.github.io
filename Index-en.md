@@ -4,7 +4,7 @@ title: Hey! 👋
 ---
 
 
-*Cambiar a [español]({{ site.baseurl }}/Index).*
+*Cambiar a [español](https://danielszt.github.io/).*
 
 <br>
 My name is **Daniel Sáez**. I'm a **UX Writer / Content Designer** with +5 years of professional writing experience. I like turning complicated ideas into simple concepts and being useful to others through my work.
