@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Energy Multinational Company's Intranet
+title: Multinational Energy Company's Intranet
 ---
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
