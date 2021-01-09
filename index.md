@@ -4,7 +4,7 @@ title: Muy buenas 👋
 ---
 
 
-*Switch to [english]({{ site.baseurl }}/Index-en).*
+*Switch to [english]({{ site.baseurl }}/en).*
 
 <br>
 Me llamo **Daniel Sáez** y soy un **UX Writer / Content Designer** con más de 5 años de experiencia en contenido y comunicación digital. ¿Lo que más me gusta de mi trabajo? Traducir ideas complejas en conceptos y palabras útiles para los demás.
