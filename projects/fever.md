@@ -48,7 +48,7 @@ Siempre intenté cumplir con 3 premisas:
 
 Nuestro equipo estaba compuesto por 9 personas que escribían en 5 idiomas para ciudades de todo el mundo. A pesar del gran volumen de contenido generado, y aunque existía cierto consenso en cuanto a buenas prácticas, no había ninguna guía o documentación que las unificara o abordara temas como voz, tono, jerarquía, vocabulario o estructura de HTML.
 
-Propuse encargarme de la creación de una guía de estilo y, con la ayuda del resto del equipo, en breve lanzamos la versión 1.0 en Confluence.
+Para intentar solucionarlo, propuse encargarme de la creación de una guía de estilo. Con la ayuda del resto del equipo, en breve lanzamos la versión 1.0 en Confluence.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_3.png" target="_blank">
