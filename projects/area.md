@@ -75,3 +75,13 @@ Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto
     >
 </a>
 *Instrucciones para enviar la lectura de contador*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_6.png" target="_blank">
+    <img 
+        src="/assets/Acc_6.png" 
+        alt="Acc_6"
+    >
+</a>
+*Activación de factura electrónica*
+
