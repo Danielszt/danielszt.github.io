@@ -10,7 +10,7 @@ title: Muy buenas 👋
 Me llamo **Daniel Sáez** y soy un **UX Writer / Content Designer** con más de 5 años de experiencia en contenido y comunicación digital. ¿Lo que más me gusta de mi trabajo? Traducir ideas complejas en conceptos y palabras útiles para los demás.
 
 <br>
-Ahora mismo trabajo como consultor en [The Cocktail](https://the-cocktail.com), donde soy parte del equipo principal en múltiples proyectos. Antes estuve en [Fever](https://feverup.com/), en [Buzzial](https://buzzial.com/) y por mi cuenta (como freelance).
+Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde formo parte del equipo principal en múltiples proyectos. Antes estuve en [Fever](https://feverup.com/), en [Buzzial](https://buzzial.com/) y por mi cuenta (como freelance).
 
 <br>
 Aquí puedes ver un resumen de algunos de mis trabajos:
