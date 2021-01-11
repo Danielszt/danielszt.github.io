@@ -20,7 +20,7 @@ title: Área de cliente para el suministro de agua
 <br>
 ## El proyecto
 ------
-El reto consistía rediseñar el **área de cliente** de una gran empresa de infraestructuras y energía renovable con presencia en más de 65 países.
+El reto consistía rediseñar el **área de cliente** de una gran empresa de infraestructuras y energía renovable con presencia en más de 65 países. A través de este área, los clientes finales podrían consultar y gestionar todo lo relacionado su consumo de agua en el hogar.
 
 Para ello, y tras una fase de inmersión, definimos tres principios que nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y aumentar el conocimiento del usuario sobre su **consumo de agua** en el hogar.
 
