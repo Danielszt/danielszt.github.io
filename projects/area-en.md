@@ -75,3 +75,12 @@ Below you can see some screens that are representative of my work on the project
     >
 </a>
 *Instructions for sending water meter reading.*
+
+<br>
+<a href="{{ site.baseurl }}/assets/Acc_6.png" target="_blank">
+    <img 
+        src="/assets/Acc_6.png" 
+        alt="Acc_6"
+    >
+</a>
+*e-invoicing activation*
