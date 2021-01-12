@@ -20,20 +20,17 @@ title: Sección de ayuda + contacto para un banco
 <br>
 ## El proyecto
 ------
-Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda al usuario en el proceso de contacto. 
+Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda (tutoriales, FAQs, etc) en el proceso de contacto. 
 
-De esta manera, sería posible:
+De esta manera, mostraríamos el contenido de ayuda en el momento en el que el usuario lo necesita, y no únicamente en una sección estática. Además, esto serviría para priorizar el mejor método de contacto para cada caso y reducir el número de incidencias abiertas en el Centro de Soporte.
 
-- **Optimizar la ayuda ofrecida:** el contenido de ayuda es más efectivo si lo mostramos en momento en el que el usuario lo necesita, no únicamente en una sección estática. Además,  esto nos permite medir su efectividad y optimizarlo.
-- **Priorizar el mejor método de contacto:** la efectividad de cada método de contacto depende del problema y del momento. Por ejemplo, es muy sencillo cambiar el PIN desde la app que solicitarlo por teléfono a u
-- **Reducir las incidencias abiertas:** si el contenido de ayuda resuelve la duda o problema del usuario este ya no necesitará contactar, por lo que disminuirá el número de incidencias abiertas.
 
 <br>
 <br>
 ## Mi rol
 ------
-- Definí la **estructura narrativa**e del flujo y todos los **ecopies**e de la interfaz .
-- Cree una **guía de estilo**e con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
+- Definí la **estructura narrativa** del flujo y todos los **copies**e de la interfaz.
+- Cree una **guía de estilo** con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 
 <br>
@@ -43,19 +40,19 @@ De esta manera, sería posible:
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
 <br>
-<a href="{{ site.baseurl }}/assets/Acc_2.png" target="_blank">
+<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
     <img 
-        src="/assets/Acc_2.png" 
-        alt="Acc_2"
+        src="/assets/Ayuda-y-contacto_1.png" 
+        alt="Ayuda-y-contacto_1"
     >
 </a>
-*Página de facturas*
+*Flujo completo*
 
 <br>
-<a href="{{ site.baseurl }}/assets/Acc_3.png" target="_blank">
+<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
     <img 
-        src="/assets/Acc_3.png" 
-        alt="Acc_3"
+        src="/assets/Ayuda-y-contacto_2.png" 
+        alt="Ayuda-y-contacto_2"
     >
 </a>
-*Confirmación de pago realizado*
+*Fragmento de la guía de estilo*
