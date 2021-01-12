@@ -20,9 +20,9 @@ title: Área de cliente para el suministro de agua
 <br>
 ## El proyecto
 ------
-El reto consistía rediseñar el **área de cliente** de una gran empresa de infraestructuras y energía renovable con presencia en más de 65 países. A través de este área, los clientes finales podrían consultar y gestionar todo lo relacionado su consumo de agua en el hogar.
+El reto consistía rediseñar el **área de cliente** de una empresa de infraestructuras y energía renovable presente en más de 65 países. A través de este área, los usuarios podrían consultar y gestionar todo lo relacionado su consumo de agua en el hogar.
 
-Tras una fase de inmersión, definimos tres principios que nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y aumentar el conocimiento del usuario sobre su **consumo de agua** en el hogar.
+Tras una fase de inmersión, definimos tres principios que nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y ayudar al usuario a entender mejor su **consumo de agua** en el hogar.
 
 
 <br>
@@ -31,12 +31,12 @@ Tras una fase de inmersión, definimos tres principios que nos guiaron durante t
 ------
 - Definí la **estructura de contenido** y los **copies** para todas las pantallas y procesos.
 - Participé en la definición e iteración de la **arquitectura de información**.
-- Creé una **guía de estilo** que incluía recomendaciones de gramática, formatos, abreviaturas y una lista de palabras favoritas (controlled vocabulary).
+- Creé una **guía de estilo** con recomendaciones de gramática, formatos, abreviaturas y una lista de palabras favoritas (controlled vocabulary).
 
 
 <br>
 <br>
-## Highlights
+## Pantallas
 ------
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
@@ -47,7 +47,7 @@ Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto
         alt="Acc_2"
     >
 </a>
-*Vista general de facturas*
+*Página de facturas*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_3.png" target="_blank">
