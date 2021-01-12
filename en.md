@@ -14,6 +14,7 @@ Currently I work at [The Cocktail](https://the-cocktail.com/en), where I'm part 
 <br>
 Here you can see some of my recent work:
 
+- [Help + contact section for a bank]({{ site.baseurl }}/projects/help-and-contact)
 - [Client area for water supply]({{ site.baseurl }}/projects/area-en)
 - [My time at Fever]({{ site.baseurl }}/projects/fever-en)
 - [Energy Company's Intranet]({{ site.baseurl }}/projects/intra-en)
