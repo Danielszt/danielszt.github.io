@@ -2,6 +2,7 @@
 layout: page
 title: Sección de ayuda + contacto para un banco
 ---
+UX Writing / Content design
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
