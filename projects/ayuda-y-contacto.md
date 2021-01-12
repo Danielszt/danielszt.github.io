@@ -4,10 +4,10 @@ title: Sección de ayuda + contacto para un banco
 ---
 
 <br>
-<a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
+<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
     <img 
-        src="/assets/Acc_1.png" 
-        alt="Acc_1"
+        src="/assets/Ayuda-y-contacto_1.png" 
+        alt="Ayuda-y-contacto_1"
     >
 </a>
 
@@ -40,19 +40,19 @@ De esta manera, mostraríamos el contenido de ayuda en el momento en el que el u
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
 <br>
-<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
+<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
     <img 
-        src="/assets/Ayuda-y-contacto_1.png" 
-        alt="Ayuda-y-contacto_1"
+        src="/assets/Ayuda-y-contacto_2.png" 
+        alt="Ayuda-y-contacto_2"
     >
 </a>
 *Flujo completo*
 
 <br>
-<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
+<a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
     <img 
-        src="/assets/Ayuda-y-contacto_2.png" 
-        alt="Ayuda-y-contacto_2"
+        src="/assets/Ayuda-y-contacto_3.png" 
+        alt="Ayuda-y-contacto_3"
     >
 </a>
 *Fragmento de la guía de estilo*
