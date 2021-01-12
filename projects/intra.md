@@ -35,7 +35,7 @@ La nueva intranet debía centralizar las **herramientas** de trabajo, la **infor
 
 <br>
 <br>
-## Highlights
+## Pantallas
 ------
 Aquí puedes ver algunas pantallas representativas de mi trabajo en el proyecto.
 
