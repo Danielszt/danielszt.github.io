@@ -23,14 +23,14 @@ UX Writing / Content design
 ------
 Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda (tutoriales, FAQs, etc) en el proceso de contacto. 
 
-De esta manera, mostraríamos el contenido de ayuda en el momento en el que el usuario lo necesita, y no únicamente en una sección estática. Además, esto serviría para priorizar el mejor método de contacto para cada caso y reducir el número de incidencias abiertas en el Centro de Soporte.
+De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el mejor método de contacto para cada caso. Además, si ayudamos al usuario a resolver su duda o problema, es posible que ya no necesite contactar, lo que se traduciría en menos incidencias. 
 
 
 <br>
 <br>
 ## Mi rol
 ------
-- Definí la **estructura narrativa** del flujo y todos los **copies**e de la interfaz.
+- Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
 - Cree una **guía de estilo** con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 
