@@ -22,3 +22,4 @@ Aquí puedes ver un resumen de algunos de mis trabajos:
 <br>
 📭 Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
 
+
