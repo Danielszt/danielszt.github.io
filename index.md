@@ -14,6 +14,7 @@ Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde formo par
 <br>
 Aquí puedes ver un resumen de algunos de mis trabajos:
 
+- [Sección de ayuda y contacto para un banco]({{ site.baseurl }}/projects/ayuda-y-contacto)
 - [Área de cliente para el suministro de agua]({{ site.baseurl }}/projects/area)
 - [Mi etapa en Fever]({{ site.baseurl }}/projects/fever)
 - [Intranet de una multinacional energética]({{ site.baseurl }}/projects/intra)
