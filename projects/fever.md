@@ -16,7 +16,9 @@ title: 🚀 Fever
 <br>
 ## Sobre Fever
 ------
-[Fever](https://feverup.com/) es una plataforma de ocio con actividad en más de 50 ciudades en todo el mundo. En su marketplace los usuarios pueden encontrar planes de todo tipo, desde fiestas, conciertos y restaurantes hasta planes culturales, de relajación y mucho más.
+[Fever](https://feverup.com/) es una aplicación que ayuda a la gente a encontrar eventos y experienciasen más de 50 ciudades de todo el mundo. 
+
+En su marketplace conviven planes de todo tipo, desde fiestas, conciertos y restaurantes hasta eventos culturales, deportivos y mucho más.
 
 Rakuten, Atresmedia y Accel son algunos de sus principales [inversores](https://techcrunch.com/2019/08/04/data-driven-events-discovery-and-planning-startup-fever-raises-35-million-led-by-rakuten/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDc4r5RQdfQVYfvinZ9bRboLwWg_ZwbNKTnISSmYLqY8nccxegEMMZnaWwmPbdvlQT9TfYxTxHTmBuAjjR3DLBswgL6K0wwa-wmHiUMFefgPwMD6yHzJ_NGMv1EvYqwTBCF1V9mrD0JULIik089aSyz3xBT1W5nT1tD4mokIl_6).
 
@@ -25,7 +27,7 @@ Rakuten, Atresmedia y Accel son algunos de sus principales [inversores](https://
 <br>
 ## Content writing
 ------
-Como parte del equipo de contenido, escribí más de 1000 planes de Fever para España y algunos para Londres y Nueva York. Todos ellos en HTML y a través del CMS interno de Fever.
+Como parte del equipo de contenido, escribí más de 1000 eventos y experiencias de Fever para España y algunos para Londres y Nueva York. Todos ellos en HTML y a través del CMS interno de Fever.
 
 Siempre intenté cumplir con 3 premisas: 
 - Las características del plan deben ser claras, para que el usuario las entienda sin esfuerzo.
@@ -46,7 +48,7 @@ Siempre intenté cumplir con 3 premisas:
 ## Guía de estilo
 ------
 
-Nuestro equipo estaba compuesto por 9 personas que escribían en 5 idiomas para ciudades de todo el mundo. A pesar del gran volumen de contenido generado, y aunque existía cierto consenso en cuanto a buenas prácticas, no había ninguna guía o documentación que las unificara o abordara temas como voz, tono, jerarquía, vocabulario o estructura de HTML.
+Nuestro equipo estaba compuesto por 9 personas que escribían en 5 idiomas para ciudades de todo el mundo. A pesar del gran volumen de contenido generado, y aunque existía cierto consenso en cuanto a buenas prácticas, no existía documentación que las unificara o abordara temas como voz, tono, jerarquía, vocabulario o estructura de HTML.
 
 Para intentar solucionarlo, propuse encargarme de la creación de una guía de estilo. Con la ayuda del resto del equipo, en breve lanzamos la versión 1.0 en Confluence.
 
