@@ -2,8 +2,9 @@
 layout: page
 title: Sección de ayuda + contacto para un banco
 ---
-Cliente confidencial (sector banca)
+Cliente confidencial (sector banca)<br>
 `<UX writing>`,`<Content design>`
+Specify `ga_analytics` in your `_config.yml` and restart
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
