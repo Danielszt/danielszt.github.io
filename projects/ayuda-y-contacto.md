@@ -2,7 +2,8 @@
 layout: page
 title: Sección de ayuda + contacto para un banco
 ---
-UX Writing / Content design
+Cliente confidencial (sector banca)
+`<UX writing>`,`<Content design>`
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
@@ -19,8 +20,8 @@ UX Writing / Content design
 
 
 <br>
-## El proyecto
-------
+# El proyecto
+
 Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda (tutoriales, FAQs, etc) en el proceso de contacto. 
 
 De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el mejor método de contacto para cada caso. Además, si ayudamos al usuario a resolver su duda o problema, es posible que ya no necesite contactar, lo que se traduciría en menos incidencias. 
@@ -28,16 +29,16 @@ De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el
 
 <br>
 <br>
-## Mi rol
-------
+# Mi rol
+
 - Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
 - Cree una **guía de estilo** con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 
 <br>
 <br>
-## Pantallas
-------
+# Pantallas
+
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
 <br>
