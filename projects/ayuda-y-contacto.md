@@ -60,13 +60,8 @@ Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto
 
 <br>
 
-📬 **¿Hablamos?** Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
 {: .message }
 
 <br>
 
-## ¿Hablamos?
-Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
-{: .message }
-
-<br>
