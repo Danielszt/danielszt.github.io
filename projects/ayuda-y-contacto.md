@@ -57,3 +57,16 @@ Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto
     >
 </a>
 *Fragmento de la guía de estilo*
+
+<br>
+
+📬 **¿Hablamos?** Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+{: .message }
+
+<br>
+
+## ¿Hablamos?
+Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+{: .message }
+
+<br>
