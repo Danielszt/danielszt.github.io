@@ -3,8 +3,6 @@ layout: page
 title: Sección de ayuda + contacto para un banco
 ---
 Cliente confidencial (sector banca)<br>
-`<UX writing>`,`<Content design>`
-Specify `ga_analytics` in your `_config.yml` and restart
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
@@ -31,7 +29,7 @@ De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el
 <br>
 <br>
 # Mi rol
-
+----
 - Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
 - Cree una **guía de estilo** con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
@@ -39,7 +37,7 @@ De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el
 <br>
 <br>
 ## Pantallas
-
+----
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
 <br>
