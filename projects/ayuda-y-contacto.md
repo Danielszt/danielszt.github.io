@@ -2,7 +2,7 @@
 layout: page
 title: Sección de ayuda + contacto para un banco
 ---
-Cliente confidencial (sector banca)<br>
+UX Writing / Content Design<br>
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_1.png" target="_blank">
@@ -12,7 +12,7 @@ Cliente confidencial (sector banca)<br>
     >
 </a>
 
-🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más detalles sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
@@ -21,9 +21,11 @@ Cliente confidencial (sector banca)<br>
 <br>
 # El proyecto
 ----
-Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda (tutoriales, FAQs, etc) en el proceso de contacto. 
+Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a resolver las dudas y problemas más frecuentes. De esta manera, reduciría el número de incidencias, emails y llamadas al call center.
 
-De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el mejor método de contacto para cada caso. Además, si ayudamos al usuario a resolver su duda o problema, es posible que ya no necesite contactar, lo que se traduciría en menos incidencias. 
+Para ello, integramos el contenido de ayuda en el proceso para contactar con el banco. ¿Cómo lo hicimos? Diseñando un flujo que muestra el contenido de ayuda específico y el mejor método de contacto para cada duda o problema. 
+
+Así logramos anticiparnos y que muchos usuarios que estaban dispuestos a contactar ya no necesiten hacerlo. Y, los que sí, podrán hacerlo utilizando el método más eficiente para su consulta.
 
 
 <br>
