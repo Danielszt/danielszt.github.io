@@ -21,11 +21,11 @@ UX Writing / Content Design<br>
 <br>
 # El proyecto
 ----
-Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a resolver las dudas y problemas más frecuentes. De esta manera, reduciría el número de incidencias, emails y llamadas al call center.
+Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**. De esta manera, reduciría el número de incidencias, emails y llamadas al call center.
 
-Para ello, integramos el contenido de ayuda en el proceso para contactar con el banco. ¿Cómo lo hicimos? Diseñando un flujo que muestra el contenido de ayuda específico y el mejor método de contacto para cada duda o problema. 
+Para ello, **integramos el contenido de ayuda en el proceso para contactar con el banco**. ¿Cómo lo hicimos? Diseñando un flujo que muestra el contenido de ayuda específico y el mejor método de contacto para cada duda o problema. 
 
-Así logramos anticiparnos y que muchos usuarios que estaban dispuestos a contactar ya no necesiten hacerlo. Y, los que sí, podrán hacerlo utilizando el método más eficiente para su consulta.
+Así logramos anticiparnos y que muchos usuarios que estaban dispuestos a contactar ya no necesiten hacerlo. Y, los que sí, podrán utilizar el método más eficiente para su consulta.
 
 
 <br>
