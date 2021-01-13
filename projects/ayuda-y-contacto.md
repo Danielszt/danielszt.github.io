@@ -22,7 +22,7 @@ Specify `ga_analytics` in your `_config.yml` and restart
 
 <br>
 # El proyecto
-
+----
 Nuestro cliente (un gran banco) necesitaba una solución de diseño que integrara su contenido de ayuda (tutoriales, FAQs, etc) en el proceso de contacto. 
 
 De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el mejor método de contacto para cada caso. Además, si ayudamos al usuario a resolver su duda o problema, es posible que ya no necesite contactar, lo que se traduciría en menos incidencias. 
@@ -38,7 +38,7 @@ De esta manera, podríamos mostrar contenido de ayuda específico y priorizar el
 
 <br>
 <br>
-# Pantallas
+## Pantallas
 
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
