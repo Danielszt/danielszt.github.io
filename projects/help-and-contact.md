@@ -33,7 +33,7 @@ This way, we managed to reduce the number of incoming calls, emails and new tick
 <br>
 ## The design
 ----
-After testing some copies and design variations with Hotjar, this was the final design.
+After testing some copies and design variations with Hotjar, this was the final design:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
@@ -42,7 +42,9 @@ After testing some copies and design variations with Hotjar, this was the final 
         alt="Ayuda-y-contacto_2"
     >
 </a>
-*The complete flow in mobile*
+<br>
+
+This is a fragment of the style guide:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
@@ -51,7 +53,6 @@ After testing some copies and design variations with Hotjar, this was the final 
         alt="Ayuda-y-contacto_3"
     >
 </a>
-*Style guide fragment*
 
 <br>
 
