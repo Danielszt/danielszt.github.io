@@ -11,13 +11,12 @@ Me llamo **Daniel Sáez** y soy un **UX Writer / Content Designer** con más de 
 
 Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde formo parte del equipo principal en múltiples proyectos. Antes estuve en [Fever](https://feverup.com/), en [Buzzial](https://buzzial.com/) y por mi cuenta (como freelance).
 
-<br>
 Aquí puedes ver un resumen de algunos de mis trabajos:
 
-- [Flujo de ayuda y contacto de un banco]({{ site.baseurl }}/projects/ayuda-y-contacto)
+- [Flujo de ayuda y contacto para un banco]({{ site.baseurl }}/projects/ayuda-y-contacto)
 - [Área de cliente para el consumo de agua en el hogar]({{ site.baseurl }}/projects/area)
 - [Mi etapa en Fever]({{ site.baseurl }}/projects/fever)
-- [Intranet de una multinacional energética]({{ site.baseurl }}/projects/intra)
+- [Intranet para una multinacional energética]({{ site.baseurl }}/projects/intra)
 
 <br>
 📭 Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
