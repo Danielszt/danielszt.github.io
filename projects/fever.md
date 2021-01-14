@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚀 Mi etapa en Fever
+title: Mi etapa en Fever
 ---
 Copywriting / UX writing<br>
 
