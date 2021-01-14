@@ -53,6 +53,9 @@ This is a fragment of the style guide:
         alt="Ayuda-y-contacto_3"
     >
 </a>
+<br>
+
+[Next project ⭢](https://danielszt.github.io/projects/area-en/)
 
 <br>
 
