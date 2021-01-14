@@ -21,11 +21,11 @@ UX Writing / Content Design<br>
 <br>
 ## El proyecto
 ----
-Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**.
+Nuestro cliente (un gran banco) quería ayudar a sus usuarios a **resolver las dudas y problemas más frecuentes** de forma más eficiente.
 
-Para ello, diseñamos un flujo que muestra **contenido de ayuda** específico y el **mejor método de contacto** para cada consulta, previa selección del usuario. 
+Para ello, diseñamos un flujo donde el usuario selecciona el motivo de contacto y le mostramos **contenido de ayuda** específico y el **mejor método de contacto** para su consulta.
 
-Así logramos reducir el número de llamadas y tickets abiertos en el centro de ayuda.
+Así logramos reducir el número de emails, llamadas recibidas y tickets abiertos en el centro de ayuda.
 
 
 <br>
@@ -38,9 +38,9 @@ Así logramos reducir el número de llamadas y tickets abiertos en el centro de 
 
 <br>
 <br>
-## Pantallas
+## El diseño
 ----
-Aquí puedes ver el diseño final.
+Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el diseño final:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
@@ -49,7 +49,7 @@ Aquí puedes ver el diseño final.
         alt="Ayuda-y-contacto_2"
     >
 </a>
-*Flujo completo*
+*Flujo completo en mobile*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
