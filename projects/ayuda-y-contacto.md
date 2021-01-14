@@ -38,6 +38,7 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 ----
 Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el diseño final:
 
+<br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
     <img 
         src="/assets/Ayuda-y-contacto_2.png" 
@@ -48,6 +49,7 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
 
 Este es un fragmento de la guía de estilo:
 
+<br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
     <img 
         src="/assets/Ayuda-y-contacto_3.png" 
