@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Client area for water supply
+title: Client area for domestic water use
 ---
+UX Writing / Content Design<br>
 
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
