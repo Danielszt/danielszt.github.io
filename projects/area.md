@@ -15,9 +15,6 @@ UX Writing / Content Design<br>
 🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más información sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
-
-
-
 <br>
 ## El proyecto
 ------
@@ -25,8 +22,6 @@ El reto consistía rediseñar el **área de cliente** de una empresa de infraest
 
 Tras una fase de inmersión, definimos tres principios que nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y ayudar al usuario a entender mejor su **consumo de agua** en el hogar.
 
-
-<br>
 <br>
 ## Mi rol
 ------
@@ -35,7 +30,6 @@ Tras una fase de inmersión, definimos tres principios que nos guiaron durante t
 - Creé una **guía de estilo** con recomendaciones de gramática, formatos, abreviaturas y una lista de palabras favoritas (controlled vocabulary).
 
 
-<br>
 <br>
 ## Pantallas
 ------
@@ -85,4 +79,9 @@ Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto
     >
 </a>
 *Activación de factura electrónica*
+<br>
 
+📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+{: .message }
+
+<br>
