@@ -25,7 +25,7 @@ Our client (a large bank) wanted to improve how they help users solve the **most
 
 To achieve that, we designed a flow that shows **specific help content** and the **best contact method** for each contact reason.
 
-This way, we reduced the number of incoming calls and new tickets in our client's help center.
+This way, we managed to reduce the number of incoming calls, emails and new tickets in our client's help center.
 
 <br>
 ## My role
