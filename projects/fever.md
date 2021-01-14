@@ -2,6 +2,7 @@
 layout: page
 title: 🚀 Mi etapa en Fever
 ---
+Copywriting / UX writing<br>
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_1.png" target="_blank">
