@@ -55,6 +55,8 @@ This is a fragment of the style guide:
 </a>
 <br>
 <div style="text-align: right"> <a href="https://danielszt.github.io/projects/area-en/">Next project ⭢</a></div>
+
+<br>
 <br>
 📬 **Let's talk!** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
 {: .message }
