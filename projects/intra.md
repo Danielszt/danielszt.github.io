@@ -24,8 +24,6 @@ Rediseño de la **intranet** de una multinacional energética presente en más d
 
 La nueva intranet debía centralizar las **herramientas** de trabajo, la **información** y la **comunicación corporativa** en un único ecosistema. Este sería accesible para todos los empleados mediante un sistema de permisos y roles.
 
-
-<br>
 <br>
 ## Mi rol
 ------
@@ -34,8 +32,6 @@ La nueva intranet debía centralizar las **herramientas** de trabajo, la **infor
 - Diseñé el **onboarding** para nuevos usuarios, compuesto por un slider, un tour con tooltips y varios videotutoriales.
 - Creé un **Content Kit** compuesto por una guía de estructura de contenido y una guía de estilo, que fue de gran ayuda tanto para la migración contenido antiguo como para la creación de nuevo contenido.
 
-
-<br>
 <br>
 ## Pantallas
 ------
@@ -76,5 +72,9 @@ Aquí puedes ver algunas pantallas representativas de mi trabajo en el proyecto.
     >
 </a>
 *Slide del "Content Kit" que define la estructura de contenido de un tipo de página*
+<br>
+
+📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+{: .message }
 
 <br>
