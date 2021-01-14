@@ -21,7 +21,7 @@ UX Writing / Content Design<br>
 <br>
 ## El proyecto
 ----
-Nuestro cliente (un gran banco) quería ayudar a sus usuarios a **resolver las dudas y problemas más frecuentes** de forma más eficiente.
+Nuestro cliente (un gran banco) quería mejorar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**.
 
 Para ello, diseñamos un flujo donde el usuario selecciona el motivo de contacto y le mostramos **contenido de ayuda** específico y el **mejor método de contacto** para su consulta.
 
