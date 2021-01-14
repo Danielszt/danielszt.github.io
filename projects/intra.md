@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Intranet de una multinacional energética
+title: Intranet para una multinacional energética
 ---
+UX Writing / Content Design<br>
+
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_1.png" target="_blank">
     <img 
