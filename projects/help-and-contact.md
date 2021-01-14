@@ -12,7 +12,7 @@ UX Writing / Content Design<br>
     >
 </a>
 
-🕵️ Due to confidentiality reasons, I can't publish the client's name or more specific information about this project. If you want to know more about my work process write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}.
+🕵️ Due to confidentiality reasons, I can't publish the client's name or more specific info about this project. If you want to know more about my work process write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}.
 {: .message }
 
 
