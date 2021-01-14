@@ -18,9 +18,9 @@ UX Writing / Content Design<br>
 <br>
 ## El proyecto
 ------
-El reto consistía rediseñar el **área de cliente** de una empresa de infraestructuras y energía renovable presente en más de 65 países. A través de este área, los usuarios podrían consultar y gestionar todo lo relacionado su consumo de agua en el hogar.
+El reto consistió en rediseñar el **área de cliente** de una empresa de infraestructuras y energía renovable presente en más de 65 países. A través del área de cliente, los usuarios podrían consultar y gestionar todo lo relacionado su consumo de agua en el hogar.
 
-Tras una fase de inmersión, definimos tres principios que nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y ayudar al usuario a entender mejor su **consumo de agua** en el hogar.
+Tres principios nos guiaron durante todo el proyecto: mejorar la **usabilidad**, adoptar una **comunicación clara** y ayudar al usuario a entender mejor su **consumo de agua**.
 
 <br>
 ## Mi rol
