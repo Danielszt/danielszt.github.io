@@ -12,7 +12,7 @@ UX Writing / Content Design<br>
     >
 </a>
 
-🕵️ Un acuerdo de confidencialidad me impide mostrar el nombre del cliente y más detalles sobre este proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
+🕵️ Por razones de confidencialidad no puedo mostrar el nombre del cliente ni otros detalles sobre el proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
 {: .message }
 
 
