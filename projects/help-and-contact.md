@@ -56,6 +56,7 @@ This is a fragment of the style guide:
 <br>
 
 [Next project ⭢](https://danielszt.github.io/projects/area-en/)
+<div style="text-align: right"> your-text-here </div>
 
 <br>
 
