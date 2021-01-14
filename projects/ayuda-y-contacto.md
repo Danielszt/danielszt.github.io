@@ -27,8 +27,6 @@ Para ello, diseñamos un flujo donde el usuario selecciona el motivo de contacto
 
 Así logramos reducir el número de emails, llamadas recibidas y tickets abiertos en el centro de ayuda.
 
-
-<br>
 <br>
 ## Mi rol
 ----
@@ -36,7 +34,6 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 - Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 
-<br>
 <br>
 ## El diseño
 ----
