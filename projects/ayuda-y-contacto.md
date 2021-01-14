@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sección de ayuda + contacto para un banco
+title: Flujo de ayuda y contacto para un banco
 ---
 UX Writing / Content Design<br>
 
@@ -19,28 +19,28 @@ UX Writing / Content Design<br>
 
 
 <br>
-# El proyecto
+## El proyecto
 ----
-Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**. De esta manera, reduciría el número de incidencias, emails y llamadas al call center.
+Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**. Así reduciría el número de emails y llamadas en su call center.
 
 Para ello, **integramos el contenido de ayuda en el proceso para contactar con el banco**. ¿Cómo lo hicimos? Diseñando un flujo que muestra el contenido de ayuda específico y el mejor método de contacto para cada consulta. 
 
-Así logramos anticiparnos y que muchos usuarios que estaban dispuestos a contactar ya no necesiten hacerlo. Y, los que sí, podrán utilizar el método más eficiente para su caso.
+Así logramos que muchos usuarios sean capaces de resolver sus dudas sin necesidad de contactar con el banco. Y, cuando sí necesiten hacerlo, tengan a mano en método más eficiente para su casa
 
 
 <br>
 <br>
-# Mi rol
+## Mi rol
 ----
 - Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
-- Cree una **guía de estilo** con buenas prácticas para el contenido dinámico. También definí pautas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
+- Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 
 <br>
 <br>
 ## Pantallas
 ----
-Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
+Aquí puedes ver el diseño final.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
