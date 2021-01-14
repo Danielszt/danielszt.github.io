@@ -20,6 +20,6 @@ You can see some of my recent work here:
 - [Intranet for an energy company]({{ site.baseurl }}/projects/intra-en)
 
 <br>
-📭 You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
+📭 **Let's talk!** Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
 
 
