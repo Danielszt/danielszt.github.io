@@ -2,6 +2,7 @@
 layout: page
 title: 🚀 My time at Fever
 ---
+From copywriting to UX Writing<br>
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_1.png" target="_blank">
