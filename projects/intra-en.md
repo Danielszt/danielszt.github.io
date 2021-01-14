@@ -15,16 +15,13 @@ UX Writing / Content Design<br>
 🕵️ Due to confidentiality reasons, I can’t publish the client’s name or more specific information about this project. If you want to know more about my work process write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}.
 {: .message }
 
-
-
 <br>
-## El proyecto
+## The project
 ------
 Creation of the **new intranet** of a multinational energy and gas company present in more than 15 countries. 
 
 The main challenge was to centralize the **work tool**s, the **company information** and **corporate communication** in a single ecosystem.
 
-<br>
 <br>
 ## My role
 ------
@@ -33,12 +30,10 @@ The main challenge was to centralize the **work tool**s, the **company informati
 - I designed the **onboarding** for new users, formed by a slider, a tour with tooltips, and video tutorials.
 - I created a **content structure and style guide** that was very helpful for both the migration of old content and the creation of the new one.
 
-
-<br>
 <br>
 ## Highlights
 ------
-Below you can see some screens that are representative of my work on the project.
+These are some representative screens of the project. Take them as writing samples :)
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_2.png" target="_blank">
@@ -47,7 +42,7 @@ Below you can see some screens that are representative of my work on the project
         alt="Intra_2"
     >
 </a>
-*Barra de favoritos*
+*Favorites bar*
 
 <br>
 <a href="{{ site.baseurl }}/assets/Intra_3.png" target="_blank">
@@ -75,5 +70,10 @@ Below you can see some screens that are representative of my work on the project
     >
 </a>
 *Content kit slide: page structure*
+
+<br>
+
+📬 **Let's talk!** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+{: .message }
 
 <br>
