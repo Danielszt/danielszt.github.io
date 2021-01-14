@@ -45,8 +45,9 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
         alt="Ayuda-y-contacto_2"
     >
 </a>
-*Flujo completo en mobile*
+<br>
 
+Este es un fragmento de la guía de estilo:
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
     <img 
@@ -54,7 +55,6 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
         alt="Ayuda-y-contacto_3"
     >
 </a>
-*Fragmento de la guía de estilo*
 <br>
 
 📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
