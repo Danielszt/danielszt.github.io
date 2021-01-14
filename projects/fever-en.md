@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚀 My time at Fever
+title: My time at Fever
 ---
 From copywriting to UX Writing<br>
 
@@ -12,8 +12,6 @@ From copywriting to UX Writing<br>
     >
 </a>
 
-
-
 <br>
 ## About Fever
 ------
@@ -21,8 +19,6 @@ From copywriting to UX Writing<br>
 
 Rakuten, Atresmedia and Accel are some of its main[investors](https://techcrunch.com/2019/08/04/data-driven-events-discovery-and-planning-startup-fever-raises-35-million-led-by-rakuten/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDc4r5RQdfQVYfvinZ9bRboLwWg_ZwbNKTnISSmYLqY8nccxegEMMZnaWwmPbdvlQT9TfYxTxHTmBuAjjR3DLBswgL6K0wwa-wmHiUMFefgPwMD6yHzJ_NGMv1EvYqwTBCF1V9mrD0JULIik089aSyz3xBT1W5nT1tD4mokIl_6).
 
-
-<br>
 <br>
 ## Content writing
 ------
@@ -41,8 +37,6 @@ I always tried to follow 3 principles:
     >
 </a>
 
-
-<br>
 <br>
 ## Style guide
 ------
@@ -59,8 +53,6 @@ To try to solve this, I proposed to take charge of creating a style guide. With 
     >
 </a>
 
-
-<br>
 <br>
 ## Product y UX writing
 ------
@@ -76,4 +68,9 @@ Soon I assumed the role of UX writer and started working with the team on the ne
         alt="Fev_4"
     >
 </a>
+<br>
+
+📬 **Let's talk!** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+{: .message }
+
 <br>
