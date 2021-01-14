@@ -33,7 +33,6 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 - Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
 - Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
-
 <br>
 ## El diseño
 ----
@@ -56,7 +55,6 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
     >
 </a>
 *Fragmento de la guía de estilo*
-
 <br>
 
 📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
