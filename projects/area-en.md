@@ -32,7 +32,7 @@ To this end, and after some research, we defined three principles that guided us
 <br>
 ## Highlights
 ------
-These are some representative screens of contribution to the project.
+These are some representative screens of the project. Take them as writing samples :)
 
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_2.png" target="_blank">
