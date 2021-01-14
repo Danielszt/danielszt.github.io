@@ -23,7 +23,7 @@ UX Writing / Content Design<br>
 ----
 Nuestro cliente (un gran banco) quería optimizar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**.
 
-Para ello, diseñamos un flujo que relaciona el **contenido de ayuda** específico y el **mejor método de contacto** para cada motivo de consulta.
+Para ello, diseñamos un flujo en el que el usuario selecciona el motivo de contacto y le mostramos el **contenido de ayuda** específico y el **mejor método de contacto** para su caso.
 
 Así logramos reducir el número de llamadas y tickets abiertos en el centro de ayuda.
 
