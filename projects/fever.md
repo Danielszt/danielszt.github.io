@@ -12,8 +12,6 @@ Copywriting / UX writing<br>
     >
 </a>
 
-
-
 <br>
 ## Sobre Fever
 ------
@@ -23,8 +21,6 @@ En su marketplace conviven planes de todo tipo, desde fiestas, conciertos y rest
 
 Rakuten, Atresmedia y Accel son algunos de sus principales [inversores](https://techcrunch.com/2019/08/04/data-driven-events-discovery-and-planning-startup-fever-raises-35-million-led-by-rakuten/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDc4r5RQdfQVYfvinZ9bRboLwWg_ZwbNKTnISSmYLqY8nccxegEMMZnaWwmPbdvlQT9TfYxTxHTmBuAjjR3DLBswgL6K0wwa-wmHiUMFefgPwMD6yHzJ_NGMv1EvYqwTBCF1V9mrD0JULIik089aSyz3xBT1W5nT1tD4mokIl_6).
 
-
-<br>
 <br>
 ## Content writing
 ------
@@ -43,8 +39,6 @@ Siempre intenté cumplir con 3 premisas:
     >
 </a>
 
-
-<br>
 <br>
 ## Guía de estilo
 ------
@@ -61,8 +55,6 @@ Para intentar solucionarlo, propuse encargarme de la creación de una guía de e
     >
 </a>
 
-
-<br>
 <br>
 ## Product y UX writing
 ------
@@ -78,4 +70,9 @@ Asumí el rol de UX writer y comencé a trabajar con el equipo en las nuevas fun
         alt="Fev_4"
     >
 </a>
+<br>
+
+📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+{: .message }
+
 <br>
