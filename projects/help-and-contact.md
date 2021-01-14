@@ -58,7 +58,7 @@ After testing some copies and design variations with Hotjar, this was the final 
 
 <br>
 
-📬 **¿Hablamos?** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+📬 **Let's talk!** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
 {: .message }
 
 <br>
