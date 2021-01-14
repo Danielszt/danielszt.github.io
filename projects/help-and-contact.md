@@ -20,7 +20,7 @@ UX Writing / Content Design<br>
 ----
 Our client (a large bank) wanted to improve how they help users solve the **most frequent issues and questions**.
 
-To achieve that, we designed a flow that shows **specific help content** and the **best contact method** for each contact reason.
+To achieve that, we designed a flow that shows **specific help content** and the **best contact method** when the user selects the contact reason.
 
 This way, we managed to reduce the number of incoming calls, emails and new tickets in our client's help center.
 
