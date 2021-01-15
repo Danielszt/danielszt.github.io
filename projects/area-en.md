@@ -79,6 +79,7 @@ These are some representative screens of the project. Take them as writing sampl
 </a>
 *e-invoicing activation*
 <br>
+<br>
 
 📬 **Let's talk!** You can write to me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
 {: .message }
