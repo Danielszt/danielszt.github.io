@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flujo de ayuda y contacto para Banco Santander
+title: Sección de ayuda y contacto para Banco Santander
 ---
 UX Writing / Content Design<br>
 
@@ -24,13 +24,13 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 <br>
 ## Mi rol
 ----
-- Definí la **estructura narrativa** del flujo y todos los **copies** de la interfaz.
-- Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
+- Definí la **estructura narrativa** del flujo y redacté todos los **copies** de la interfaz.
+- Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda (dinámico) al nuevo formato, garantizando la claridad, consistencia y escalabilidad.
 
 <br>
 ## El resultado
 ----
-Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el resultado. Puedes ver el MVP live [aquí](https://test.test.com) 
+Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el MVP:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
@@ -41,7 +41,7 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
 </a>
 <br>
 
-Este es un fragmento de la guía de estilo:
+Gran parte del éxito del proyecto dependía de la claridad y efectividad del contenido de ayuda. Por eso, la guía de estilo tuvo un papel muy importante en el proyecto. Aquí puedes ver un fragmento:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
