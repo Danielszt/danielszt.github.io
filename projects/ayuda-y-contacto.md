@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flujo de ayuda y contacto para un banco
+title: Flujo de ayuda y contacto para Banco Santander
 ---
 UX Writing / Content Design<br>
 
@@ -12,20 +12,14 @@ UX Writing / Content Design<br>
     >
 </a>
 
-🕵️ Por razones de confidencialidad no puedo mostrar el nombre del cliente ni otros detalles sobre el proyecto. Si quieres conocer mi proceso de trabajo escríbeme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"}
-{: .message }
-
-
-
-
 <br>
 ## El proyecto
 ----
-Nuestro cliente (un gran banco) quería mejorar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**.
+Banco Santander quería mejorar la forma en la que ayuda a sus usuarios a **resolver las dudas y problemas más frecuentes**.
 
 Para ello, diseñamos un flujo donde el usuario selecciona el motivo de contacto y le mostramos **contenido de ayuda** específico y el **mejor método de contacto** para su consulta.
 
-Así logramos reducir el número de emails, llamadas recibidas y tickets abiertos en el centro de ayuda.
+Así logramos reducir el número de emails, llamadas recibidas y tickets abiertos en el centro de ayuda del banco.
 
 <br>
 ## Mi rol
@@ -34,9 +28,9 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 - Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda al nuevo formato garantizando la claridad, consistencia y escalabilidad.
 
 <br>
-## El diseño
+## El resultado
 ----
-Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el diseño final:
+Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el resultado. Puedes ver el MVP live [aquí](https://test.test.com) 
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
