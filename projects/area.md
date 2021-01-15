@@ -5,7 +5,7 @@ title: Área de cliente para el consumo de agua
 *UX Writing / Content Design*<br>
 <br>
 
-🕵️ Este cliente es confidencial
+🕵️ Por razones de confidencialidad no puedo mostrar el nombre del cliente.
 {: .message }
 
 
