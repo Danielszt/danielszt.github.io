@@ -2,9 +2,9 @@
 layout: page
 title: Área de cliente para el consumo de agua
 ---
-🕵️ Cliente confidencial<br>
 *UX Writing / Content Design*<br>
-
+<br>
+🕵️ Cliente confidencial{: .message }
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
     <img 
