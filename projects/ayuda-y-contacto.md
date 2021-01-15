@@ -30,7 +30,7 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 <br>
 ## El resultado
 ----
-Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el MVP:
+Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el MVP a implementar:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
@@ -41,7 +41,7 @@ Después de testear algunas variaciones de copies y estructuras con Hotjar, este
 </a>
 <br>
 
-Gran parte del éxito del proyecto dependía de la claridad y efectividad del contenido de ayuda. Por eso, la guía de estilo tuvo un papel muy importante en el proyecto. Aquí puedes ver un fragmento:
+Gran parte del éxito del proyecto dependía de la claridad y efectividad del contenido de ayuda. Por eso, la guía de estilo tuvo un papel muy importante. Aquí puedes ver un fragmento:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_3.png" target="_blank">
