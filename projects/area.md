@@ -5,10 +5,9 @@ title: Área de cliente para el consumo de agua
 *UX Writing / Content Design*<br>
 <br>
 
-🕵️ Cliente confidencial
+🕵️ Por razones de confidencialidad no puedo mostrar el nombre del cliente.
 {: .message }
 
-<br>
 <br>
 <a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
     <img 
