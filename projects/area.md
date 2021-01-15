@@ -8,7 +8,7 @@ title: Área de cliente para el consumo de agua
 🕵️ Por razones de confidencialidad no puedo mostrar el nombre del cliente.
 {: .message }
 
-<br>
+
 <a href="{{ site.baseurl }}/assets/Acc_1.png" target="_blank">
     <img 
         src="/assets/Acc_1.png" 
