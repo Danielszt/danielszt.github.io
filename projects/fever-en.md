@@ -43,7 +43,7 @@ I always tried to follow 3 principles:
 
 Our team was composed of 9 people who wrote in 5 languages for many cities around the world. Despite the large volume of content generated everyday, there was no documentation that unified them or addressed topics such as voice, tone, hierarchy, vocabulary or HTML structure.
 
-To try to solve this, I proposed to take charge of creating a style guide. With the help of the rest of the team, we will soon launch version 1.0 in Confluence.
+To try to solve this, I took the lead in creating a style guide. With the help of the team, we launched a the 1.0 version in Confluence in one month.
 
 <br>
 <a href="{{ site.baseurl }}/assets/Fev_3.png" target="_blank">
