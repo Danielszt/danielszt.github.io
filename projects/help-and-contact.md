@@ -19,7 +19,7 @@ Santander bank wanted to improve how they help users solve the **most frequent i
 
 To achieve that, we designed a flow that shows **specific help content** and the **best contact method** when the user selects the contact reason.
 
-This way, we managed to reduce the number of incoming calls, emails and new tickets in our client's help center.
+This way, we managed to reduce the number of incoming calls, emails and new tickets in Santander's help center.
 
 <br>
 ## My role
