@@ -17,7 +17,7 @@ From copywriting to UX Writing<br>
 ------
 [Fever](https://feverup.com/) is an app that helps people to find things to do and places to go in their cities. It offers plans of all types, from nightlife, restaurants and concerts to cultural events or sports activities.
 
-Rakuten, Atresmedia and Accel are some of its main[investors](https://techcrunch.com/2019/08/04/data-driven-events-discovery-and-planning-startup-fever-raises-35-million-led-by-rakuten/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDc4r5RQdfQVYfvinZ9bRboLwWg_ZwbNKTnISSmYLqY8nccxegEMMZnaWwmPbdvlQT9TfYxTxHTmBuAjjR3DLBswgL6K0wwa-wmHiUMFefgPwMD6yHzJ_NGMv1EvYqwTBCF1V9mrD0JULIik089aSyz3xBT1W5nT1tD4mokIl_6).
+Rakuten, Atresmedia and Accel are some of its main [investors](https://techcrunch.com/2019/08/04/data-driven-events-discovery-and-planning-startup-fever-raises-35-million-led-by-rakuten/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDc4r5RQdfQVYfvinZ9bRboLwWg_ZwbNKTnISSmYLqY8nccxegEMMZnaWwmPbdvlQT9TfYxTxHTmBuAjjR3DLBswgL6K0wwa-wmHiUMFefgPwMD6yHzJ_NGMv1EvYqwTBCF1V9mrD0JULIik089aSyz3xBT1W5nT1tD4mokIl_6).
 
 <br>
 ## Content writing
