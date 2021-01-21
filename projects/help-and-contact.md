@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help & contact flow for a bank
+title: Help & contact flow for Santander Bank
 ---
 UX Writing / Content Design<br>
 
@@ -18,7 +18,7 @@ UX Writing / Content Design<br>
 <br>
 ## The project
 ----
-Our client (a large bank) wanted to improve how they help users solve the **most frequent issues and questions**.
+Santander bank wanted to improve how they help users solve the **most frequent issues and questions**.
 
 To achieve that, we designed a flow that shows **specific help content** and the **best contact method** when the user selects the contact reason.
 
