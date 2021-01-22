@@ -19,6 +19,7 @@ Aquí puedes ver un resumen de algunos de mis proyectos:
 - 🚀 [Mi etapa en Fever]({{ site.baseurl }}/projects/fever)
 - ⛽ [Intranet para una multinacional energética]({{ site.baseurl }}/projects/intra)
 <br>
+<br>
 
 📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
 {: .message }
