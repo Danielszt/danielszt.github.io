@@ -33,7 +33,7 @@ Tres principios nos guiaron durante todo el proyecto: mejorar la **usabilidad**,
 
 
 <br>
-## Pantallas
+## Highlights
 ------
 Aquí puedes ver algunas pantallas representativas de mi aportación al proyecto.
 
