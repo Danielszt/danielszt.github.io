@@ -30,7 +30,7 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 <br>
 ## El resultado
 ----
-Después de testear algunas variaciones de copies y estructuras con Hotjar, este fue el MVP a implementar:
+Después de testear algunas variaciones de copies y estructuras, este fue el MVP a implementar:
 
 <br>
 <a href="{{ site.baseurl }}/assets/Ayuda-y-contacto_2.png" target="_blank">
