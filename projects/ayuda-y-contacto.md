@@ -25,7 +25,7 @@ Así logramos reducir el número de emails, llamadas recibidas y tickets abierto
 ## Mi rol
 ----
 - Definí la **estructura narrativa** del flujo y redacté todos los **copies** de la interfaz.
-- Cree una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda (dinámico) al nuevo formato, garantizando la claridad, consistencia y escalabilidad.
+- Creé una **guía de estilo** con buenas prácticas para adaptar el contenido de ayuda (dinámico) al nuevo formato, garantizando la claridad, consistencia y escalabilidad.
 
 <br>
 ## El resultado
