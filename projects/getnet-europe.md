@@ -13,6 +13,9 @@ title: Getnet Europe Website
   Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/)
 </p>
 
+<p class="message">
+  Getnet Europe is already [live!](https://www.getneteurope.com/)
+</p>
 
 
 <br>
