@@ -48,7 +48,7 @@ I analyzed how other players in the market structured their sites and their valu
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET1.png" alt="Getnet-europe-1" class="inline"/></a>
-<p><center>*Click image to enlage*</center></p>
+<p><em><center>Click image to enlage</center></em></p>
 
 <br>
 ## ⚡ Design
@@ -59,7 +59,7 @@ Now that I had managed to understand Getnet's complex ecosystem, It was time to 
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET2.png" alt="Getnet-europe-1" class="inline"/></a>
-*Click image to enlage*
+<p><em><center>Click image to enlage</center></em></p>
 
 <br>
 ### Navigation
@@ -70,7 +70,7 @@ Once the  the information architecture was validated with stakeholders, I design
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET3.png" alt="Getnet-europe-1" class="inline"/></a>
-*Click image to enlage*
+<p><em><center>Click image to enlage</center></em></p>
 
 <br>
 ### Pages and modules
@@ -78,6 +78,6 @@ We adopted a content-first + modular design approach to design all pages. This m
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-1" class="inline"/></a>
-*Click image to enlage*
+<p><em><center>Click image to enlage</center></em></p>
 
 
