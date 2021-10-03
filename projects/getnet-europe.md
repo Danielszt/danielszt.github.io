@@ -5,16 +5,11 @@ title: Getnet Europe Website
 
 
 *Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Santander Bank](https://www.santander.com/en/home)*<br>
-*Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/)* 
 
 <br>
 
 <p class="message">
-  Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/)
-</p>
-
-<p class="message">
-  Getnet Europe is already [live!](https://www.getneteurope.com/)
+  Getnet Europe is already live. <a href="https://www.getneteurope.com/">www.getneteurope.com</a>
 </p>
 
 
