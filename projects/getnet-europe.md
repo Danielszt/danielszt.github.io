@@ -7,12 +7,11 @@ title: Getnet Europe Website
 *Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Santander Bank](https://www.santander.com/en/home)*<br>
 
 <p class="message">
-  Getnet Europe is already live. <a href="https://www.getneteurope.com/">www.getneteurope.com</a>
+  🚀 Getnet Europe is already live! <a href="https://www.getneteurope.com/">www.getneteurope.com</a>
 </p>
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET0.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET0.png" alt="Getnet-europe-1" class="inline"/></a>
-*Click image to enlage*
 
 <br>
 ## 🧭 Context
@@ -49,7 +48,7 @@ I analyzed how other players in the market structured their sites and their valu
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET1.png" alt="Getnet-europe-1" class="inline"/></a>
-*Click image to enlage*
+<p><center>*Click image to enlage*</center></p>
 
 <br>
 ## ⚡ Design
