@@ -11,6 +11,7 @@ I'm **Daniel Sáez**, a **UX Designer** that likes turning ideas, information, a
 
 
 Currently, I work at [The Cocktail](https://the-cocktail.com/en). Before, I was at [Fever](https://feverup.com/), [Buzzial](https://buzzial.com/), and working as a freelance.
+
 <br>
 Below you can see a summary of some of my recent works:
 - Getnet Europe Website
