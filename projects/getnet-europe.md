@@ -12,7 +12,7 @@ title: Getnet Europe Website
 
 
 <br>
-<img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/>
+<img src="{{ https://danielszt.github.io/ }}/assets/GET1.png" alt="Getnet-europe-1" class="inline"/>
 
 <br>
 
