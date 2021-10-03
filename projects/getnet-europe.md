@@ -11,12 +11,6 @@ title: Getnet Europe Website
 </p>
 
 
-<br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET1.png" alt="Getnet-europe-1" class="inline"/></a>
-<br>
-*Click image to enlage*
-<br>
-
 ## 🧭 Context
 ---
 Getnet is **[Santander bank's](https://www.santander.com/)** payment solutions platform for merchants around the world.
@@ -50,7 +44,8 @@ At the beginning of the project, we met with several Getnet teams and stakeholde
 I analyzed how other players in the market structured their sites and their value proposition, identifying key messages and content priority. The results helped us to better understand the payments industry and make better information architecture decisions.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET1.png" alt="Getnet-europe-1" class="inline"/></a>
+*Click image to enlage*
 
 <br>
 ## ⚡ Design
@@ -60,7 +55,8 @@ I analyzed how other players in the market structured their sites and their valu
 Now that I had managed to understand Getnet's complex ecosystem, It was time to define the information architecture of the web. This was the result:
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET2.png" alt="Getnet-europe-1" class="inline"/></a>
+*Click image to enlage*
 
 <br>
 ### Navigation
@@ -70,13 +66,15 @@ Once the  the information architecture was validated with stakeholders, I design
 - Explore Getnet's products from different perspectives (by feature, by industry...)
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET3.png" alt="Getnet-europe-1" class="inline"/></a>
+*Click image to enlage*
 
 <br>
 ### Pages and modules
 We adopted a content-first + modular design approach to design all pages. This means that content determines the structure of each page and we design content blocks that can be used on any page.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-1" class="inline"/></a>
+*Click image to enlage*
 
 
