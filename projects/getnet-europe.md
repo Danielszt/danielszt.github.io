@@ -6,12 +6,22 @@ title: Getnet Europe Website
 
 *Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Santander Bank](https://www.santander.com/en/home)*
 
-<br>
-Getnet Europe is already live! www.getneteurope.com/{: .message }
+```
+Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/) 
+```
 
-```
-Getnet Europe is already live! 
-```
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
+.message {
+Test
+}
+
 
 <br>
 <img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/>
