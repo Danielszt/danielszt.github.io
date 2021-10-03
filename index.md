@@ -1,17 +1,21 @@
 ---
 layout: page
-title: Muy buenas 👋
+title: Hey! 👋
 ---
 
 
-*Switch to [english]({{ site.baseurl }}/en).*
+<br>
+I'm **Daniel Sáez**, a **UX Designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
+
+
+Currently, I work at [The Cocktail](https://the-cocktail.com/en). Before, I was at [Fever](https://feverup.com/), [Buzzial](https://buzzial.com/), and working as a freelance.
 
 <br>
-Me llamo **Daniel Sáez** y soy **UX Designer**. Me gusta transformar ideas, información y procesos en experiencias relevantes y con sentido.
-
-Ahora mismo trabajo en [The Cocktail](https://the-cocktail.com), donde participo en proyectos para clientes y sectores muy diferentes. Antes estuve en [Fever](https://feverup.com/), en [Buzzial](https://buzzial.com/) y por mi cuenta (como freelance).
+Below you can see a summary of some of my recent works:
+- [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
+- *More coming soon!*
 
 <br>
-📬 **¿Hablamos?** Puedes escribirme a [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} o a través de [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/){:target="_blank"}.
+📭 **Let's talk!** Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
 
 
