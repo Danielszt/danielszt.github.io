@@ -14,7 +14,7 @@ Currently, I work at [The Cocktail](https://the-cocktail.com/en). Before, I was 
 
 <br>
 Below you can see a summary of some of my recent works:
-- Getnet Europe Website
+- [Getnet Europe Website](https://www.getneteurope.com/)
 - *More coming soon!*
 
 <br>
