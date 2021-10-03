@@ -74,7 +74,7 @@ Once the  the information architecture was validated with stakeholders, I design
 
 <br>
 ### Pages and modules
-We adopted a content-first + modular design approach to design all pages. This means that content determines the structure of each page and we design content blocks that can be used on any page.
+We adopted a content-first + modular design approach to design all pages. This meant that the content determined the structure of each page and we designed content blocks that can be used on any page.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-4" class="inline"/></a>
