@@ -9,6 +9,10 @@ title: Getnet Europe Website
 <br>
 Getnet Europe is already live! www.getneteurope.com/{: .message }
 
+```
+Getnet Europe is already live! 
+```
+
 <br>
 <img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/>
 
