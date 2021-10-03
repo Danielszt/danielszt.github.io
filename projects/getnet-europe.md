@@ -4,7 +4,7 @@ title: Getnet Europe Website
 ---
 
 
-*Project carried out in The Cocktail for Santander Bank*
+*Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Santander Bank](https://www.santander.com/en/home)*
 
 <br>
 Getnet Europe is already live! www.getneteurope.com/{: .message }
@@ -52,5 +52,5 @@ At the beginning of the project, we met with several Getnet teams and stakeholde
 
 I analyzed how other players in the market structured their sites and their value proposition, identifying key messages and content priority. The results helped us to better understand the payments industry and make better information architecture decisions.
 
-
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
