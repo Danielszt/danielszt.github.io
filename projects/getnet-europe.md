@@ -8,6 +8,14 @@ title: Getnet Europe Website
 *Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/)* 
 
 <br>
+
+<p class="message">
+  Getnet Europe is already live! [www.getneteurope.com](https://www.getneteurope.com/)
+</p>
+
+
+
+<br>
 <img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/>
 
 <br>
