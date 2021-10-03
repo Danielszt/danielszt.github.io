@@ -16,4 +16,4 @@ Getnet Europe is already live! www.getneteurope.com/{: .message }
 <br>
 
 
-<a href="https://danielszt.github.io/assets/acc-1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="https://danielszt.github.io/assets/Acc-3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
