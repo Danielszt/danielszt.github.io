@@ -46,3 +46,32 @@ I analyzed how other players in the market structured their sites and their valu
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+
+<br>
+## ⚡ Design
+---
+
+### Architecture
+Now that I had managed to understand Getnet's complex ecosystem, It was time to define the information architecture of the web. This was the result:
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+
+<br>
+### Navigation
+Once the  the information architecture was validated with stakeholders, I designed a navigation model that would allow users to:
+
+- Navigate comfortably through the different sections.
+- Explore Getnet's products from different perspectives (by feature, by industry...)
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+
+<br>
+### Pages and modules
+We adopted a content-first + modular design approach to design all pages. This means that content determines the structure of each page and we design content blocks that can be used on any page.
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/Acc_3.png" alt="Getnet-europe-1" class="inline"/></a>
+
+
