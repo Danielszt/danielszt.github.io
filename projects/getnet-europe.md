@@ -6,7 +6,6 @@ title: Getnet Europe Website
 
 *Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Santander Bank](https://www.santander.com/en/home)*<br>
 
-<br>
 <p class="message">
   Getnet Europe is already live. <a href="https://www.getneteurope.com/">www.getneteurope.com</a>
 </p>
