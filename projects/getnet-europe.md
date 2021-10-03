@@ -58,7 +58,7 @@ I analyzed how other players in the market structured their sites and their valu
 Now that I had managed to understand Getnet's complex ecosystem, It was time to define the information architecture of the web. This was the result:
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET2.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET2.png" alt="Getnet-europe-2" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
 <br>
@@ -69,7 +69,7 @@ Once the  the information architecture was validated with stakeholders, I design
 - Explore Getnet's products from different perspectives (by feature, by industry...)
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET3.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET3.png" alt="Getnet-europe-3" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
 <br>
@@ -77,7 +77,11 @@ Once the  the information architecture was validated with stakeholders, I design
 We adopted a content-first + modular design approach to design all pages. This means that content determines the structure of each page and we design content blocks that can be used on any page.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-4" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET5.png" alt="Getnet-europe-5" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
 
