@@ -10,7 +10,11 @@ title: Getnet Europe Website
   Getnet Europe is already live. <a href="https://www.getneteurope.com/">www.getneteurope.com</a>
 </p>
 
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/GET0.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET0.png" alt="Getnet-europe-1" class="inline"/></a>
+*Click image to enlage*
 
+<br>
 ## 🧭 Context
 ---
 Getnet is **[Santander bank's](https://www.santander.com/)** payment solutions platform for merchants around the world.
