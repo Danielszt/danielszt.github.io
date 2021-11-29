@@ -22,7 +22,7 @@ After its launch in Mexico, Argentina and Chile, it was time to open Getnet to t
 
 The website had to meet **2 objectives**:
 
-- Effectively communicate Getnet's value proposition and products.
+- Communicate Getnet's value proposition and products.
 - Capture new leads.
 
 <br>
