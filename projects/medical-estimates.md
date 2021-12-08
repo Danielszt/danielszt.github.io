@@ -14,14 +14,14 @@ title: Medical Estimate Feature
 ## 🧭 Context
 ---
 ### About Vithas
-Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its **Patient area** (accesible via **app and web**), patients can make appointments, manage their medical information, contact Vithas and much more.
+Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its **Patient area** (accesible via app and web), patients can make appointments, manage their medical information, contact Vithas and much more.
 
 ### Task and goal
-The task consisted of designing a **new functionality MVP for Vithas Patiend Area (app and web)**. We wanted to offer users the possibility of **consulting, managing and paying for Medical estimates** directly on the patient area.
+We wanted to offer users the possibility of consulting, managing and paying for **Medical estimates** directly on the patient area. So the task consisted of designing the MVP of this new feature.
 
 Expressed as user story:
 
-- As a *patient*, I want to <have online access to my medical estimates> so I can *review and pay them without having to go to the hospital*.
+> As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.
 
 <br>
 ## ☝🏻 My role 
@@ -55,9 +55,9 @@ I translated the design ideas and requirements into a user flow. As soon as it w
 
 <br>
 ## ⚡ Design
-First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). Then I switched to hi-fi using the **Vithas Design System**.
+First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). After that, I switched to hi-fi using the **Vithas Design System**.
   
-Below you can see the designs for the app and the desktop version.
+Below you can see the designs for the app and the desktop version:
   
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT3.png" alt="Medica-estimates-3" class="inline"/></a>
