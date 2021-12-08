@@ -10,10 +10,10 @@ title: Medical Estimate Feature
 ## 🧭 Context
 ---
 ### About Vithas
-Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its Patient area (accesible via app and web), patients can make appointments, manage their medical information, contact Vithas and much more.
+Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its **Patient area** (accesible via app and web), patients can make appointments, manage their medical information, contact Vithas and much more.
 
 ### Task and goal
-The task consisted of designing an MVP of a new functionality. We wanted to offer the possibility of consulting, managing and paying for medical estimates directly on the patient area.
+The task consisted of designing an MVP of a new functionality. We wanted to offer the possibility of **consulting, managing and paying for medical estimates** directly on the patient area.
 
 Expressed as user story:
 
