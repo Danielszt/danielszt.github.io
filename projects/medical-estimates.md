@@ -8,7 +8,6 @@ title: Medical Estimate Feature
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT0.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Medical-estimate-0" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
 
 <br>
 ## 🧭 Context
@@ -21,7 +20,7 @@ We wanted to offer users the possibility of consulting, managing and paying for 
 
 Expressed as user story:
 
-`As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.`
+- As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.
 
 <br>
 ## ☝🏻 My role 
@@ -55,6 +54,7 @@ I translated the design ideas and requirements into a user flow. As soon as it w
 
 <br>
 ## ⚡ Design
+---
 First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). After that, I switched to hi-fi using the **Vithas Design System**.
   
 Below you can see the designs for the app and the desktop version:
