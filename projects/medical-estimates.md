@@ -57,4 +57,20 @@ First I draw some low-fi wireframes on paper to organize my ideas (too bad I don
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT3.png" alt="Medica-estimates-3" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT4.png" alt="Medica-estimates-4" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT5.png" alt="Medica-estimates-5" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT6.png" alt="Medica-estimates-6" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT7.png" alt="Medica-estimates-7" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
 
