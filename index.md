@@ -13,7 +13,7 @@ Currently, I work at [The Cocktail](https://the-cocktail.com/en). Before, I was 
 <br>
 Below you can see a summary of some of my recent works:
 - [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
-- *More coming soon!*
+- [Medical Estimate Feature](https://danielszt.github.io/projects/medica-estimate.md/)
 
 <br>
 📭 **Let's talk!** Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
