@@ -17,7 +17,7 @@ The task consisted of designing an MVP of a new functionality. We wanted to offe
 
 Expressed as user story:
 
-- As a **patient**, I want to **have online access to my medical estimates** so I can **review and pay them without having to go to the hospital**.
+- As a `patient`, I want to `have online access to my medical estimates` so I can `review and pay them without having to go to the hospital`.
 
 <br>
 ## ☝🏻 My role 
