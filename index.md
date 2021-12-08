@@ -12,8 +12,8 @@ Currently, I work at [The Cocktail](https://the-cocktail.com/en). Before, I was 
 
 <br>
 Below you can see a summary of some of my recent works:
-- [Medical Estimate Feature](https://danielszt.github.io/projects/medical-estimates/)
-- [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
+- [🏥 Medical Estimate Feature](https://danielszt.github.io/projects/medical-estimates/)
+- [💸 Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
 - More coming soon!
 
 <br>
