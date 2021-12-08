@@ -57,7 +57,7 @@ I translated the design ideas and requirements into a user flow. As soon as it w
 ---
 First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). After that, I switched to hi-fi using the **Vithas Design System**. Below you can see the designs for the app and the desktop version:
 
-### App screens and flow
+### App screens 
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT3.png" alt="Medica-estimates-3" class="inline"/></a>
@@ -68,18 +68,18 @@ First I draw some low-fi wireframes on paper to organize my ideas (too bad I don
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT4.png" alt="Medica-estimates-4" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
+<p><em><center>All estimates (Click to enlarge)</center></em></p>
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT5.png" alt="Medica-estimates-5" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
+<p><em><center>Estimate detail (Click to enlarge)</center></em></p>
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT6.png" alt="Medica-estimates-6" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
+<p><em><center>Checkout (Click to enlarge)</center></em></p>
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT7.png" alt="Medica-estimates-7" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
+<p><em><center>Success screen(Click to enlarge)</center></em></p>
 
 
