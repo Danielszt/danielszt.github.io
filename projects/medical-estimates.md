@@ -7,6 +7,10 @@ title: Medical Estimate Feature
 *Project carried out in [The Cocktail](https://the-cocktail.com/en) for [Vithas](https://vithas.es/home)*<br>
 
 <br>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT0.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Medical-estimate-0" class="inline"/></a>
+<p><em><center>Click image to enlage</center></em></p>
+
+<br>
 ## 🧭 Context
 ---
 ### About Vithas
