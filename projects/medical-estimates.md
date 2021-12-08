@@ -21,9 +21,7 @@ We wanted to offer users the possibility of consulting, managing and paying for 
 
 Expressed as user story:
 
-```scss
-As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.
-```
+`As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.`
 
 <br>
 ## ☝🏻 My role 
