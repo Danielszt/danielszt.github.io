@@ -51,8 +51,10 @@ I translated the design ideas and requirements into a user flow. As soon as it w
 
 <br>
 ## ⚡ Design
-First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). Then I switched to hi-fi using the **Vithas Design System**, and after a couple of iterations, this was the design of the MVP:
-
+First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). Then I switched to hi-fi using the **Vithas Design System**.
+  
+Below you can see the designs for the app and the desktop version.
+  
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT3.png" alt="Medica-estimates-3" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
