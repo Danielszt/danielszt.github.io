@@ -35,40 +35,26 @@ I had an interview with 2 stakeholder who work daily with estimates and patients
 I organized a workshop to uncover the current user journey and understand customer needs. I invited the 2 stakeholders I previously had the interview with and the rest of the team. The resulting user journey provided us with a holistic view of the actual patient experience with medical estimates.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/VIT1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT1.png" alt="Vithas-1" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT1.png" alt="Medical-estimate-1" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
 <br>
-## ⚡ Definition
+## ✏️ Definition
 ---
 
-### Architecture
-Now that I had managed to understand Getnet's complex ecosystem, It was time to define the information architecture of the web. This was the result:
+### User flow
+I translated the design ideas and requirements into a user flow. As soon as it was ready, I immediately shared it with my technology colleagues and stakeholders. In my experience, sharing the work early on speeds up validation and helps everyone feel part of the task.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET2.png" alt="Getnet-europe-2" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT2.png" alt="Medical-estimate-2" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
 <br>
-### Navigation
-Once the  the information architecture was validated with stakeholders, I designed a navigation model that would allow users to:
-
-- Navigate comfortably through the different sections.
-- Explore Getnet's products from different perspectives (by feature, by industry...)
+## ⚡ Design
+First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). Then I switched to hi-fi using the Vithas Design System, and after a couple of iterations, this was the design of the MVP:
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET3.png" alt="Getnet-europe-3" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/VIT3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT3.png" alt="Medica-estimates-3" class="inline"/></a>
 <p><em><center>Click image to enlage</center></em></p>
 
-<br>
-### Pages and modules
-We adopted a content-first + modular design approach to design all pages. This meant that the content determined the structure of each page and we designed content blocks that can be used on any page.
-
-<br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET4.png" alt="Getnet-europe-4" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
-
-<br>
-<a href="{{ https://danielszt.github.io/ }}/assets/GET5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/GET5.png" alt="Getnet-europe-5" class="inline"/></a>
-<p><em><center>Click image to enlage</center></em></p>
 
