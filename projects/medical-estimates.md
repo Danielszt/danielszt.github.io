@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medical Budget Feature
+title: Medical Estimate Feature
 ---
 
 
@@ -13,11 +13,11 @@ title: Medical Budget Feature
 Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its Patient area (accesible via app and web), patients can make appointments, manage their medical information, contact Vithas and much more.
 
 ### Task and goal
-The task consisted of designing an MVP of a new functionality: budgeting. We wanted to offer the possibility of consulting and paying for medical budget directly on the patient area.
+The task consisted of designing an MVP of a new functionality. We wanted to offer the possibility of consulting, managing and paying for medical estimates directly on the patient area.
 
 Expressed as user story:
 
-- As a **patient**, I want to **have online access to my medical budgets** so I can **review and pay them without having to go to the hospital**.
+- As a **patient**, I want to **have online access to my medical estimates** so I can **review and pay them without having to go to the hospital**.
 
 <br>
 ## ☝🏻 My role 
@@ -28,11 +28,11 @@ I was responsible for UX in a multidisciplinary squad composed of a front-end, a
 ## 🔎 Research
 ---
 ### Interview with stakeholders
-I had an interview with 2 stakeholder who work daily with budgets and patients. Thanks to this I was able to better understand the characteristics of a budget and capture some key requirements for the design.
+I had an interview with 2 stakeholder who work daily with estimates and patients. Thanks to this I was able to better understand the characteristics of medical estimates and capture some key requirements for the design.
 
 ### Patient journey workshop
 
-I organized a workshop to uncover the current user journey and understand customer needs. I invited the 2 stakeholders I previously had the interview with and the rest of the team. The resulting user journey provided us with a holistic view of the actual patient experience with budgets.
+I organized a workshop to uncover the current user journey and understand customer needs. I invited the 2 stakeholders I previously had the interview with and the rest of the team. The resulting user journey provided us with a holistic view of the actual patient experience with medical estimates.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/VIT1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT1.png" alt="Vithas-1" class="inline"/></a>
