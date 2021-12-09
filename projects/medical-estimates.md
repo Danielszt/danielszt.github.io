@@ -55,7 +55,7 @@ I translated the design ideas and requirements into a user flow. As soon as it w
 <br>
 ## ⚡ Design
 ---
-First I draw some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). After that, I switched to hi-fi using the **Vithas Design System**. Below you can see the final designs.
+First I drew some low-fi wireframes on paper to organize my ideas (too bad I don't keep them, paper wireframes look so cool on portfolios 😅). After that, I switched to hi-fi using the **Vithas Design System**. Below you can see the final designs.
 
 <br>
 ### App screens 
