@@ -5,7 +5,7 @@ title: Hey! 👋
 
 
 <br>
-I'm **Daniel Sáez**, a **UX Designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
+I'm **Daniel Sáez**, a **Product Designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
 
 
 Currently, I work at [Lingokids](https://lingokids.com/). Before I was at [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
