@@ -12,12 +12,12 @@ Currently, I work at [Lingokids](https://lingokids.com/). Before I was at [The C
 
 <br>
 Below you can see a summary of some of my recent works:
-- [Getnet Europe Website](https://www.getneteurope.com/)
-- [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
+- [Getnet Europe Website (Santander Bank)](https://danielszt.github.io/projects/getnet-europe/) 
+- [Medical Estimate Feature (Vithas)](https://danielszt.github.io/projects/medical-estimates/) 
 - *More coming soon!*
 
-<br>
 
+<br>
 
 📭 **Let's talk!** Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
 
