@@ -10,12 +10,6 @@ I'm **Daniel Sáez**, a **Product Designer** that likes turning ideas, informati
 
 Currently, I work at [Lingokids](https://lingokids.com/). Before I was at [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
-<br>
-Below you can see a summary of some of my recent works:
-- [Getnet Europe Website (Santander Bank)](https://danielszt.github.io/projects/getnet-europe/) 
-- [Medical Estimate Feature (Vithas)](https://danielszt.github.io/projects/medical-estimates/) 
-- *More coming soon!*
-
 
 <br>
 
