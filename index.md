@@ -13,7 +13,7 @@ Currently, I work at [Lingokids](https://lingokids.com/). Before I was at [The C
 <br>
 Below you can see a summary of some of my recent works:
 - [Getnet Europe Website (Santander Bank)](https://danielszt.github.io/projects/getnet-europe/)
-- [Medical Estimate Feature for Vithas](https://danielszt.github.io/projects/medical-estimates.md/)
+- [Medical Estimate Feature for Vithas](https://danielszt.github.io/projects/medical-estimates/)
 
 <br>
 
