@@ -5,13 +5,13 @@ title: Hey! 👋
 
 
 <br>
-I'm **Daniel Sáez**, a **Product Designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
+I'm **Daniel Sáez**, a **designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
 
 
-Currently, I work at [Lingokids](https://lingokids.com/). Before I was at [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
+Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
 <br>
-Below you can see a summary of some of my recent works:
+Below you can see a summary of some of my ~~recent~~ relatively old works:
 
 - [Medical Estimate Feature](https://danielszt.github.io/projects/medical-estimates/)
 - [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
