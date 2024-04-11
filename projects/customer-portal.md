@@ -54,15 +54,14 @@ Interviews with stakeholders provided invaluable insights into the company's ope
 
 ### Definition meetings
 
-At the beginning of each sprint I had a workshop with the stakeholder responsible for the section or process we had to work on.
+At the beginning of each sprint, I would have a workshop with the stakeholder responsible for the feature we were about to start working on.
 
-- On that meeting we discussed:
+At this meeting we discussed:
 - Requirements and assumptions
-- Backend structure and limitations
-- Problems users were facing 
-- Other Ideas we may had
-
-This approach ensured that our design decisions were well-informed and aligned with project goals.
+- Backend structure and constraints
+- Problems users were facing
+- Other ideas we might have had
+This approach ensured that our design decisions were well informed and aligned with the project goals.
 
 <br>
 
