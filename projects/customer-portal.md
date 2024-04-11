@@ -68,8 +68,7 @@ At this meeting we discussed:
 - Other ideas we might have had
 This approach ensured that our design decisions were well informed and aligned with the project goals.
 
-
-
+<br>
 
 ## Designs
 ---
