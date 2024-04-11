@@ -7,7 +7,7 @@ title: Customer Portal
 *Project carried out in [Hanzo](https://hanzo.es/) for [Holcim](https://www.holcim.com/)*<br>
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/VIT0.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Medical-estimate-0" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
 
 <br>
 ## Outcome and results:
@@ -18,6 +18,7 @@ title: Customer Portal
 - Delivered a responsive version of the portal, addressing a previously unmet need
 - Introduced new features including a dashboard and notification system
 
+<br>
 ## Context
 ---
 ### About Holcim
