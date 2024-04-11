@@ -20,10 +20,9 @@ Below you can see a summary of some of my works:
 - [Customer portal redesign](https://danielszt.github.io/projects/customer-portal/)
 - [Medical estimate feature](https://danielszt.github.io/projects/medical-estimates/)
 - [Payment solutions website](https://danielszt.github.io/projects/getnet-europe/)
-- *More coming soon!*
 
 <br>
 
-📭 **Let's talk!** Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
+📭 Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
 
 
