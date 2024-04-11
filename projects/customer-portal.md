@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Customer Portal
+title: Customer portal redesign
 ---
 
 
