@@ -7,7 +7,7 @@ title: Customer Portal
 *Project carried out in [Hanzo](https://hanzo.es/) for [Holcim](https://www.holcim.com/)*<br>
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Customer-portal" class="inline"/></a>
 
 <br>
 ## Outcome and results:
@@ -64,12 +64,25 @@ This approach ensured that our design decisions were well-informed and aligned w
 - This is a selection of some of the most important pages of the Customer Portal
 
 
-
-
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Click to enlarge</center></em></p>
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/VIT7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT7.png" alt="Medica-estimates-7" class="inline"/></a>
-<p><em><center>Success screen (Click to enlarge)</center></em></p>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp3.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Click to enlarge</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp4.png" alt="Customer-portal" class="inline"/></a>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Click to enlarge</center></em></p>
+
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Click to enlarge</center></em></p>
+
 
 
 
