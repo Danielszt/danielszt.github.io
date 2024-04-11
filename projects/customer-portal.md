@@ -57,7 +57,7 @@ I was the UX desinger in a team consisting of a visual designer, a front-end des
 
 Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations.
 
-### Definition meetings
+### Definition workshops
 
 At the beginning of each sprint, I would have a workshop with the stakeholder responsible for the feature we were about to start working on.
 
@@ -66,6 +66,7 @@ At this meeting we discussed:
 - Backend structure and constraints
 - Problems users were facing
 - Other ideas we might have had
+
 This approach ensured that our design decisions were well informed and aligned with the project goals.
 
 <br>
