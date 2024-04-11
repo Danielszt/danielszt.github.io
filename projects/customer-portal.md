@@ -67,12 +67,13 @@ This approach ensured that our design decisions were well-informed and aligned w
 <br>
 
 ## Designs
+---
 This is a selection of some of the key pages of the Customer Portal.
 
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center><Customer dashboard></em></p>
+<p><em><center>Customer dashboard</center></em></p>
 
 <br>
 <br>
@@ -87,7 +88,7 @@ This is a selection of some of the key pages of the Customer Portal.
 <br>
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Step 3. Ordering process</center></em></p>
+<p><em><center>Ordering process. Step 3</center></em></p>
 
 <br>
 <br>
