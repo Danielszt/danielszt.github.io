@@ -42,7 +42,12 @@ Holcim employees used the portal to manage customer info, review deliveries and 
 
 ## My role
 ---
-I was responsible for UX in a team consisting of a visual designer, a front-end designer, a project manager and myself. I conducted the research, defined requirements and designed wireframes for the project. 
+I was the UX desinger in a team consisting of a visual designer, a front-end designer, a project manager and myself. My main responsibilities were:
+- Conduct research
+- Gather requirements
+- Define information architecture
+- Design wireframes and flows
+- Communicate design decisions effectively
 
 <br>
 
@@ -64,13 +69,17 @@ At this meeting we discussed:
 This approach ensured that our design decisions were well informed and aligned with the project goals.
 
 
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Customer portal information architecture</center></em></p>
+
 
 ## Designs
 ---
-This is a selection of some of the key pages of the Customer Portal.
+### Information architecture
 
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Customer portal information architecture</center></em></p>
+
+### Key pages
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
