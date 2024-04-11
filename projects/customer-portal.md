@@ -63,7 +63,9 @@ At this meeting we discussed:
 - Other ideas we might have had
 This approach ensured that our design decisions were well informed and aligned with the project goals.
 
-<br>
+
+<a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Customer portal information architecture</center></em></p>
 
 ## Designs
 ---
