@@ -13,6 +13,7 @@ Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](htt
 <br>
 Below you can see a summary of some of my ~~recent~~ relatively old works:
 
+- [Customer portal](https://danielszt.github.io/projects/customer-portal/)
 - [Medical Estimate Feature](https://danielszt.github.io/projects/medical-estimates/)
 - [Getnet Europe Website](https://danielszt.github.io/projects/getnet-europe/)
 - *More coming soon!*
