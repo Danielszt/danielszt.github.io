@@ -11,7 +11,7 @@ title: Customer portal redesign
 
 <br>
 
-## Outcome and results:
+## Outcome and results
 ---
 - Streamlined customer experience, saving time and effort
 - Simplified administrative tasks for employees with admin role
