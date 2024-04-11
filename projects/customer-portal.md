@@ -10,6 +10,7 @@ title: Customer portal redesign
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Customer-portal" class="inline"/></a>
 
 <br>
+
 ## Outcome and results:
 ---
 - Streamlined customer experience, saving time and effort
@@ -17,6 +18,7 @@ title: Customer portal redesign
 - Transitioned from an information architecture based on internal org chart to a user-centric one
 - Delivered a responsive version of the portal, addressing a previously unmet need
 - Introduced new features including a dashboard and notification system
+
 <br>
 
 ## Context
@@ -35,11 +37,13 @@ Key objectives included:
 Customers used the portal to channel their commercial relationship with Holcim, from ordering materials to tracking deliveries or checking invoices.
 
 Holcim employees used the portal to manage customer info, review deliveries and upload relevant information for customers, among other admin tasks.
+
 <br>
 
 ## My role
 ---
 I was responsible for UX in a team consisting of a visual designer, a front-end designer, a project manager and myself. I conducted the research, defined requirements and designed wireframes for the project. 
+
 <br>
 
 ## Research and alignment
@@ -59,6 +63,7 @@ At the beginning of each sprint I had a workshop with the stakeholder responsibl
 - Other Ideas we may had
 
 This approach ensured that our design decisions were well-informed and aligned with project goals.
+
 <br>
 
 ## Designs
@@ -67,20 +72,24 @@ This is a selection of some of the key pages of the Customer Portal.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Customer dashboard></em></p>
+<p><em><center><Customer dashboard></em></p>
 
+<br>
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp3.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Orders page</center></em></p>
 
 <br>
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp4.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Order detail</center></em></p>
 
 <br>
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Step 3. Ordering process</center></em></p>
 
+<br>
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp6.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Article creation (only for admin users)</center></em></p>
