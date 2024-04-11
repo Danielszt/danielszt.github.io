@@ -5,7 +5,12 @@ title: Hey! 👋
 
 
 <br>
-I'm **Daniel Sáez**, a **designer** that likes turning ideas, information, and processes into meaningful and seamless experiences.
+I'm **Daniel Sáez**, a **designer** who believes that:
+
+- Defining the problem well is key to finding solutions
+- Clear writing reflects clear thinking
+- Communicating design choices is often as important as the design itself
+- Industry jargon distances us from stakeholders and users 
 
 
 Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
