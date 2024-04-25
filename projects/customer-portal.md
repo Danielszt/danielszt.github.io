@@ -13,11 +13,10 @@ title: Customer portal redesign
 
 ## Outcome and results
 ---
-- Streamlined customer experience, saving time and effort
-- Simplified administrative tasks for employees with admin role
-- Transitioned from an information architecture based on internal org chart to a user-centric one
+- Improved the overall customer experience, saving users time and effort
+- Simplified administrative tasks for internal users (employees with admin role)
 - Delivered a responsive version of the portal, addressing a previously unmet need
-- Introduced new features including a dashboard and notification system
+- Gave users more control and visibility over their activity with 2 new features: dashboard and notifications
 
 <br>
 
