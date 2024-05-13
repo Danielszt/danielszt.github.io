@@ -8,6 +8,7 @@ title: Hey! 👋
 I'm **Daniel Sáez**, a **designer** who believes that:
 
 - Defining the problem well is key to finding solutions
+- Obvious UX > fancy UX
 - Clear writing reflects clear thinking
 - Communicating design decisions is often as important as the design itself
 
