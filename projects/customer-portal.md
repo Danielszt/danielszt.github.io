@@ -16,7 +16,7 @@ title: Customer portal redesign
 - Improved the overall customer experience, saving users time and effort
 - Simplified administrative tasks for internal users (employees with admin role)
 - Delivered a responsive version of the portal, addressing a previously unmet need
-- Gave users more control and visibility over their activity with 2 new features: dashboard and notifications
+- Gave users more control and visibility with 2 new features: dashboard and notifications
 
 <br>
 
@@ -30,8 +30,8 @@ Holcim is a leading supplier of cement, aggregates and other materials. With a p
 
 Originally developed as an internal tool, Holcim’s Customer Portal needed to be redesigned to accommodate external customers. 
 Key objectives included:
-- Adapting the portal to meet customer needs
-- Reducing inefficiencies for Holcim employees with admin roles.
+- For customers: reduce phone and email orders and enquiries by adapting the portal to customer needs
+- For admin users: reducing inefficiencies for Holcim employees with admin roles.
 
 Customers used the portal to channel their commercial relationship with Holcim, from ordering materials to tracking deliveries or checking invoices.
 
@@ -45,8 +45,8 @@ I was the UX desinger in a team consisting of a visual designer, a front-end des
 - Conduct research
 - Gather requirements
 - Define information architecture
-- Design wireframes and flows
-- Communicate design decisions effectively
+- Design wireframes and user flows
+- Communicate design decisions
 
 <br>
 
