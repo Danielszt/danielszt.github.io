@@ -7,6 +7,8 @@ title: Hey! 👋
 <br>
 I'm **Daniel Sáez**, a **designer** with a knack for detail and clarity.
 
+<br>
+Four things I believe in:
 - Defining the problem well is key to finding solutions
 - Obvious UX > fancy UX
 - Clear writing reflects clear thinking
