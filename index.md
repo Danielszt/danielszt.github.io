@@ -5,7 +5,7 @@ title: Hey! 👋
 
 
 <br>
-I'm **Daniel Sáez**, a **designer** who believes that:
+I'm **Daniel Sáez**, a **designer** with a knack for detail and clarity.
 
 - Defining the problem well is key to finding solutions
 - Obvious UX > fancy UX
