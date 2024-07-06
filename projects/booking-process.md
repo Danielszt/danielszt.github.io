@@ -13,7 +13,7 @@ title: Restaurant booking process
 
 ## Context
 ---
-### About Holcim
+### About Meliá
 
 Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countries. I worked with them on several projects over the course of about a year.
 
@@ -21,9 +21,57 @@ Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countr
 
 ### The problem
 
-Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies.
+Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. 
 
 <br>
+
+The **lack of an unified reservation system** caused inconsistent customer experience and operational inefficiencies.
+
+<br>
+
+### Role and team
+
+The team consisted of:
+
+- UX designer (me)
+- Visual designer
+- Front-end developer
+- Project manager
+
+### Design process
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Goal</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>x</td>
+    </tr>
+  </tfoot>
+  <tbody>
+        <tr>
+      <td>Discovery</td>
+      <td>Understand the problem, user needs and business goals</td>
+    </tr>
+    <tr>
+      <td>Definition</td>
+      <td>Agree on what criteria the solution should meet</td>
+    </tr>
+    <tr>
+      <td>Prototype</td>
+      <td>Explore and communicate design ideas</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+
 
 ## Discovery
 ---
@@ -33,9 +81,7 @@ I outlined our learning objectives and prepared the interview script.
 
 Next, I met with the Product Manager and Channel Manager responsible for restaurant booking.
 
-This helped me to gather initial requirements and understand business goals
-
-#### Business goals
+This helped me to gather initial requirements and understand **business goals**:
 - **Increase efficiency**: Streamline the reservation process to reduce staff worload and improve inventary management.
 - **Reduce dependency on third parties**: Minimise reliance on third-party reservation systems and reduce associated costs.
 - **Improve brand experience**: Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
@@ -43,6 +89,8 @@ This helped me to gather initial requirements and understand business goals
 <br>
 
 ### Backoffice analysis
+
+<br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
