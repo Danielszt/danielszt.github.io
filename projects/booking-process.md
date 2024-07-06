@@ -32,7 +32,7 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br>
 
 ### Design process
-
+<br>
 1. **Discovery**: understand the problem, user needs and business goals
 2. **Definition**: agree on what criteria the solution should meet
 3. **Prototype**: explore and communicate design ideas
