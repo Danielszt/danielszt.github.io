@@ -21,19 +21,18 @@ Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countr
 
 ### The problem
 
-Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The **lack of an unified reservation system** caused inconsistent customer experience and operational inefficiencies.
-
+Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. <mark>The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies</mark>.
+<br>
 <br>
 
 ### Role and team
 
 The team consisted of:
-
 - UX designer (me)
 - Visual designer
 - Front-end developer
 - Project manager
-
+<br>
 <br>
 
 ### Design process
@@ -43,18 +42,16 @@ The team consisted of:
 3. **Prototype**: explore and communicate design ideas
 4. **Test**: identify gaps in the solution and reduce risk
 5. **Final design**: develop a polished design ready for implementation
-
+<br><br>
 
 
 ## Discovery
 ---
 ### Stakeholder interviews
 
-I outlined our learning objectives and prepared the interview script.
+First I outlined our learning objectives and prepared the interview script. Then I met with the product Manager, channel anager and engineer responsible for the restaurant reservation system
 
-Next, I met with the Product Manager and Channel Manager responsible for restaurant booking.
-
-This helped me to gather initial requirements and understand **business goals**:
+<mark>This helped me to gather initial requirements and understand business goals</mark>:
 - **Increase efficiency**: Streamline the reservation process to reduce staff worload and improve inventary management.
 - **Reduce dependency on third parties**: Minimise reliance on third-party reservation systems and reduce associated costs.
 - **Improve brand experience**: Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
@@ -149,6 +146,10 @@ No problems were reported, which gave me mixed feelings.
 <br>
 
 ## Final design
+<br>
+
+You can view a prototype of all use cases here
+
 ---
 ### Normal booking
 
