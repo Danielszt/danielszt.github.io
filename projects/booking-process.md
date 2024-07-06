@@ -21,17 +21,13 @@ Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countr
 
 ### The problem
 
-Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. <mark>The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies</mark>.
+Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies.
 <br>
 <br>
 
 ### Role and team
 
-The team consisted of:
-- UX designer (me)
-- Visual designer
-- Front-end developer
-- Project manager
+The team consisted of a UX designer (myself), a visual designer, a front-end developer and a product manager. We worked closely with Melia's product manager and engineers.
 <br>
 <br>
 
@@ -52,11 +48,12 @@ The team consisted of:
 First I outlined our learning objectives and prepared the interview script. Then I met with Melia's product manager, channel manager and engineer responsible for the restaurant reservation system
 
 This helped me to gather initial requirements and understand business goals.
+<br>
 
 #### Business goals
-- **Increase efficiency**: Streamline the reservation process to reduce staff worload and improve inventary management.
-- **Reduce dependency on third parties**: Minimise reliance on third-party reservation systems and reduce associated costs.
-- **Improve brand experience**: Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
+- **Increase efficiency**: streamline the reservation process to reduce staff worload and improve inventary management.
+- **Reduce dependency on third parties**: minimise reliance on third-party reservation systems and reduce associated costs.
+- **Improve brand experience**: ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
 
 <br>
 
@@ -65,7 +62,10 @@ This helped me to gather initial requirements and understand business goals.
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
 <br>
 
-I explored the backoffice and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints</mark>:  
+I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify technical constraints.
+<br>
+
+**Technical constraints**:
 
 - **Can’t modify reservations**: the system couldn't handle reservation changes, just delete them and create new ones.
 - **Can’t show availability at calendar level**: the booking engine couldn’t show availability at calendar level due to performance reasons.
@@ -87,6 +87,7 @@ With all the info I had from the discovery, I wroted a productd requirements doc
 - Requirements
 
 I reviewed it with Melia’s team to make sure we were on the same page.
+<br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
@@ -115,6 +116,7 @@ This allowed us to:
 I started exploring with very low fidelity.
 
 This always help me visualise many ideas quickly and weigh the pros and cons.
+
 <br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -122,8 +124,6 @@ This always help me visualise many ideas quickly and weigh the pros and cons.
 <br>
 
 ### Wireframe prototype
-
-<br>
 
 After some iterations and good feedback, I ended up with a solid proposal. I prototyped each use case so everyone could “feel” and test the experience.
 <br>
@@ -149,12 +149,12 @@ No problems were reported, which gave me mixed feelings.
 
 ---
 ### Normal booking
-
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
 ### Edit booking
-
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
