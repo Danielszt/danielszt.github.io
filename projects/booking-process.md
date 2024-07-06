@@ -17,10 +17,12 @@ title: Restaurant booking process
 
 Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countries. I worked with them on several projects over the course of about a year. 
 <br>
+<br>
 
 ### The problem
 
 Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The **lack of an unified reservation system** caused inconsistent customer experience and operational inefficiencies.
+
 <br>
 
 ### Role and team
@@ -32,13 +34,15 @@ The team consisted of:
 - Front-end developer
 - Project manager
 
+<br>
+
 ### Design process
 
-**1. Discovery**: understand the problem, user needs and business goals
-**2. Definition**: agree on what criteria the solution should meet
-**3. Prototype**: explore and communicate design ideas
-**4. Test**: identify gaps in the solution and reduce risk
-**5. Final design**: develop a polished design ready for implementation
+1. **Discovery**: understand the problem, user needs and business goals
+2. **Definition**: agree on what criteria the solution should meet
+3. **Prototype**: explore and communicate design ideas
+4. **Test**: identify gaps in the solution and reduce risk
+5. **Final design**: develop a polished design ready for implementation
 
 
 
@@ -54,12 +58,13 @@ This helped me to gather initial requirements and understand **business goals**:
 - **Increase efficiency**: Streamline the reservation process to reduce staff worload and improve inventary management.
 - **Reduce dependency on third parties**: Minimise reliance on third-party reservation systems and reduce associated costs.
 - **Improve brand experience**: Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
+
 <br>
 
 ### Backoffice analysis
 <br>
-
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<br>
 
 I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify **technical constraints**:  
 
@@ -73,9 +78,7 @@ I explored the backoffice and discussed my questions with the Meliá team. This 
 ## Definition
 ---
 ### Requirements document
-
-<a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 With all the info I had, I wroted a PRD stating:
 
 - Problem to solve
@@ -86,11 +89,12 @@ With all the info I had, I wroted a PRD stating:
 
 I reviewed it with Melia’s team to make sure we were on the same page.
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
 <br>
 
 ### User flow
-
-<a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<br>
 
 Using the PRD as a foundation, I created a user flow and reviewed it with stakeholders.
 
@@ -102,11 +106,13 @@ This allowed us to:
 
 <br>
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
+
 ## Prototype
 ---
 ### Low-fi exploration
-
-<a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 I started exploring with very low fidelity.
 
@@ -114,13 +120,21 @@ This helps me visualise many ideas quickly and weigh the pros and cons.
 
 <br>
 
-### Wireframe prototypes of all use cases
+<a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
-<a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<br>
+
+### Wireframe prototype
+
+<br>
 
 After some iterations and good feedback, I ended up with a solid proposal.
 
 I prototyped each use case so everyone could “feel” and test the experience.
+
+<br>
+
+<a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
