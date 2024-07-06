@@ -49,9 +49,11 @@ The team consisted of:
 ---
 ### Stakeholder interviews
 
-First I outlined our learning objectives and prepared the interview script. Then I met with the product Manager, channel anager and engineer responsible for the restaurant reservation system
+First I outlined our learning objectives and prepared the interview script. Then I met with Melia's product manager, channel manager and engineer responsible for the restaurant reservation system
 
-<mark>This helped me to gather initial requirements and understand business goals</mark>:
+This helped me to gather initial requirements and understand business goals.
+
+#### Business goals
 - **Increase efficiency**: Streamline the reservation process to reduce staff worload and improve inventary management.
 - **Reduce dependency on third parties**: Minimise reliance on third-party reservation systems and reduce associated costs.
 - **Improve brand experience**: Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
@@ -63,7 +65,7 @@ First I outlined our learning objectives and prepared the interview script. Then
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
 <br>
 
-I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify **technical constraints**:  
+I explored the backoffice and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints</mark>:  
 
 - **Can’t modify reservations**: the system couldn't handle reservation changes, just delete them and create new ones.
 - **Can’t show availability at calendar level**: the booking engine couldn’t show availability at calendar level due to performance reasons.
@@ -75,8 +77,8 @@ I explored the backoffice and discussed my questions with the Meliá team. This 
 ## Definition
 ---
 ### Requirements document
-<br>
-With all the info I had, I wroted a PRD stating:
+
+With all the info I had from the discovery, I wroted a productd requirements document (PRD) stating:
 
 - Problem to solve
 - Goals
@@ -91,9 +93,8 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 <br>
 
 ### User flow
-<br>
 
-Using the PRD as a foundation, I created a user flow and reviewed it with stakeholders.
+Using the PRD as a foundation, I created a user flow and reviewed it with the team and stakeholders.
 
 This allowed us to:
 
@@ -113,8 +114,7 @@ This allowed us to:
 
 I started exploring with very low fidelity.
 
-This helps me visualise many ideas quickly and weigh the pros and cons.
-
+This always help me visualise many ideas quickly and weigh the pros and cons.
 <br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -125,10 +125,7 @@ This helps me visualise many ideas quickly and weigh the pros and cons.
 
 <br>
 
-After some iterations and good feedback, I ended up with a solid proposal.
-
-I prototyped each use case so everyone could “feel” and test the experience.
-
+After some iterations and good feedback, I ended up with a solid proposal. I prototyped each use case so everyone could “feel” and test the experience.
 <br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -148,16 +145,16 @@ No problems were reported, which gave me mixed feelings.
 ## Final design
 <br>
 
-You can view a prototype of all use cases here
+📱 You can view a prototype of all use cases [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
 
 ---
 ### Normal booking
 
-<a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
 ### Edit booking
 
-<a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
