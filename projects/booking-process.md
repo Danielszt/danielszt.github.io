@@ -7,7 +7,7 @@ title: Restaurant booking process
 *Project carried out in [Hanzo](https://hanzo.es/) for [Meliá](https://www.melia.com/)*<br>
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/bm1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/bm1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
@@ -44,6 +44,8 @@ This helped me to gather initial requirements and understand business goals
 
 ### Backoffice analysis
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
 I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify technical constraints:  
 
 #### Technical constraints
@@ -57,6 +59,8 @@ I explored the backoffice and discussed my questions with the Meliá team. This 
 ## Definition
 ---
 ### Requirements document
+
+<a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 With all the info I had, I wroted a PRD stating:
 
@@ -72,6 +76,8 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 
 ### User flow
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
 Using the PRD as a foundation, I created a user flow and reviewed it with stakeholders.
 
 This allowed us to:
@@ -86,6 +92,8 @@ This allowed us to:
 ---
 ### Low-fi exploration
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
 I started exploring with very low fidelity.
 
 This helps me visualise many ideas quickly and weigh the pros and cons.
@@ -93,6 +101,8 @@ This helps me visualise many ideas quickly and weigh the pros and cons.
 <br>
 
 ### Wireframe prototypes of all use cases
+
+<a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 After some iterations and good feedback, I ended up with a solid proposal.
 
@@ -112,6 +122,13 @@ No problems were reported, which gave me mixed feelings.
 
 ## Final design
 ---
-### Key screens
+### Normal booking
 
+<a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
+
+### Edit booking
+
+<a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
