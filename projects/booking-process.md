@@ -11,7 +11,7 @@ title: Restaurant booking process
 
 <br>
 
-## Context
+# Context
 ---
 ### About Meliá
 
@@ -41,7 +41,7 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br><br>
 
 
-## Discovery
+# Discovery
 ---
 ### Stakeholder interviews
 
