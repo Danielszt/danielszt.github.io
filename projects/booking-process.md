@@ -32,7 +32,7 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br>
 
 ### Design process
-
+<br>
 <table>
   <thead>
     <tr>
