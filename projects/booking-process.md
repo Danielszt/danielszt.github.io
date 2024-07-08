@@ -31,8 +31,8 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br>
 <br>
 
-### Design process
-<br>
+### Design process <br>
+
 <table>
   <thead>
     <tr>
