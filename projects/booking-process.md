@@ -31,8 +31,7 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br>
 <br>
 
-### Design process <br>
-
+### Design process 
 
 1. **Discovery**:	understand the problem, user needs and business goals
 2. **Definition**: agree on what criteria the solution should meet
@@ -46,7 +45,7 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 ---
 ### Stakeholder interviews
 
-First I outlined our learning objectives and prepared the interview script. Then I met with Melia's product manager, channel manager and engineer responsible for the restaurant reservation system
+I created a research project in our research database, wrote down our learning objectives and prepared the interview strip. Then I met with Melia's product manager and the engineers responsible for the reservation system.
 
 This helped me to gather initial requirements and understand business goals.
 <br>
