@@ -33,11 +33,12 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 
 ### Design process <br>
 
-1. Discovery:	understand the problem, user needs and business goals
-2. Definition: agree on what criteria the solution should meet
-3. Prototype	explore and communicate design ideas
-4. Test: identify gaps in the solution and reduce risk
-5. Final design:	develop a polished design ready for implementation
+
+1. **Discovery**:	understand the problem, user needs and business goals
+2. **Definition**: agree on what criteria the solution should meet
+3. **Prototype**:	explore and communicate design ideas
+4. **Test**: identify gaps in the solution and reduce risk
+5. **Final design**:	develop a polished design ready for implementation
 
 <br>
 
@@ -50,8 +51,7 @@ First I outlined our learning objectives and prepared the interview script. Then
 This helped me to gather initial requirements and understand business goals.
 <br>
 
-#### Business goals
-
+#### Business goals <br>
 - Increase efficiency:	streamline the reservation process to reduce staff worload and improve inventary management
 - Reduce dependency on third parties:	minimise reliance on third-party reservation systems and reduce associated costs
 - Improve brand experience:	ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability
