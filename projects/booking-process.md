@@ -32,13 +32,39 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 <br>
 
 ### Design process
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Goal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Discovery</td>
+      <td>Understand the problem, user needs and business goals</td>
+    </tr>
+    <tr>
+      <td>Definition</td>
+      <td>Agree on what criteria the solution should meet</td>
+    </tr>
+    <tr>
+      <td>Prototype</td>
+      <td>Explore and communicate design ideas</td>
+    </tr>
+    <tr>
+      <td>Test</td>
+      <td>Identify gaps in the solution and reduce risk</td>
+    </tr>
+    <tr>
+      <td>Final design</td>
+      <td>Develop a polished design ready for implementation</td>
+    </tr>
+  </tbody>
+</table>
+
 <br>
-1. **Discovery**: understand the problem, user needs and business goals
-2. **Definition**: agree on what criteria the solution should meet
-3. **Prototype**: explore and communicate design ideas
-4. **Test**: identify gaps in the solution and reduce risk
-5. **Final design**: develop a polished design ready for implementation
-<br><br>
 
 
 # Discovery
@@ -51,9 +77,31 @@ This helped me to gather initial requirements and understand business goals.
 <br>
 
 #### Business goals
-- **Increase efficiency**: streamline the reservation process to reduce staff worload and improve inventary management.
-- **Reduce dependency on third parties**: minimise reliance on third-party reservation systems and reduce associated costs.
-- **Improve brand experience**: ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability.
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Goal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Increase efficiency</td>
+      <td>Streamline the reservation process to reduce staff worload and improve inventary management</td>
+    </tr>
+    <tr>
+      <td>Reduce dependency on third parties</td>
+      <td>Minimise reliance on third-party reservation systems and reduce associated costs</td>
+    </tr>
+    <tr>
+      <td>Improve brand experience</td>
+      <td>Ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability</td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 <br>
 
