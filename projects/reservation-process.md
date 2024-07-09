@@ -52,23 +52,23 @@ I created a research project in our research database, wrote down our learning o
 - Reduce staff manual workload and streamline inventory management.
 - Reduce dependency on third parties and associated costs.
 - Ensure brand consistency and quality of experience across all touchpoints.
+
 <br>
 
 ## Backoffice analysis
 
-<mark>I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify technical constraints.</mark>
+I explored the backoffice and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints.</mark>
 <br>
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
 <br>
 
-**Technical constraints**:
-
-- **Can’t modify reservations**: the system couldn't handle reservation changes, just delete them and create new ones.
-- **Can’t show availability at calendar level**: the booking engine couldn’t show availability at calendar level due to performance reasons.
-- **Time slots must be service-based**: time slots had to be split by service (breakfast, lunch...) and be presented at 15 minute intervals.
--  **Not all reservations are auto-confirmed**: restaurants could disable automatic confirmation for large groups or people.
+Theses were the main technical constrains I found:
+- The system couldn't handle reservation changes, just delete them and create new ones.
+- The booking engine couldn’t show availability at calendar level due to performance reasons.
+- Time slots had to be split by service (breakfast, lunch...) and be presented at 15 minute intervals.
+- Restaurants could disable automatic confirmation for large groups or people.
 
 <br>
 
@@ -95,7 +95,7 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 
 Using the PRD as a foundation, I created a user flow and reviewed it with the team and stakeholders.
 
-This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications
+<mark>This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications<7mark>.
 
 <br>
 
