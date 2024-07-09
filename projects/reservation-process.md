@@ -13,25 +13,25 @@ title: Restaurant reservation process
 
 # Context
 ---
-### About Meliá
+## About Meliá
 
 Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countries. I worked with them on several projects over the course of about a year. 
 <br>
 <br>
 
-### The problem
+## The problem
 
 Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies.
 <br>
 <br>
 
-### Role and team
+## Role and team
 
 The team consisted of a UX designer (myself), a visual designer, a front-end developer and a product manager. We worked closely with Melia's product manager and engineers.
 <br>
 <br>
 
-### Design process 
+## Design process 
 
 1. **Discovery**:	understand the problem, user needs and business goals
 2. **Definition**: agree on what criteria the solution should meet
@@ -43,28 +43,24 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 
 # Discovery
 ---
-### Stakeholder interviews
+## Stakeholder interviews
 
 I created a research project in our research database, wrote down our learning objectives and prepared the interview strip. Then I met with Melia's product manager and the engineers responsible for the reservation system.
 
-This helped me to gather initial requirements and understand business goals.
+<mark>This helped me to gather initial requirements and understand business goals</mark>:
 
-<a href="{{ https://danielszt.github.io/ }}/assets/si.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/si.png" alt="stakeholders-interview" class="inline"/></a>
+- Reduce staff manual workload and streamline inventory management.
+- Reduce dependency on third parties and associated costs.
+- Ensure brand consistency and quality of experience across all touchpoints.
 <br>
 
-#### Business goals <br>
-- Increase efficiency:	streamline the reservation process to reduce staff worload and improve inventary management
-- Reduce dependency on third parties:	minimise reliance on third-party reservation systems and reduce associated costs
-- Improve brand experience:	ensure consistent quality and brand experience across all touchpoints, reinforcing brand reliability
+## Backoffice analysis
 
+<mark>I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify technical constraints.</mark>
 <br>
 
-### Backoffice analysis
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
-<br>
-
-I explored the backoffice and discussed my questions with the Meliá team. This helped me to ensure data consistency and identify technical constraints.
 <br>
 
 **Technical constraints**:
