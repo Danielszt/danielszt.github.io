@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Restaurant booking process
+title: Restaurant reservation process
 ---
 
 
@@ -48,6 +48,8 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 I created a research project in our research database, wrote down our learning objectives and prepared the interview strip. Then I met with Melia's product manager and the engineers responsible for the reservation system.
 
 This helped me to gather initial requirements and understand business goals.
+
+<a href="{{ https://danielszt.github.io/ }}/assets/si.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/si.png" alt="stakeholders-interview" class="inline"/></a>
 <br>
 
 #### Business goals <br>
@@ -97,11 +99,7 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 
 Using the PRD as a foundation, I created a user flow and reviewed it with the team and stakeholders.
 
-This allowed us to:
-
-- Map all use cases
-- Connect user flow with backend system
-- Account for user communications
+This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications
 
 <br>
 
@@ -139,8 +137,9 @@ After some iterations and good feedback, I ended up with a solid proposal. I pro
 User testing wasn't in the budget or project plan, so instead I did some guerrilla testing.
 
 No problems were reported, which gave me mixed feelings.
-
 <br>
+
+<a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="test" class="inline"/></a>
 
 ## Final design
 <br>
@@ -150,11 +149,31 @@ No problems were reported, which gave me mixed feelings.
 ---
 ### Normal booking
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
 ### Edit booking
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
+
+### Request table (for reservations with 8+ people)
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb10.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
+
+### Cancel reservation 
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb11.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb11.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
+
+### Other use cases
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb12.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb12.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+<br>
 
