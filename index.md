@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Hey! 🪸
+title: Hey! 👋✨
 ---
 
 
 <br>
 I'm **Daniel Sáez**, a versatile designer with a knack for strategy and craft.
 
-<br>
 Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
 <br>
