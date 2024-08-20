@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Restaurant reservation process
+title: Restaurant reservation flow
 ---
 
 
