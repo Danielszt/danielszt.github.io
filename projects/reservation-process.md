@@ -11,6 +11,9 @@ title: Restaurant reservation process
 
 <br>
 
+# TL;DR
+This is a test
+
 # Context
 ---
 ## About Meliá
@@ -21,23 +24,19 @@ Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countr
 
 ## The problem
 
-Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies.
+Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies, so they created a in-house reservation management system and asked us to design the user experience.
 <br>
 <br>
 
-## Role and team
 
-The team consisted of a UX designer (myself), a visual designer, a front-end developer and a product manager. We worked closely with Melia's product manager and engineers.
-<br>
-<br>
 
 ## Design process 
 
-1. **Discovery**:	understand the problem, user needs and business goals
-2. **Definition**: agree on what criteria the solution should meet
-3. **Prototype**:	explore and communicate design ideas
-4. **Test**: identify gaps in the solution and reduce risk
-5. **Final design**:	develop a polished design ready for implementation
+1. Discovery:	understand the problem, user needs and business goals
+2. Definition: agree on what criteria the solution should meet
+3. Prototype:	explore and communicate design ideas
+4. Test: identify gaps in the solution and reduce risk
+5. Final design:	develop a polished design ready for implementation
 
 <br>
 
@@ -45,9 +44,9 @@ The team consisted of a UX designer (myself), a visual designer, a front-end dev
 ---
 ## Stakeholder interviews
 
-I created a research project in our research database, wrote down our learning objectives and prepared the interview strip. Then I met with Melia's product manager and the engineers responsible for the reservation system.
+I created a research project in our research database, wrote down our learning objectives and prepared the interview script. Then I met with Melia's product manager and the engineers responsible for the reservation management system.
 
-<mark>This helped me to gather initial requirements and understand business goals</mark>:
+This helped me to gather initial requirements and understand the business goals:
 
 - Reduce staff manual workload and streamline inventory management.
 - Reduce dependency on third parties and associated costs.
@@ -57,18 +56,15 @@ I created a research project in our research database, wrote down our learning o
 
 ## Backoffice analysis
 
-I explored the backoffice and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints.</mark>
-<br>
+Whatever I designed, it had to be consistent with the reservation management system (backoffice), so I explored it and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints, like:</mark>:
+
+- The booking engine couldn’t show availability at calendar level due to performance reasons.
+- Time slots had to be split by service (breakfast, lunch...) and presented at 15 minute intervals. 
+- Restaurants could disable automatic confirmation for large groups or people.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
 <br>
-
-Theses were the main technical constrains I found:
-- The system couldn't handle reservation changes, just delete them and create new ones.
-- The booking engine couldn’t show availability at calendar level due to performance reasons.
-- Time slots had to be split by service (breakfast, lunch...) and be presented at 15 minute intervals.
-- Restaurants could disable automatic confirmation for large groups or people.
 
 <br>
 
@@ -85,6 +81,7 @@ With all the info I had from the discovery, I wroted a productd requirements doc
 - Requirements
 
 I reviewed it with Melia’s team to make sure we were on the same page.
+
 <br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -95,10 +92,9 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 
 Using the PRD as a foundation, I created a user flow and reviewed it with the team and stakeholders.
 
-<mark>This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications<7mark>.
+This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications<.
 
 <br>
-
 <a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
@@ -112,7 +108,6 @@ I started exploring with very low fidelity.
 This always help me visualise many ideas quickly and weigh the pros and cons.
 
 <br>
-
 <a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
@@ -130,20 +125,30 @@ After some iterations and good feedback, I ended up with a solid proposal. I pro
 ---
 ### Guerrilla testing
 
-User testing wasn't in the budget or project plan, so instead I did some guerrilla testing.
+User testing wasn’t included in the budget or project plan, so I conducted guerrilla testing instead (I have experience with formal testing, it just wasn't possible this time). 
 
-No problems were reported, which gave me mixed feelings.
+We discovered that the current day wasn’t obvious to some users, so I added “Today” next to the current date. This served as a reference point, helping users consider upcoming dates with more confidence.
+
 <br>
 
 <a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="test" class="inline"/></a>
 
 ## Final design
-<br>
-
-📱 You can view a prototype of all use cases [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
-
 ---
+
+Below you can see the design for the main use cases. You can also can view a prototype [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
+
+
 ### Normal booking
+<br>
+Users selects the nº of people, day and time of the reservation. Then they enter their contact info and confirm the booking. This takes them to the booking confirmation.
+
+Key decisions:
+- Use smart default values
+- Split the process in 3 screens 
+- Buttons only fixed when enabled
+- No innecesary placeholders that add clutter
+
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
@@ -151,25 +156,40 @@ No problems were reported, which gave me mixed feelings.
 
 ### Edit booking
 <br>
+
+Users edit an existing reservation and confirm the changes.
+
+Key decisions:
+- Highlight the changes allowing comparison between the old and new reservation
+
 <a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
 ### Request table (for reservations with 8+ people)
 <br>
+
+Some restaurants wanted to manually review reservations for +8 people, so for this case we deactivated the atomatic confirmation and adapted the flow.
+
+Key decisions:
+- Place the explanatory message next to the control that triggers it (nº of people)
+- Use UI copy to make clear that this is a table request, not a reservation.
+
 <a href="{{ https://danielszt.github.io/ }}/assets/mb10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb10.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
 ### Cancel reservation 
+
+Users cancel a reservation. They can inform Meliá about the cancellation reason
+
+Key decision:
+- Make the feedback about the cancelation reason optional
+  
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb11.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb11.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### Other use cases
-<br>
-<a href="{{ https://danielszt.github.io/ }}/assets/mb12.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb12.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
-<br>
 
