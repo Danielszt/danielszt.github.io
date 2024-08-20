@@ -13,7 +13,10 @@ title: Restaurant reservation process
 
 # TL;DR
 ---
-This is a test
+- Meliá needed a unified reservation system to improve efficiency and customer experience.
+- Through stakeholder interviews and backoffice analysis I identified goals and technical constraints.
+- I created a PRD, a user flow and prototypes to define and align on the solution
+- The final design streamlined booking, improved reservation editing, and handled large group requests efficiently.
 <br>
 <br>
 
