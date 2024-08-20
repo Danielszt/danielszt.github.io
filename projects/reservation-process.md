@@ -39,7 +39,7 @@ Meliá restaurants managed table reservations through a variety of methods, most
 ---
 ## Stakeholder interviews
 
-I created a research project in our research database, wrote down our learning objectives and prepared the interview script. Then I met with Melia's product manager and the engineers responsible for the reservation management system.
+I created a research project in our research database, wrote down our learning objectives and prepared the interview script. Then I met with Melia's product manager and  engineers.
 
 This helped me to gather initial requirements and understand the business goals:
 
