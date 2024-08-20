@@ -20,10 +20,10 @@ Some of my work:
 Some things I believe in:
 
 - A well-defined problem leads to better solutions.
-- Clear writing reflects clear thinking.
+- Regularly talking to users sharpens product instinct.
+- Data-informed beats data-driven.
 - Good design solves problems and feels great.
-- Data-informed > data-driven.
-- Talking to users > abstract research models.
+- Clear writing reflects clear thinking.
 
 <br>
 Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
