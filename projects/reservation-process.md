@@ -55,7 +55,6 @@ Whatever I designed, it had to be consistent with the reservation management sys
 
 This helped me to ensure data consistency and identify technical constraints, like:
 
-- The booking engine couldn’t show availability at calendar level due to performance reasons.
 - Time slots had to be split by service (breakfast, lunch...) and presented at 15 minute intervals. 
 - Restaurants could disable automatic confirmation for large groups or people.
 
