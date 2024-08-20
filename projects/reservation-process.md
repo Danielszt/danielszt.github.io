@@ -18,6 +18,7 @@ title: Restaurant reservation flow
 - I created a PRD, a user flow and prototypes to define and align on the solution
 - The final design streamlined booking, improved reservation editing, and handled large group requests efficiently.
 <br>
+
 <br>
 
 # Context
