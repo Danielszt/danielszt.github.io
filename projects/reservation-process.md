@@ -134,8 +134,6 @@ Below you can see the design for the main use cases. You can also can view a pro
 <br>
 ## Normal booking
 
-Users selects the nº of people, day and time of the reservation. Then they enter their contact info and confirm the booking. This takes them to the booking confirmation.
-
 Key decisions:
 - Split the process in 3 screens 
 - Use smart default values
@@ -148,8 +146,6 @@ Key decisions:
 <br>
 
 ## Edit booking
-
-Users edit an existing reservation and confirm the changes.
 
 Key decisions:
 - Highlight the changes allowing comparison between the old and new reservation
@@ -173,8 +169,6 @@ Key decisions:
 <br>
 
 ## Cancel reservation 
-
-Users cancel a reservation. They can inform Meliá about the cancellation reason
 
 Key decision:
 - Make the feedback about the cancelation reason optional
