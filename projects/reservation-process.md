@@ -12,7 +12,10 @@ title: Restaurant reservation process
 <br>
 
 # TL;DR
+---
 This is a test
+<br>
+<br>
 
 # Context
 ---
@@ -56,7 +59,7 @@ This helped me to gather initial requirements and understand the business goals:
 
 ## Backoffice analysis
 
-Whatever I designed, it had to be consistent with the reservation management system (backoffice), so I explored it and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints, like:</mark>:
+Whatever I designed, it had to be consistent with the reservation management system (backoffice), so I explored it and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints, like:
 
 - The booking engine couldn’t show availability at calendar level due to performance reasons.
 - Time slots had to be split by service (breakfast, lunch...) and presented at 15 minute intervals. 
@@ -68,9 +71,9 @@ Whatever I designed, it had to be consistent with the reservation management sys
 
 <br>
 
-## Definition
+# Definition
 ---
-### Requirements document
+## Requirements document
 
 With all the info I had from the discovery, I wroted a productd requirements document (PRD) stating:
 
@@ -83,91 +86,88 @@ With all the info I had from the discovery, I wroted a productd requirements doc
 I reviewed it with Melia’s team to make sure we were on the same page.
 
 <br>
-
 <a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### User flow
+## User flow
 
 Using the PRD as a foundation, I created a user flow and reviewed it with the team and stakeholders.
 
-This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications<.
+This allowed us to map all use cases, connect the user flow with the backend and account for users emails and communications.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-## Prototype
+# Prototype
 ---
-### Low-fi exploration
+## Low-fi exploration
 
-I started exploring with very low fidelity.
-
-This always help me visualise many ideas quickly and weigh the pros and cons.
+I started exploring with very low fidelity. This helps me visualize many ideas quickly without getting caught up in the details.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### Wireframe prototype
+## Wireframe prototype
 
 After some iterations and good feedback, I ended up with a solid proposal. I prototyped each use case so everyone could “feel” and test the experience.
-<br>
 
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-## Test
+# Test
 ---
-### Guerrilla testing
+## Guerrilla testing
 
 User testing wasn’t included in the budget or project plan, so I conducted guerrilla testing instead (I have experience with formal testing, it just wasn't possible this time). 
 
 We discovered that the current day wasn’t obvious to some users, so I added “Today” next to the current date. This served as a reference point, helping users consider upcoming dates with more confidence.
 
 <br>
-
 <a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="test" class="inline"/></a>
 
-## Final design
+<br>
+
+# Final design
 ---
 
 Below you can see the design for the main use cases. You can also can view a prototype [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
 
 
-### Normal booking
-<br>
+## Normal booking
+
 Users selects the nº of people, day and time of the reservation. Then they enter their contact info and confirm the booking. This takes them to the booking confirmation.
 
 Key decisions:
-- Use smart default values
 - Split the process in 3 screens 
-- Buttons only fixed when enabled
-- No innecesary placeholders that add clutter
+- Use smart default values
+- Fix buttons only when enabled
+- Avoid unnecessary placeholders to reduce clutter
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### Edit booking
-<br>
+## Edit booking
 
 Users edit an existing reservation and confirm the changes.
 
 Key decisions:
 - Highlight the changes allowing comparison between the old and new reservation
 
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### Request table (for reservations with 8+ people)
-<br>
+## Request table (for reservations with 8+ people)
 
 Some restaurants wanted to manually review reservations for +8 people, so for this case we deactivated the atomatic confirmation and adapted the flow.
 
@@ -175,11 +175,12 @@ Key decisions:
 - Place the explanatory message next to the control that triggers it (nº of people)
 - Use UI copy to make clear that this is a table request, not a reservation.
 
+<br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb10.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 <br>
 
-### Cancel reservation 
+## Cancel reservation 
 
 Users cancel a reservation. They can inform Meliá about the cancellation reason
 
