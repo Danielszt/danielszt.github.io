@@ -32,17 +32,6 @@ Meliá restaurants managed table reservations through a variety of methods, most
 <br>
 
 
-
-## Design process 
-
-1. Discovery:	understand the problem, user needs and business goals
-2. Definition: agree on what criteria the solution should meet
-3. Prototype:	explore and communicate design ideas
-4. Test: identify gaps in the solution and reduce risk
-5. Final design:	develop a polished design ready for implementation
-
-<br>
-
 # Discovery
 ---
 ## Stakeholder interviews
@@ -59,7 +48,9 @@ This helped me to gather initial requirements and understand the business goals:
 
 ## Backoffice analysis
 
-Whatever I designed, it had to be consistent with the reservation management system (backoffice), so I explored it and discussed my questions with the Meliá team. <mark>This helped me to ensure data consistency and identify technical constraints, like:
+Whatever I designed, it had to be consistent with the reservation management system (backoffice), so I explored it and discussed my questions with the Meliá team. 
+
+This helped me to ensure data consistency and identify technical constraints, like:
 
 - The booking engine couldn’t show availability at calendar level due to performance reasons.
 - Time slots had to be split by service (breakfast, lunch...) and presented at 15 minute intervals. 
@@ -75,13 +66,7 @@ Whatever I designed, it had to be consistent with the reservation management sys
 ---
 ## Requirements document
 
-With all the info I had from the discovery, I wroted a productd requirements document (PRD) stating:
-
-- Problem to solve
-- Goals
-- KPIs
-- Limit and constrains
-- Requirements
+With all the info I had from the discovery, I wroted a productd requirements document (PRD) stating problem to solve, goals, KPIs, limits and constrains and initial requirements
 
 I reviewed it with Melia’s team to make sure we were on the same page.
 
@@ -139,7 +124,7 @@ We discovered that the current day wasn’t obvious to some users, so I added �
 
 Below you can see the design for the main use cases. You can also can view a prototype [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
 
-
+<br>
 ## Normal booking
 
 Users selects the nº of people, day and time of the reservation. Then they enter their contact info and confirm the booking. This takes them to the booking confirmation.
