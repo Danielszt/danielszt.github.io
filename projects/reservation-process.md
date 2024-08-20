@@ -29,8 +29,8 @@ Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countr
 
 Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies, so they created a in-house reservation management system and asked us to design the user experience.
 <br>
-<br>
 
+<br>
 
 # Discovery
 ---
@@ -83,6 +83,7 @@ This allowed us to map all use cases, connect the user flow with the backend and
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb4.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<br>
 
 <br>
 
@@ -103,6 +104,7 @@ After some iterations and good feedback, I ended up with a solid proposal. I pro
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb6.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<br>
 
 <br>
 
@@ -116,6 +118,7 @@ We discovered that the current day wasn’t obvious to some users, so I added �
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb7.png" alt="test" class="inline"/></a>
+<br>
 
 <br>
 
