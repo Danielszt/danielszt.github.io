@@ -16,7 +16,7 @@ title: Restaurant reservation flow
 - Meliá needed a unified restaurant reservation system to improve operational efficiency and customer experience.
 - I identified goals and technical constraints through stakeholder interviews and back-office analysis.
 - I created a PRD, user flow, and prototypes to define and align the solution.
-- The final design solves the initial problem and accounts for multiple use cases.
+- The solution accounts for multiple use cases and is the product of some key decision stated at the end of the case
 <br>
 
 <br>
