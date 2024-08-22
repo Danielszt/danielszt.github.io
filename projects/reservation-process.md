@@ -75,8 +75,7 @@ I reviewed it with Melia’s team to make sure we were on the same page.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb3.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
-
+<br>
 <br>
 
 ## User flow
@@ -99,7 +98,7 @@ I started exploring with very low fidelity. This helps me visualize many ideas q
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb5.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 <br>
 
 ## Wireframe prototype
@@ -135,24 +134,26 @@ Below you can see the design for the main use cases. You can also can view a pro
 ## Normal booking
 
 Key decisions:
-- Split the process in 3 screens 
+- Split the process in logical steps, one per screen. 
 - Use smart default values
 - Fix buttons only when enabled
 - Avoid unnecessary placeholders to reduce clutter
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 <br>
 
 ## Edit booking
 
 Key decisions:
-- Highlight the changes allowing comparison between the old and new reservation
+- Allowi comparison between the old and new reservation
+- Provide real-time feedback of changes
+- Preserving user data from the first booking
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 <br>
 
 ## Request table (for reservations with 8+ people)
@@ -165,7 +166,7 @@ Key decisions:
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb10.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 <br>
 
 ## Cancel reservation 
@@ -175,7 +176,7 @@ Key decision:
   
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb11.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb11.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
+<br>
 <br>
 
 
