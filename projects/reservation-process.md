@@ -135,9 +135,9 @@ Below you can see the design for the main use cases. You can also can view a pro
 
 Key decisions:
 - Split the process in logical steps, one per screen. 
-- Use smart default values
-- Fix buttons only when enabled
-- Avoid unnecessary placeholders to reduce clutter
+- Use smart default values.
+- Fix buttons only when enabled.
+- Avoid unnecessary placeholders to reduce clutter.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb8.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -147,9 +147,9 @@ Key decisions:
 ## Edit booking
 
 Key decisions:
-- Allowi comparison between the old and new reservation
-- Provide real-time feedback of changes
-- Preserving user data from the first booking
+- Allow comparison between the old and new reservation.
+- Provide real-time feedback of changes.
+- Preserving user data from the first booking.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb9.png" alt="Melia-restaurant-booking" class="inline"/></a>
@@ -161,7 +161,7 @@ Key decisions:
 Some restaurants wanted to manually review reservations for +8 people, so for this case we deactivated the atomatic confirmation and adapted the flow.
 
 Key decisions:
-- Place the explanatory message next to the control that triggers it (nº of people)
+- Place the explanatory message next to the control that triggers it (nº of people).
 - Use UI copy to make clear that this is a table request, not a reservation.
 
 <br>
