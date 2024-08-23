@@ -25,6 +25,8 @@ title: Customer portal redesign
 ## About Holcim
 
 Holcim is a leading supplier of cement, aggregates and other materials. With a presence in 70 countries and more than 63,000 employees worldwide, Holcim is committed to driving progress for people and the planet through innovative and sustainable building solutions.
+<br>
+<br>
 
 ## Problem to solve
 
@@ -44,6 +46,8 @@ Holcim employees used the portal to manage customer info, review deliveries and 
 ## Stakeholder interviews
 
 Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations.
+<br>
+<br>
 
 ## Definition workshops
 
@@ -66,6 +70,8 @@ This approach ensured that our design decisions were well informed and aligned w
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Customer portal information architecture</center></em></p>
+<br>
+<br>
 
 ## Key pages
 
