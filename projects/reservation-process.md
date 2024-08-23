@@ -15,8 +15,9 @@ title: Restaurant reservation flow
 ---
 - Meliá needed a unified restaurant reservation system to improve operational efficiency and customer experience.
 - I identified goals and technical constraints through stakeholder interviews and back-office analysis.
-- I created a PRD, user flow, and prototypes to define and align the solution.
-- The solution accounts for multiple use cases and is the product of some key decision stated at the end of the case
+- I created a PRD, user flow, and prototypes to define and align on the solution.
+- Guerrilla testing revealed one minor issue and I corrected it using copy
+- The solution meets the initial objectives and accounts for multiple use cases. 
 <br>
 
 <br>
@@ -128,7 +129,7 @@ We discovered that the current day wasn’t obvious to some users, so I added �
 # Final design
 ---
 
-Below you can see the design for the main use cases. You can also can view a prototype [here](https://www.figma.com/proto/2BkLsKCJmbz2xtsofB1OUT/Dani's-draft?page-id=440%3A70355&node-id=797-33185&viewport=-21%2C4878%2C0.1&t=B5QbrCqP21Pn23Iv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=797%3A33185).
+Below you can see the design for the main use cases. 
 
 <br>
 ## Normal booking
@@ -178,6 +179,6 @@ Key decision:
 <a href="{{ https://danielszt.github.io/ }}/assets/mb11.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb11.png" alt="Melia-restaurant-booking" class="inline"/></a>
 <br>
 <br>
-
-
+<br>
+Thanks for reading!
 
