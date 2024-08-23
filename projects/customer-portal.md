@@ -11,7 +11,7 @@ title: Customer portal redesign
 
 <br>
 
-## Outcome and results
+# Outcome and results
 ---
 - Improved the overall customer experience, saving users time and effort
 - Simplified administrative tasks for internal users (employees with admin role)
@@ -20,13 +20,13 @@ title: Customer portal redesign
 
 <br>
 
-## Context
+# Context
 ---
-### About Holcim
+## About Holcim
 
 Holcim is a leading supplier of cement, aggregates and other materials. With a presence in 70 countries and more than 63,000 employees worldwide, Holcim is committed to driving progress for people and the planet through innovative and sustainable building solutions.
 
-### Problem to solve
+## Problem to solve
 
 Originally developed as an internal tool, Holcim’s Customer Portal needed to be redesigned to accommodate external customers. 
 Key objectives included:
@@ -39,24 +39,13 @@ Holcim employees used the portal to manage customer info, review deliveries and 
 
 <br>
 
-## My role
+# Research and alignment
 ---
-I was the UX desinger in a team consisting of a visual designer, a front-end designer, a project manager and myself. My main responsibilities were:
-- Conduct research
-- Gather requirements
-- Define information architecture
-- Design wireframes and user flows
-- Communicate design decisions
-
-<br>
-
-## Research and alignment
----
-### Stakeholder interviews
+## Stakeholder interviews
 
 Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations.
 
-### Definition workshops
+## Definition workshops
 
 At the beginning of each sprint, I would have a workshop with the stakeholder responsible for the feature we were about to start working on.
 
@@ -70,15 +59,15 @@ This approach ensured that our design decisions were well informed and aligned w
 
 <br>
 
-## Designs
+# Designs
 ---
-### Information architecture
+## Information architecture
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Customer portal information architecture</center></em></p>
 
-### Key pages
+## Key pages
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
