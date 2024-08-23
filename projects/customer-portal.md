@@ -11,15 +11,6 @@ title: Customer portal redesign
 
 <br>
 
-# Outcome and results
----
-- Improved the overall customer experience, saving users time and effort
-- Simplified administrative tasks for internal users (employees with admin role)
-- Delivered a responsive version of the portal, addressing a previously unmet need
-- Gave users more control and visibility with 2 new features: dashboard and notifications
-
-<br>
-
 # Context
 ---
 ## About Holcim
@@ -55,18 +46,20 @@ Key objectives included:
 ---
 ## Stakeholder interviews
 
-Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations. Unfortunately, we couldn't talk directly to customers, so we interviewed several people from customer support and other customer-facing roles to gain insights into customer needs, pain points, and preferences.
+Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations. 
+
+Unfortunately, we couldn't talk directly to customers, so we interviewed several people from customer support and other customer-facing roles to gain insights into customer needs, pain points, and preferences.
 
 Main discovery insights:
 - Current order process is too complex and time-consuming for customers.
 - Customers find it difficult to track their orders, leading to uncertainty and delays.
-- Customers find it challenging to reorder previous purchases quickly, causing delays and inefficiencies.
+- Customers find it challenging to reorder previous purchases quickly.
 - We could simplify navigation by grouping similar features under a common section.
-- Customers can’t use the portal on mobile devices, limiting their ability to manage orders on the go.
-- The current portal lacks a notification system, causing customers to miss important updates and actions.
+- Customers can’t use the portal on mobile, limiting their ability to manage orders on the go.
+- The portal lacks a notification system, causing customers to miss important updates.
 - Customers who place bulk orders find the current system inadequate for handling their needs efficiently.
-- Customers face difficulties managing their account settings, such as updating contact information or payment details.
-- There are frequent bottlenecks in customer support due to repetitive queries that could be addressed by self-service options in the portal.
+- Customers face difficulties managing their account settings, such as updating contact information or payment methods.
+- There are frequent bottlenecks in customer support due to repetitive queries that could be addressed by self-service options.
   
 <br>
 
