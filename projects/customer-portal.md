@@ -35,7 +35,9 @@ Holcim is a leading supplier of cement, aggregates and other materials. With a p
 
 Originally developed as an internal tool, Holcim’s Customer Portal was opened to customers without proper adaptation, resulting in poor adoption and many UX problems. Holcim hired us to fix this. 
 
-The customer portal had 2 types of users: customers, who used the portal to manage their commercial relationship with Holcim (ordering materials, tracking deliveries, checking invoices...) and admins, who used the portal to manage customer information, check deliveries and upload relevant documents for customers.
+The customer portal has 2 types of users:
+- Customers:  use the portal to manage their commercial relationship with Holcim, like ordering materials, tracking deliveries or  checking invoices.
+- Admins, who used the portal to manage customer information, support customers and upload relevant documents for customers.
 
 Key objectives included:
 - Reducing phone/email orders and inquiries from customers.
@@ -55,10 +57,10 @@ Key objectives included:
 
 Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations. Unfortunately, we couldn't talk directly to customers, so we interviewed several people from customer support and other customer-facing roles to gain insights into customer needs, pain points, and preferences.
 
-Discovery insights:
+Main discovery insights:
 - Current order process is too complex and time-consuming for customers.
-- Customers find it difficult to track their orders and delivery statuses, leading to uncertainty and delays.
-- - Customers find it challenging to reorder previous purchases quickly, causing delays and inefficiencies.
+- Customers find it difficult to track their orders, leading to uncertainty and delays.
+- Customers find it challenging to reorder previous purchases quickly, causing delays and inefficiencies.
 - We could simplify navigation by grouping similar features under a common section.
 - Customers can’t use the portal on mobile devices, limiting their ability to manage orders on the go.
 - The current portal lacks a notification system, causing customers to miss important updates and actions.
@@ -89,7 +91,7 @@ We should have tested it with users, but we didn’t. I would have done an open 
 <br>
 <br>
 
-## Definition workshops
+## Aligment workshops
 
 At the beginning of each sprint, I would have a workshop with the stakeholder responsible for the feature we were about to start working on.
 
@@ -99,10 +101,11 @@ At this meeting we discussed:
 - Problems users were facing
 - Other ideas we might have had
 
-This approach ensured that our design decisions were well informed and aligned with the project goals.
+The output of the meeting was a shared PRD (Product Requirements Document) This approach ensured that our design decisions were well informed and aligned with the project goals.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Notifications feature PRD</center></em></p>
 <br>
 <br>
 
@@ -110,6 +113,7 @@ This approach ensured that our design decisions were well informed and aligned w
 ---
 
 ## Key pages
+
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp6.png" alt="Customer-portal" class="inline"/></a>
@@ -134,7 +138,7 @@ This approach ensured that our design decisions were well informed and aligned w
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp10.png" alt="Customer-portal" class="inline"/></a>
 <p><em><center>Article creation (only for admin users)</center></em></p>
-
+<br>
 <br>
 
 Thanks for reading!
