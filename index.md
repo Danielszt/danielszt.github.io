@@ -40,8 +40,17 @@ Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} 
 <a href="https://danielszt.github.io/projects/reservation-process" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-### Restaurant reservation flow for Meliá Hotels. [View project](https://danielszt.github.io/projects/reservation-process/)
+#### Restaurant reservation flow for Meliá Hotels.  [View project](https://danielszt.github.io/projects/reservation-process/)
+
+<br>
+<br>
+
+<a href="https://danielszt.github.io/projects/customer-portal" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-<a href="{{ https://danielszt.github.io/ }}/assets/mb1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+#### Customer portal redesign for Holcim.  [View project](https://danielszt.github.io/projects/reservation-process/)
+
+<br>
+<br>
+
 
