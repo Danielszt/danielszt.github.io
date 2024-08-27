@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medical Estimate Feature
+title: Medical estimates feature
 ---
 
 
@@ -23,11 +23,14 @@ Expressed as user story:
 - As a patient, I want to have online access to my medical estimates so I can review and pay them without having to go to the hospital.
 
 <br>
+<br>
 # Research
 ---
 ## Interview with stakeholders
 I had an interview with 2 stakeholder who work daily with estimates and patients. Thanks to this I was able to better understand how medical estimates work and capture some key requirements for the design.
 
+<br>
+<br>
 ## Patient journey workshop
 
 I organized a workshop to uncover the current user journey and understand customer needs. I invited the 2 stakeholders I previously had the interview with and the rest of the team. The resulting user journey provided us with a holistic view of the actual patient experience with medical estimates.
