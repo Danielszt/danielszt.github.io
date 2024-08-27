@@ -15,6 +15,8 @@ title: Medical estimates feature
 ## About Vithas
 Vithas is a hospital group with 20 hospitals and 16 medical centers in Spain. Through its **Patient area** (accesible via app and web), patients can make appointments, manage their medical information, contact Vithas and much more.
 
+<br>
+<br>
 ## Task and goal
 We wanted to offer users the possibility of consulting, managing and paying for **Medical estimates** directly on the patient area. So the task consisted of designing the MVP of this new feature.
 
@@ -29,7 +31,6 @@ Expressed as user story:
 ## Interview with stakeholders
 I had an interview with 2 stakeholder who work daily with estimates and patients. Thanks to this I was able to better understand how medical estimates work and capture some key requirements for the design.
 
-<br>
 <br>
 ## Patient journey workshop
 
