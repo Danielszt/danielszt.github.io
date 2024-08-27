@@ -12,9 +12,9 @@ Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](htt
 <br>
 Some of my work:
 
-- [Restaurant reservation flow](https://danielszt.github.io/projects/reservation-process/)
-- [Customer portal redesign](https://danielszt.github.io/projects/customer-portal/)
-- [Medical estimate feature](https://danielszt.github.io/projects/medical-estimates/)
+- [Restaurant reservation flow for Meliá Hotels](https://danielszt.github.io/projects/reservation-process/)
+- [Customer portal redesign for Holcim](https://danielszt.github.io/projects/customer-portal/)
+- [Medical estimate feature for Vithas](https://danielszt.github.io/projects/medical-estimates/)
 
 <br>
 Some things I believe in:
