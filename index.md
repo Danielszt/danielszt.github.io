@@ -9,8 +9,7 @@ I’m Daniel Sáez, a versatile designer with a knack for strategy, craft and st
 
 Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
-
-<a href="{{ https://danielszt.github.io/assets/mb1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/>
+<a href="{{ https://danielszt.github.io/ }}/assets/mb1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 [Restaurant reservation flow](https://danielszt.github.io/projects/reservation-process/)
 
