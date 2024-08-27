@@ -27,7 +27,7 @@ title: Restaurant reservation flow
 ## About Meliá
 
 Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countries. I worked with them on several projects over the course of about a year. 
-<br>
+
 <br>
 
 ## The problem
