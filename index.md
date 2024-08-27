@@ -6,6 +6,7 @@ title: Hey 👋
 
 <br>
 I’m Daniel Sáez, a product designer with a knack for strategy, craft and storytelling. 
+<br>
 Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
 
@@ -49,6 +50,8 @@ Medical estimate feature for Vithas · [View project](https://danielszt.github.i
 - Data-informed beats data-driven.
 - Good design solves problems and feels great.
 - Clear writing reflects clear thinking.
+
+<br>
 
 -----
 
