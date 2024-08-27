@@ -5,7 +5,8 @@ title: Hey 👋
 
 
 <br>
-I’m Daniel Sáez, a product designer with a knack for strategy, craft and storytelling. Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
+I’m Daniel Sáez, a product designer with a knack for strategy, craft and storytelling. 
+Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
 
 <br>
@@ -16,7 +17,7 @@ I’m Daniel Sáez, a product designer with a knack for strategy, craft and stor
 <a href="https://danielszt.github.io/projects/reservation-process" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-### Restaurant reservation flow for Meliá Hotels   [View project](https://danielszt.github.io/projects/reservation-process/)
+Restaurant reservation flow for Meliá Hotels   [View project](https://danielszt.github.io/projects/reservation-process/)
 
 <br>
 <br>
@@ -41,7 +42,7 @@ I’m Daniel Sáez, a product designer with a knack for strategy, craft and stor
 
 <br>
 
-###Some things I believe in:###
+## Some things I believe in ⤵
 
 - A well-defined problem leads to better solutions.
 - Regularly talking to users sharpens product instinct.
