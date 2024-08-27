@@ -16,7 +16,7 @@ I’m Daniel Sáez, a versatile product designer with a knack for strategy, craf
 <a href="https://danielszt.github.io/projects/reservation-process"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-Restaurant reservation flow for **Meliá Hotels** · [View project](https://danielszt.github.io/projects/reservation-process/)
+Restaurant reservation flow for Meliá Hotels · [View project](https://danielszt.github.io/projects/reservation-process/)
 
 <br>
 <br>
@@ -24,7 +24,7 @@ Restaurant reservation flow for **Meliá Hotels** · [View project](https://dani
 <a href="https://danielszt.github.io/projects/customer-portal"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-Customer portal redesign for **Holcim** · [View project](https://danielszt.github.io/projects/reservation-process/)
+Customer portal redesign for Holcim · [View project](https://danielszt.github.io/projects/reservation-process/)
 
 <br>
 <br>
@@ -32,7 +32,7 @@ Customer portal redesign for **Holcim** · [View project](https://danielszt.gith
 <a href="https://danielszt.github.io/projects/medical-estimates"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-Medical estimate feature for **Vithas** · [View project](https://danielszt.github.io/projects/medical-estimates/)
+Medical estimate feature for Vithas · [View project](https://danielszt.github.io/projects/medical-estimates/)
 
 <br>
 <br>
