@@ -21,7 +21,7 @@ Restaurant reservation flow for **Meliá Hotels** · [View project](https://dani
 <br>
 <br>
 
-<a href="https://danielszt.github.io/projects/customer-portal" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="https://danielszt.github.io/projects/customer-portal"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
 Customer portal redesign for **Holcim** · [View project](https://danielszt.github.io/projects/reservation-process/)
@@ -29,10 +29,10 @@ Customer portal redesign for **Holcim** · [View project](https://danielszt.gith
 <br>
 <br>
 
-<a href="https://danielszt.github.io/projects/medical estimates" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="https://danielszt.github.io/projects/medical-estimates"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-Medical estimate feature for **Vithas** · [View project](https://danielszt.github.io/projects/medical estimates/)
+Medical estimate feature for **Vithas** · [View project](https://danielszt.github.io/projects/medical-estimates/)
 
 <br>
 <br>
