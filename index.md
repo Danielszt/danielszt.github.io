@@ -33,8 +33,8 @@ Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} 
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb1.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
-<br>
 
-[Restaurant reservation flow for Meliá Hotels](https://danielszt.github.io/projects/reservation-process/)
+
+## [Restaurant reservation flow for Meliá Hotels](https://danielszt.github.io/projects/reservation-process/)
 
 
