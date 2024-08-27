@@ -10,11 +10,34 @@ I’m Daniel Sáez, a versatile designer with a knack for strategy, craft and st
 Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en), [Fever](https://feverup.com/) and [Buzzial](https://buzzial.com/).
 
 <br>
-Some of my work:
+##Some of my work:
 
-- [Restaurant reservation flow for Meliá Hotels](https://danielszt.github.io/projects/reservation-process/)
-- [Customer portal redesign for Holcim](https://danielszt.github.io/projects/customer-portal/)
-- [Medical estimate feature for Vithas](https://danielszt.github.io/projects/medical-estimates/)
+
+<br>
+<a href="https://danielszt.github.io/projects/reservation-process" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+
+### Restaurant reservation flow for Meliá Hotels.  [View project](https://danielszt.github.io/projects/reservation-process/)
+
+<br>
+<br>
+
+<a href="https://danielszt.github.io/projects/customer-portal" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+
+### Customer portal redesign for Holcim.  [View project](https://danielszt.github.io/projects/reservation-process/)
+
+<br>
+<br>
+
+<a href="https://danielszt.github.io/projects/medical estimates" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+
+### Medical estimate feature for Vithas.  [View project](https://danielszt.github.io/projects/medical estimates/)
+
+<br>
+<br>
+
 
 <br>
 Some things I believe in:
@@ -27,37 +50,4 @@ Some things I believe in:
 
 <br>
 Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} or through [LinkedIn](https://www.linkedin.com/in/daniel-s%C3%A1ez-torregrosa/).
-
-
-
-
-
-
-
-
-
-<br>
-<a href="https://danielszt.github.io/projects/reservation-process" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
-
-#### Restaurant reservation flow for Meliá Hotels.  [View project](https://danielszt.github.io/projects/reservation-process/)
-
-<br>
-<br>
-
-<a href="https://danielszt.github.io/projects/customer-portal" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
-
-#### Customer portal redesign for Holcim.  [View project](https://danielszt.github.io/projects/reservation-process/)
-
-<br>
-<br>
-
-<a href="https://danielszt.github.io/projects/medical estimates" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
-
-Medical estimate feature for Vithas.  [View project](https://danielszt.github.io/projects/medical estimates/)
-
-<br>
-<br>
 
