@@ -13,7 +13,7 @@ I’m Daniel Sáez, a versatile product designer with a knack for strategy, craf
 
 
 <br>
-<a href="https://danielszt.github.io/projects/reservation-process" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="https://danielszt.github.io/projects/reservation-process"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
 Restaurant reservation flow for **Meliá Hotels** · [View project](https://danielszt.github.io/projects/reservation-process/)
