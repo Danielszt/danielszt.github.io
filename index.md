@@ -53,4 +53,11 @@ Contact me at [dst.post@gmail.com](mailto:dst.post@gmail.com){:target="_blank"} 
 <br>
 <br>
 
+<a href="https://danielszt.github.io/projects/medical estimates" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+
+Medical estimate feature for Vithas.  [View project](https://danielszt.github.io/projects/medical estimates/)
+
+<br>
+<br>
 
