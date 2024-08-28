@@ -7,7 +7,7 @@ title: Hey 👋
 <br>
 I’m Daniel Sáez, a versatile product designer with a knack for strategy, craft and storytelling. Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en) and [Fever](https://feverup.com/).
 
-I have experience working in both design agencies and as an in-house designer. In agencies, I was exposed to a wide range of projects and learned to thrive in fast-paced, complex environments. As an in-house designer, I focused on a specific set of challenges, gained insight from the impact of my work, and sharpened my product instincts through data and continuous user testing.
+I've worked in both design agencies and as an in-house designer. Agencies exposed me to diverse projects and taught me how to thrive in fast-paced environments, while in-house roles allowed me to focus on specific challenges, measure impact, and sharpen my product instincts through data and testing.
 
 
 <br>
