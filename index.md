@@ -9,7 +9,7 @@ I’m Daniel Sáez, a versatile product designer with a knack for strategy, craf
 
 I've worked in both design agencies and as an in-house designer. 
 
-Agencies exposed me to diverse projects and taught me how to thrive in fast-paced environments, while in-house roles allowed me to focus on specific challenges, measure impact, and sharpen my product instincts through data and testing.
+Agencies exposed me to diverse projects and taught me how to thrive in fast-paced environments, while being an in-house designed allowed me to focus on specific challenges and sharpen my product instinct through data and testing.
 
 
 <br>
