@@ -27,9 +27,9 @@ title: Restaurant reservation flow
 ## About Meliá
 
 Meliá is the third largest hotel chain in Europe, with 350+ hotels in 35 countries. I worked with them on several projects over the course of about a year. 
+<br>
+<br>
 
-<br>
-<br>
 ## The problem
 
 Meliá restaurants managed table reservations through a variety of methods, mostly phone calls and third parties. The lack of an unified reservation system caused inconsistent customer experience and operational inefficiencies, so they created a in-house reservation management system and asked us to design the user experience.
