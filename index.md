@@ -47,9 +47,10 @@ Medical estimate feature for Vithas · [View project](https://danielszt.github.i
 ## Some things I believe in ⤵
 <br>
 - A well-defined problem leads to better solutions.
-- Regularly talking to users sharpens product instinct.
-- Data-informed beats data-driven.
 - Good design solves problems and feels great.
+- Data-informed beats data-driven.
+- Context is usually more important than consistency.
+- Regularly talking to users sharpens product instinct.
 - Clear writing reflects clear thinking.
 
 <br>
