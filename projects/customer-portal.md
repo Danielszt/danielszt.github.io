@@ -28,7 +28,7 @@ Originally developed as an internal tool, Holcim’s Customer Portal was opened 
 
 The customer portal has 2 types of users:
 - Customers:  use the portal to manage their commercial relationship with Holcim, like ordering materials, tracking deliveries or  checking invoices.
-- Admins, who used the portal to manage customer information, support customers and upload relevant documents for customers.
+- Admins: use the portal to manage customer information, upload documents for customers and provide support.
 
 Key objectives included:
 - Reducing phone/email orders and inquiries from customers.
