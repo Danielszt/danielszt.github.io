@@ -58,7 +58,7 @@ Whatever I designed, it had to be consistent with the reservation management sys
 This helped me to ensure data consistency and identify technical constraints, like:
 
 - Time slots had to be split by service (breakfast, lunch...) and presented at 15 minute intervals. 
-- Restaurants could disable automatic confirmation for large groups or people.
+- Restaurants could disable automatic confirmation for large groups.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/mb2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/mb2.png" alt="Melia-restaurant-booking" class="inline"/></a>
