@@ -43,7 +43,7 @@ Meliá restaurants managed table reservations through a variety of methods, most
 
 I created a research project in our research database, wrote down our learning objectives and prepared the interview script. Then I met with Melia's product manager and  engineers.
 
-This helped me to gather initial requirements and understand the business goals:
+This helped me to gather initial requirements and understand business goals:
 
 - Reduce staff manual workload and streamline inventory management.
 - Reduce dependency on third parties and associated costs.
