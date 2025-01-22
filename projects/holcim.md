@@ -32,11 +32,11 @@ Customers were struggling to order materials and track orders in Holcim’s cust
 ---
 ## Uncovering customers pain points and business goals
 
-First, I needed to understand the project’s business goals and identify the customer's pain points customers. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
+First, I needed to understand the project’s business goals and identify the customer's pain points. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
 
 <br>
-
 This is what i learnt:
+<br>
 
 **Business goal**
 
@@ -57,17 +57,17 @@ This is what i learnt:
 
 I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
 
-![image](https://github.com/user-attachments/assets/adf10967-8bac-4419-aa88-9e1f207ef080)
-
-  
+<br>
+![image](https://github.com/user-attachments/assets/adf10967-8bac-4419-aa88-9e1f207ef080) 
 <br>
 
 ## Analyzing the current UI
 
 I also analyzed the current UI to determine what works well and what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
 
+<br>
 ![image](https://github.com/user-attachments/assets/f119821a-ac18-4a23-8c8e-96a5437b7af8)
-
+<br>
   
 <br>
 
@@ -83,20 +83,12 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 <br>
 <br>
 
-## Aligment workshops
+## Low-fi exploration
 
-At the beginning of each sprint, I would have a workshop with the stakeholder responsible for the feature we were about to start working on.
-
-At this meeting we discussed:
-- Requirements and assumptions
-- Backend structure and constraints
-- Problems users were facing
-- Other ideas we might have had
-
-The output of the meeting was a shared PRD (Product Requirements Document) This approach ensured that our design decisions were well informed and aligned with the project goals.
+I always like to explore many different ideas before committing to one, usually on paper. It helps me to discard the ideas that don't feel quite right and to have an overview of all the different paths I could take.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp5.png" alt="Customer-portal" class="inline"/></a>
+![image](https://github.com/user-attachments/assets/fab187ac-c994-425f-bc1d-fff38ce5fd2e)
 <p><em><center>Notifications feature PRD</center></em></p>
 <br>
 <br>
@@ -108,13 +100,13 @@ The output of the meeting was a shared PRD (Product Requirements Document) This 
 
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp6.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Customer dashboard</center></em></p>
+![image](https://github.com/user-attachments/assets/8362fabf-194d-4c68-9614-2c2048ce9ca9)
+<p><em><center>Order list</center></em></p>
 
 <br>
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp7.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Orders page</center></em></p>
+![image](https://github.com/user-attachments/assets/2c1e46cf-8701-4eaa-8cdc-fe73336b70e7)
+<p><em><center>Order detail</center></em></p>
 
 <br>
 <br>
@@ -123,14 +115,22 @@ The output of the meeting was a shared PRD (Product Requirements Document) This 
 
 <br>
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp9.png" alt="Customer-portal" class="inline"/></a>
+![image](https://github.com/user-attachments/assets/f5d6e4e7-320a-4a54-bba6-a6a39e939a8d)
 <p><em><center>Ordering process. Step 3</center></em></p>
 
 <br>
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp10.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Article creation (only for admin users)</center></em></p>
+![image](https://github.com/user-attachments/assets/d9e4674a-6cf1-4129-9aab-5be32f2b6e63)
+<p><em><center>Order created message</center></em></p>
 <br>
 <br>
+
+<br>
+<br>
+![Uploading image.png…]()
+<p><em><center>Delivery</center></em></p>
+<br>
+<br>
+
 
 Thanks for reading!
