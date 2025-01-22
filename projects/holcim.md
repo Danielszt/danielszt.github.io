@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simplifying orders for Holcim’s Clients
+title: Simplifying orders for Holcim’s customers
 ---
 
 
@@ -27,29 +27,35 @@ Holcim is a global leader in supplying cement, aggregates, and building material
 Customers were struggling to order materials and track orders in Holcim’s customer portal due to unnecessary complexity and confusing UI. This was leading to errors, additional manual work, and reluctance to transition from email and phone to the portal for managing orders.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp3.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>The portal before the redesign</center></em></p>
 
-<br>
 
 # Discovery
 ---
-## Stakeholder interviews
+## Uncovering customers pain points and business goals
 
-Interviews with stakeholders provided invaluable insights into the company's operations and the existing portal infrastructure. This enabled us to gather requirements, identify pain points, and align our design approach with stakeholder expectations. 
+First, I needed to understand the project’s business goals and identify the pain points customers were experiencing with their orders. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
 
-Unfortunately, we couldn't talk directly to customers, so we interviewed several people from customer support and other customer-facing roles to gain insights into customer needs, pain points, and preferences.
+This is what i learnt:
 
-Main discovery insights:
-- Current order process is too complex and time-consuming for customers.
-- Customers find it difficult to track their orders, leading to uncertainty and delays.
-- Customers find it challenging to reorder previous purchases quickly.
-- We could simplify navigation by grouping similar features under a common section.
-- Customers can’t use the portal on mobile, limiting their ability to manage orders on the go.
-- The portal lacks a notification system, causing customers to miss important updates.
-- Customers who place bulk orders find the current system inadequate for handling their needs efficiently.
-- Customers face difficulties managing their account settings, such as updating contact information or payment methods.
-- There are frequent bottlenecks in customer support due to repetitive queries that could be addressed by self-service options.
+**Business goal**
+
+- Increase portal adoption by customers, who refuse to use it due to the user pains above and place orders by phone instead.
+
+**Main user pains:**
+
+- The current ordering process was complex, time-consuming and prone to errors
+- Matching orders, deliveries, and invoices was complicated by the lack of links between them.
+- Customers had difficulty finding specific orders because the filters don’t match their needs.
+- Reordering previous purchases was challenging, and the feature likely went unnoticed by many customers.
+- Bulk ordering is inefficient and error-prone.
+- Customers aren’t being notified about changes in their order status.
+
+## Understanding the system
+
+I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
+
+![image](https://github.com/user-attachments/assets/adf10967-8bac-4419-aa88-9e1f207ef080)
+
   
 <br>
 
