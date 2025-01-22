@@ -33,7 +33,9 @@ Customers were struggling to order materials and track orders in Holcim’s cust
 ---
 ## Uncovering customers pain points and business goals
 
-First, I needed to understand the project’s business goals and identify the pain points customers were experiencing with their orders. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
+First, I needed to understand the project’s business goals and identify the customer's pain points customers. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
+
+<br>
 
 This is what i learnt:
 
@@ -55,6 +57,15 @@ This is what i learnt:
 I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
 
 ![image](https://github.com/user-attachments/assets/adf10967-8bac-4419-aa88-9e1f207ef080)
+
+  
+<br>
+
+## Analyzing the current UI
+
+I also analyzed the current UI to determine what works well and what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
+
+![image](https://github.com/user-attachments/assets/f119821a-ac18-4a23-8c8e-96a5437b7af8)
 
   
 <br>
