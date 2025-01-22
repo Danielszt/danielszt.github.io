@@ -20,7 +20,6 @@ Holcim is a global leader in supplying cement, aggregates, and building material
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
 <br>
-<br>
 
 ## The problem
 
@@ -52,6 +51,8 @@ This is what i learnt:
 - Bulk ordering is inefficient and error-prone.
 - Customers aren’t being notified about changes in their order status.
 
+<br>
+
 ## Understanding the system
 
 I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
@@ -70,24 +71,15 @@ I also analyzed the current UI to determine what works well and what’s need to
   
 <br>
 
-# Definition
+# Ideation
 ---
 
-## Information architecture
+## User flows
 
-To set the basis for the redesign and  agree on scope I defined the Information architecture. 
-
-I followed this process: 
-1. Mapped the previous architecture
-2. Explored all sections
-3. Got familiar with the details
-4. Merged conceptually similar features
-5. Presented it to stakeholders to get their input and iterate 
-
-We should have tested it with users, but we didn’t. I would have done an open card sorting to uncover user mental models and a tree testing to validate the proposal.
+I decided to create user flows and review them with Holcim’s team to ensure we weren’t having gaps and to align on system requirements. This collaboration helped identify potential friction points early and ensured the flows would be feasible from a technical perspective, leading to a smoother implementation process.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp4.png" alt="Customer-portal" class="inline"/></a>
+![image](https://github.com/user-attachments/assets/c8f84237-958e-45af-8f62-ba281498b991)
 <br>
 <br>
 
