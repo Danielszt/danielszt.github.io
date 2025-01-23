@@ -18,7 +18,7 @@ title: Simplifying orders for Holcim’s customers
 Holcim is a global leader in supplying cement, aggregates, and building materials, with a presence in 70 countries and a team of over 63,000 people. They’re focused on creating innovative and sustainable solutions that shape better cities and communities, while reducing environmental impact.
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp2.png" alt="Customer-portal" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc2.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc2.png" alt="Holcim-truck" class="inline"/></a>
 <br>
 
 ## The problem
@@ -55,10 +55,10 @@ This is what i learnt:
 
 ## Understanding the system
 
-I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
+I had a lot of complexity before me, so I used [OOUX (Object-oriented UX)](https://www.ooux.com/what-is-ooux)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
 
 <br>
-![image](https://github.com/user-attachments/assets/adf10967-8bac-4419-aa88-9e1f207ef080) 
+<a href="{{ https://danielszt.github.io/ }}/assets/hc4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc4.png" alt="OOUX" class="inline"/></a>
 <br>
 
 ## Analyzing the current UI
@@ -66,7 +66,7 @@ I had a lot of complexity before me, so I used OOUX (Object-oriented UX)  to bre
 I also analyzed the current UI to determine what works well and what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
 
 <br>
-![image](https://github.com/user-attachments/assets/f119821a-ac18-4a23-8c8e-96a5437b7af8)
+<a href="{{ https://danielszt.github.io/ }}/assets/hc3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc3.png" alt="CurrentUI" class="inline"/></a>
 <br>
   
 <br>
@@ -79,8 +79,10 @@ I also analyzed the current UI to determine what works well and what’s need to
 I decided to create user flows and review them with Holcim’s team to ensure we weren’t having gaps and to align on system requirements. This collaboration helped identify potential friction points early and ensured the flows would be feasible from a technical perspective, leading to a smoother implementation process.
 
 <br>
-![image](https://github.com/user-attachments/assets/c8f84237-958e-45af-8f62-ba281498b991)
+<a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
 <br>
+<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
 <br>
 
 ## Low-fi exploration
@@ -88,14 +90,7 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 I always like to explore many different ideas before committing to one, usually on paper. It helps me to discard the ideas that don't feel quite right and to have an overview of all the different paths I could take.
 
 <br>
-![image](https://github.com/user-attachments/assets/fab187ac-c994-425f-bc1d-fff38ce5fd2e)
-<p><em><center>Notifications feature PRD</center></em></p>
-<br>
-<br>
-
-<br>
-![image](https://github.com/user-attachments/assets/b7d20173-5dfc-4cca-97a7-7f2156aafcec)
-<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc7.png" alt="CurrentUI" class="inline"/></a>
 <br>
 
 # Designs
@@ -105,37 +100,33 @@ I always like to explore many different ideas before committing to one, usually 
 
 
 <br>
-![image](https://github.com/user-attachments/assets/8362fabf-194d-4c68-9614-2c2048ce9ca9)
-<p><em><center>Order list</center></em></p>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp8.png" alt="Customer-portal" class="inline"/></a>
+<p><em><center>Orders section</center></em></p>
 
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/2c1e46cf-8701-4eaa-8cdc-fe73336b70e7)
+<a href="{{ https://danielszt.github.io/ }}/assets/hc9.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc9.png" alt="Order detail" class="inline"/></a>
 <p><em><center>Order detail</center></em></p>
 
 <br>
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hcp8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp8.png" alt="Customer-portal" class="inline"/></a>
-<p><em><center>Order detail</center></em></p>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc10.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc10.png" alt="New order. Step 1: Select jobsite" class="inline"/></a>
+<p><em><center>New order. Step 1: Select jobsite</center></em></p>
 
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/f5d6e4e7-320a-4a54-bba6-a6a39e939a8d)
-<p><em><center>Ordering process. Step 3</center></em></p>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc11.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc11.png" alt="New order-Step 3:Enter material details" class="inline"/></a>
+<p><em><center>New order. Step 3: Enter material details</center></em></p>
 
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/d9e4674a-6cf1-4129-9aab-5be32f2b6e63)
-<p><em><center>Order created message</center></em></p>
-<br>
-<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc12.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc12.png" alt="Order-confirmation" class="inline"/></a>
+<p><em><center>Order confirmation</center></em></p>
 
 <br>
 <br>
-![Uploading image.png…]()
-<p><em><center>Delivery</center></em></p>
-<br>
-<br>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc13.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc13.png" alt="Order-confirmation" class="inline"/></a>
+<p><em><center>Delivery detail</center></em></p>
 
 
 Thanks for reading!
