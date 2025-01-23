@@ -23,7 +23,7 @@ Restaurant reservation flow for Meliá Hotels · [View project](https://danielsz
 <br>
 <br>
 
-<a href="https://danielszt.github.io/projects/customer-portal"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="https://danielszt.github.io/projects/simplifying-orders"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="simplifying-orders" class="inline"/></a>
 
 
 Simplifying orders for Holcim’s customers · [View project](https://danielszt.github.io/projects/simplifying-orders//)
@@ -31,7 +31,7 @@ Simplifying orders for Holcim’s customers · [View project](https://danielszt.
 <br>
 <br>
 
-<a href="https://danielszt.github.io/projects/medical-estimates"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="Melia-restaurant-booking" class="inline"/></a>
+<a href="https://danielszt.github.io/projects/medical-estimates"><img src="{{ https://danielszt.github.io/ }}/assets/VIT0.png" alt="medical-estimates" class="inline"/></a>
 
 
 Medical estimate feature for Vithas · [View project](https://danielszt.github.io/projects/medical-estimates/)
