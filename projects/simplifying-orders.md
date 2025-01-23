@@ -38,18 +38,18 @@ First, I needed to understand the project’s business goals and identify the cu
 This is what i learnt:
 <br>
 
-**Business goal**
-
-- Increase portal adoption by customers, who refuse to use it due to the user pains above and place orders by phone instead.
-
 **Main user pains:**
 
-- The current ordering process was complex, time-consuming and prone to errors
+- The current ordering process was complex, time-consuming and prone to errors.
 - Matching orders, deliveries, and invoices was complicated by the lack of links between them.
 - Customers had difficulty finding specific orders because the filters don’t match their needs.
 - Reordering previous purchases was challenging, and the feature likely went unnoticed by many customers.
 - Bulk ordering is inefficient and error-prone.
 - Customers aren’t being notified about changes in their order status.
+
+**Business goal**
+
+- Increase portal adoption by customers, who refuse to use it due to the user pains above and place orders by phone instead.
 
 <br>
 
@@ -63,7 +63,7 @@ I had a lot of complexity before me, so I used [OOUX (Object-oriented UX)](https
 
 ## Analyzing the current UI
 
-I also analyzed the current UI to determine what works well and what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
+I also analyzed the current UI to determine what works well, what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc3.png" alt="CurrentUI" class="inline"/></a>
@@ -83,7 +83,6 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 <p><em><center>New order (Cement & Aggregates) - Delivery</center></em></p>
 <br>
 
-New order (Ready-mix &) - Delivery
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
 <p><em><center>New order (Ready-mix) - Delivery</center></em></p>
@@ -104,7 +103,7 @@ I always like to explore many different ideas before committing to one, usually 
 
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hc8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hcp8.png" alt="Customer-portal" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc8.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc8.png" alt="Order detail" class="inline"/></a>
 <p><em><center>Orders section</center></em></p>
 
 <br>
