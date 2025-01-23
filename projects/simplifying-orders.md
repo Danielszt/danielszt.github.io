@@ -80,9 +80,13 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
+<p><em><center>New order (Cement & Aggregates) - Delivery</center></em></p>
 <br>
+
+New order (Ready-mix &) - Delivery
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
+<p><em><center>New order (Ready-mix) - Delivery</center></em></p>
 <br>
 
 ## Low-fi exploration
