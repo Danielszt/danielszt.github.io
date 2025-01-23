@@ -96,7 +96,7 @@ I always like to explore many different ideas before committing to one, usually 
 <a href="{{ https://danielszt.github.io/ }}/assets/hc7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc7.png" alt="CurrentUI" class="inline"/></a>
 <br>
 
-# Designs
+# Final design
 ---
 
 ## Key pages
