@@ -26,7 +26,7 @@ Restaurant reservation flow for Meliá Hotels · [View project](https://danielsz
 <a href="https://danielszt.github.io/projects/customer-portal"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="Melia-restaurant-booking" class="inline"/></a>
 
 
-Customer portal redesign for Holcim · [View project](https://danielszt.github.io/projects/customer-portal/)
+Simplifying orders for Holcim’s customers · [View project](https://danielszt.github.io/projects/simplifying-orders//)
 
 <br>
 <br>
