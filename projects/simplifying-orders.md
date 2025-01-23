@@ -38,7 +38,7 @@ First, I needed to understand the project’s business goals and identify the cu
 This is what i learnt:
 <br>
 
-**Main user pains:**
+😣 **Main user pains:**
 
 - The current ordering process was complex, time-consuming and prone to errors.
 - Matching orders, deliveries, and invoices was complicated by the lack of links between them.
@@ -47,7 +47,7 @@ This is what i learnt:
 - Bulk ordering is inefficient and error-prone.
 - Customers aren’t being notified about changes in their order status.
 
-**Business goal**
+💼 **Business goal**
 
 - Increase portal adoption by customers, who refuse to use it due to the user pains above and place orders by phone instead.
 
