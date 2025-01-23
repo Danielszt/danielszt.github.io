@@ -84,7 +84,7 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 <br>
 
 <br>
-<a href="{{ https://danielszt.github.io/ }}/assets/hc5.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc5.png" alt="CurrentUI" class="inline"/></a>
+<a href="{{ https://danielszt.github.io/ }}/assets/hc6.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc6.png" alt="CurrentUI" class="inline"/></a>
 <p><em><center>New order (Ready-mix) - Delivery</center></em></p>
 <br>
 
