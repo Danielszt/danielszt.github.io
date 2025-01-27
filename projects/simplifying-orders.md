@@ -32,20 +32,20 @@ Customers were struggling to order materials and track orders in Holcim’s cust
 ---
 ## Uncovering customers pain points and business goals
 
-First, I needed to understand the project’s business goals and identify the customer's pain points. To achieve this, I conducted interviews with stakeholders and attempted to interview customers, though this wasn’t possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insights into user needs.
+First, I needed to understand the business objectives of the project and identify the customer's pain points. To do this, I conducted stakeholder interviews and tried to interview customers, but this wasn't possible. Instead, I interviewed the customer support team, using them as a proxy to gain deeper insight into user needs.
 
 <br>
-This is what i learnt:
+This is what i learned:
 <br>
 
 😣 **Main user pains:**
 
 - The current ordering process was complex, time-consuming and prone to errors.
 - Matching orders, deliveries, and invoices was complicated by the lack of links between them.
-- Customers had difficulty finding specific orders because the filters don’t match their needs.
-- Reordering previous purchases was challenging, and the feature likely went unnoticed by many customers.
-- Bulk ordering is inefficient and error-prone.
-- Customers aren’t being notified about changes in their order status.
+- Customers struggled to find specific orders because the filters didn't match their needs.
+- Reordering previous purchases was challenging, and the feature likely went unnoticed by many.
+- Bulk ordering was inefficient and error-prone.
+- Customers didn't get notified when their orders were changed.
 
 💼 **Business goal**
 
@@ -55,7 +55,7 @@ This is what i learnt:
 
 ## Understanding the system
 
-I had a lot of complexity before me, so I used [OOUX (Object-oriented UX)](https://www.ooux.com/what-is-ooux)  to break it down. This allowed me to map out the system’s architecture, collaborating closely with Holcim’s team to understand how it supported (or hindered) user tasks and ensure we had a complete grasp of all the elements.
+The system I was designing for was very complex and involved many different features (orders, deliveries, invoices...), so I used OOUX (object-oriented UX) to break it down and simplify things. This allowed me to map out everything the design needed to take into account and also raised good questions, which I answered with the help of the Holcim team.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc4.png" alt="OOUX" class="inline"/></a>
@@ -90,7 +90,7 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 
 ## Low-fi exploration
 
-I always like to explore many different ideas before committing to one, usually on paper. It helps me to discard the ideas that don't feel quite right and to have an overview of all the different paths I could take.
+As I always do, I explored different paths at very low fidelity before committing to one. This helped me to discard the ideas that didn't feel quite right and to have an overview of all the different paths I could take. I discussed the pros and cons of the different paths with the team and we agreed on the one that seemed to work best.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc7.png" alt="CurrentUI" class="inline"/></a>
