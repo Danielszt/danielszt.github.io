@@ -55,7 +55,7 @@ This is what i learned:
 
 ## Understanding the system
 
-The system I was designing for was very complex and involved many different features (orders, deliveries, invoices...), so I used OOUX (object-oriented UX) to break it down and simplify things. This allowed me to map out everything the design needed to take into account and also raised good questions, which I answered with the help of the Holcim team.
+The system I was designing for was very complex and involved many different features (orders, deliveries, invoices...), so I used [OOUX (object-oriented UX)](https://www.ooux.com/what-is-ooux) to break it down and simplify things. This allowed me to map out everything the design needed to take into account and also raised good questions, which I answered with the help of the Holcim team.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc4.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc4.png" alt="OOUX" class="inline"/></a>
@@ -90,7 +90,7 @@ I decided to create user flows and review them with Holcim’s team to ensure we
 
 ## Low-fi exploration
 
-As I always do, I explored different paths at very low fidelity before committing to one. This helped me to discard the ideas that didn't feel quite right and to have an overview of all the different paths I could take. I discussed the pros and cons of the different paths with the team and we agreed on the one that seemed to work best.
+As I always do, I explored different paths at very low fidelity before committing to one. This helped me to discard the ideas that didn't feel quite right and to have an overview of all the different paths I could take. I discussed the pros and cons of the different paths with the team and we agreed on the one that seemed likely to work best.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc7.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc7.png" alt="CurrentUI" class="inline"/></a>
