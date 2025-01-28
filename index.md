@@ -11,7 +11,7 @@ Currently, I work at [Hanzo](https://hanzo.es/). Before I was at [Lingokids](htt
 <br>
 <br>
 <br>
-## Selected works ⤵
+## Selected works 
 
 
 <br>
@@ -43,7 +43,7 @@ Medical estimate feature for Vithas · [View project](https://danielszt.github.i
 
 <br>
 
-## Some things I believe in ⤵
+## Some things I believe in 
 <br>
 - A well-defined problem leads to better solutions.
 - Good design solves problems and feels great.
