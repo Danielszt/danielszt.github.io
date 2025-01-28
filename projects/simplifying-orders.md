@@ -15,8 +15,8 @@ title: Simplifying orders for Holcim’s customers
 ---
 - Holcim, a global leader in building materials, was facing low customer portal adoption due to a confusing ordering process.
 - I uncovered user pain points and business goals through stakeholder interviews and customer support insights.
-- I used [Object-Oriented UX](https://www.ooux.com/what-is-ooux) to break down complexity and understand the system I was designing for.
-- I created user flows and low-fidelity designs to explore different paths and communicate ideas.
+- I used [Object-Oriented UX](https://www.ooux.com/what-is-ooux) to break down complexity and understand the system.
+- I created user flows and low-fidelity designs to explore and discuss different ideas with the team.
 - While data is pending, initial feedback indicates customer satisfaction.
 <br>
 
