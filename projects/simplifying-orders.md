@@ -17,7 +17,7 @@ title: Simplifying orders for Holcim’s customers
 - I uncovered user pain points and business goals through stakeholder interviews and customer support insights.
 - I used [Object-Oriented UX](https://www.ooux.com/what-is-ooux) to break down complexity and understand the system.
 - I started by creating user flows and low-fidelity designs tp explore ideas and discuss them with the team.
-- Once the concepts were finalized, I developed high-fidelity interactive prototypes for all the flows.
+- Once the concepts were finalized, I developed high-fidelity prototypes.
 - While data is pending, initial feedback indicates customer satisfaction.
 <br>
 
