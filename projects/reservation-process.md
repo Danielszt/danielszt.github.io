@@ -70,7 +70,7 @@ This helped me to ensure data consistency and identify technical constraints, li
 ---
 ## Requirements document
 
-With all the info I had from the discovery, I wroted a productd requirements document (PRD) stating problem to solve, goals, KPIs, limits and constrains and initial requirements
+With all the info from the discovery, I wrote a product requirements document (PRD) stating problem to solve, goals, KPIs, limits and constrains and initial requirements
 
 I reviewed it with Melia’s team to make sure we were on the same page.
 
