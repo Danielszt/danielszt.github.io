@@ -5,7 +5,7 @@ title: Hey 👋
 
 
 <br>
-I’m Daniel Sáez, a versatile product designer with a knack for strategy, craft and storytelling. 
+I’m Daniel Sáez, a product designer shaping experiences with intent, craft and storytelling.
 <br>
 Currently, I work at [Cabify.](https://cabify.com/). Before I was at [Hanzo](https://hanzo.es/), [Lingokids](https://lingokids.com/), [The Cocktail](https://the-cocktail.com/en) and [Fever](https://feverup.com/).
 <br>
