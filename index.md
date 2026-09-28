@@ -15,18 +15,16 @@ Currently, I work at [Cabify.](https://cabify.com/). Before I was at [Hanzo](htt
 
 
 <br>
-<a href="https://danielszt.github.io/projects/reservation-process"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
-
-
-Restaurant reservation flow for Meliá Hotels · [View project](https://danielszt.github.io/projects/reservation-process/)
-
-<br>
-<br>
-
 <a href="https://danielszt.github.io/projects/simplifying-orders"><img src="{{ https://danielszt.github.io/ }}/assets/hcp1.png" alt="simplifying-orders" class="inline"/></a>
 
-
 Simplifying orders for Holcim’s customers · [View project](https://danielszt.github.io/projects/simplifying-orders//)
+
+<br>
+<br>
+
+<a href="https://danielszt.github.io/projects/reservation-process"><img src="{{ https://danielszt.github.io/ }}/assets/mb1.png" alt="Melia-restaurant-booking" class="inline"/></a>
+
+Restaurant reservation flow for Meliá Hotels · [View project](https://danielszt.github.io/projects/reservation-process/)
 
 <br>
 <br>
