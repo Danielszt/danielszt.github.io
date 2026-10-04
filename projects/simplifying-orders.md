@@ -16,7 +16,7 @@ title: Simplifying orders for Holcim’s customers
 - Holcim, a global leader in building materials, was facing low customer portal adoption due to a confusing ordering process.
 - I uncovered user pain points and business goals through stakeholder interviews and customer support insights.
 - I used [Object-Oriented UX](https://www.ooux.com/what-is-ooux) to break down complexity and understand the system.
-- I started by creating user flows and low-fidelity designs tp explore ideas and discuss them with the team.
+- I started by creating user flows and low-fidelity designs to explore ideas and discuss them with the team.
 - Once the concepts were finalized, I developed high-fidelity prototypes.
 - While data is pending, initial feedback indicates customer satisfaction.
 <br>
@@ -75,7 +75,7 @@ The system I was designing for was very complex and involved many different feat
 
 ## Analyzing the current UI
 
-I also analyzed the current UI to determine what works well, what’s need to me improved and uncover gaps or areas where new functionality could provide added value.
+I also analyzed the current UI to determine what works well, what needs to be improved and uncover gaps or areas where new functionality could provide added value.
 
 <br>
 <a href="{{ https://danielszt.github.io/ }}/assets/hc3.png" target="_blank"><img src="{{ https://danielszt.github.io/ }}/assets/hc3.png" alt="CurrentUI" class="inline"/></a>
