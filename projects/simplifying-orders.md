@@ -115,17 +115,17 @@ The ordering process was complex, time-consuming and prone to errors. Everything
 
 <br>
 <a href="/assets/hco-12.jpg" target="_blank"><img src="/assets/hco-12.jpg" alt="Old order form" class="inline"/></a>
-<p><em><center>Old portal: one dense form that starts by asking for a contract number</center></em></p>
+<p><em><center>One dense form that starts by asking for a contract number</center></em></p>
 
 <br>
 
 <a href="/assets/hco-13.jpg" target="_blank"><img src="/assets/hco-13.jpg" alt="Old job site selection modal" class="inline"/></a>
-<p><em><center>Old portal: picking a job site meant filtering a modal by technical fields like Incoterm</center></em></p>
+<p><em><center>Picking a job site meant filtering a modal by technical fields like Incoterm</center></em></p>
 
 <br>
 
 <a href="/assets/hco-14.jpg" target="_blank"><img src="/assets/hco-14.jpg" alt="Old delivery date modal" class="inline"/></a>
-<p><em><center>Old portal: delivery dates were entered one row at a time, in yet another modal</center></em></p>
+<p><em><center>Delivery dates were entered one row at a time, in yet another modal</center></em></p>
 
 <br>
 
@@ -137,12 +137,12 @@ Customers struggled to find things because orders, deliveries and invoices weren
 
 <br>
 <a href="/assets/hco-16.jpg" target="_blank"><img src="/assets/hco-16.jpg" alt="Old invoice detail" class="inline"/></a>
-<p><em><center>Old portal: an invoice with no link back to its order or delivery</center></em></p>
+<p><em><center>An invoice with no link back to its order or delivery</center></em></p>
 
 <br>
 
 <a href="/assets/hco-17.jpg" target="_blank"><img src="/assets/hco-17.jpg" alt="Old deliveries filters" class="inline"/></a>
-<p><em><center>Old portal: filters required exact values and date ranges</center></em></p>
+<p><em><center>Filters required exact values and date ranges</center></em></p>
 
 <br>
 
@@ -154,7 +154,7 @@ Reordering previous purchases was implemented as a “Favourites” feature that
 
 <br>
 <a href="/assets/hco-19.jpg" target="_blank"><img src="/assets/hco-19.jpg" alt="Old favourites modal" class="inline"/></a>
-<p><em><center>Old portal: reorder was hidden behind a “Favourites” button in the order form</center></em></p>
+<p><em><center>Reorder was hidden behind a “Favourites” button in the order form</center></em></p>
 
 <br>
 
@@ -166,7 +166,7 @@ Customers can return pallets and get some money back from their orders. They cou
 
 <br>
 <a href="/assets/hco-21.jpg" target="_blank"><img src="/assets/hco-21.jpg" alt="Old pallets return form" class="inline"/></a>
-<p><em><center>Old portal: a blank return form asking for a contract number and materials from scratch</center></em></p>
+<p><em><center>A blank return form asking for a contract number and materials from scratch</center></em></p>
 
 <br>
 
