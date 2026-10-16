@@ -297,22 +297,4 @@ When an order includes returnable pallets, the confirmation screen suggests retu
 
 <br>
 
-# Challenges
----
-And how I did my best to deal with them.
-
-**1 · Working in a complex and unfamiliar industry**
-Asking “silly” questions, working closely with devs, understanding the system through OOUX and knowing the details.
-
-**2 · Communicating with stakeholders with no design experience**
-Framing the benefits of design in terms of business goals, prototyping every flow to maximize clarity and dropping design jargon.
-
-**3 · Adapting information-heavy pages to responsive**
-Removing some advanced features on mobile, replacing components (tables with cards, etc.) and using progressive disclosure.
-
-**4 · No access to customers**
-Using customer support as a proxy, making explicit assumptions and guerrilla testing with stakeholders.
-
-<br>
-
 Thanks for reading!
