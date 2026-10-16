@@ -72,8 +72,6 @@ I interviewed two project managers, a business analyst, the head of engineering 
 I couldn’t speak with customers, so I used the customer support lead as a proxy: they deal with customers’ complaints every day. I defined learning objectives, wrote interview scripts, looked for patterns in my notes and extracted insights.
 
 <br>
-<a href="/assets/hco-07.jpg" target="_blank"><img src="/assets/hco-07.jpg" alt="Remote stakeholder interviews" class="inline" style="max-width:420px;display:block;margin:0 auto"/></a>
-<br>
 
 <br>
 
