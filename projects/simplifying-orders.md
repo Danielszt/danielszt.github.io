@@ -7,7 +7,7 @@ title: Simplifying orders for Holcim’s customers
 *Project carried out in [Hanzo](https://hanzo.es/) for [Holcim](https://www.holcim.com/) · 2024*<br>
 
 <br>
-<a href="/assets/hco-01.jpg" target="_blank"><img src="/assets/hco-01.jpg" alt="Redesigned Holcim customer portal on desktop and mobile" class="inline"/></a>
+<a href="/assets/hcp1.png" target="_blank"><img src="/assets/hcp1.png" alt="Redesigned Holcim customer portal on desktop and mobile" class="inline"/></a>
 
 <br>
 
