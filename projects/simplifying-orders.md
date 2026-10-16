@@ -182,8 +182,8 @@ I created user flows and reviewed them with Holcim’s team to align on system r
 
 <br>
 
-<a href="/assets/hco-23.jpg" target="_blank"><img src="/assets/hco-23.jpg" alt="User flows: cement and aggregates and ready-mix" class="inline"/></a>
-<p><em><center>Both flows side by side: Cement &amp; Aggregates (top) and Ready-mix (bottom)</center></em></p>
+<a href="/assets/hc6.png" target="_blank"><img src="/assets/hc6.png" alt="User flow: new order, ready-mix" class="inline"/></a>
+<p><em><center>New order (Ready-mix) - Delivery</center></em></p>
 
 <br>
 
