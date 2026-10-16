@@ -92,7 +92,7 @@ I also analyzed the current UI to find what works well, what needs to be improve
 The system was very complex (orders, deliveries, invoices, job sites, contracts, pallets…), so I used [object-oriented UX](https://www.ooux.com/what-is-ooux) to break it down. This helped me map out everything in the system and raise important questions early, which I answered with Holcim’s team.
 
 <br>
-<a href="/assets/hco-09.jpg" target="_blank"><img src="/assets/hco-09.jpg" alt="OOUX object map: objects, attributes and actions" class="inline" style="max-width:480px;display:block;margin:0 auto"/></a>
+<a href="/assets/hc4.png" target="_blank"><img src="/assets/hc4.png" alt="OOUX object map: objects, attributes and actions" class="inline"/></a>
 <br>
 
 <br>
