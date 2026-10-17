@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Holcim deck draft</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#1D4370;--light:#E5F1F7;--ink:#0B1B33;--body:#3A4A63;--muted:#6B7A90;--faint:#A3B1C2;--accent:#FFC700;--warn:#B4541A;--warnBg:#FBE9DD;--line:#C9DCE8}
+  *{box-sizing:border-box;margin:0}
+  body{background:#2b2f36;font-family:Inter,system-ui,sans-serif;color:var(--ink);padding:24px 16px 80px}
+  .deck{max-width:1280px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+  .wrap{scroll-margin-top:24px}
+  .slide{container-type:inline-size;aspect-ratio:16/9;background:#fff;border-radius:8px;overflow:hidden;position:relative;padding:5.5cqw 6.25cqw;display:flex;flex-direction:column}
+  .slide.light{background:var(--light)} .slide.dark{background:var(--navy);color:#fff}
+  .num{position:absolute;right:3cqw;bottom:2.2cqw;font-size:1cqw;color:var(--muted)}
+  .dark .num{color:#A9C1E0}
+  .eyebrow{font-size:1.15cqw;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--navy);margin-bottom:1.6cqw}
+  .dark .eyebrow{color:var(--accent)}
+  h1{font-size:3.8cqw;line-height:1.1;font-weight:700;letter-spacing:-.01em}
+  h1.xl{font-size:5.4cqw}
+  .sub{font-size:1.9cqw;line-height:1.35;color:var(--body);margin-top:1.6cqw;font-weight:500}
+  .dark .sub{color:#DCE6F2}
+  /* journey indicator */
+  .journey{display:flex;gap:1.6cqw;margin-bottom:2.2cqw}
+  .journey span{font-size:1.05cqw;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);padding-bottom:.5cqw;border-bottom:.25cqw solid var(--line)}
+  .journey span.on{color:var(--navy);border-color:var(--navy)}
+  .slide:has(.split){padding:3.5cqw 3.5cqw 3.5cqw 5cqw}
+  .ba small{display:block;font-size:1.05cqw;font-weight:600;letter-spacing:.1em;text-transform:uppercase;margin-bottom:.7cqw}
+  .ba.before small{color:var(--warn)} .ba.after small{color:var(--navy)}
+  .ba.before{padding-bottom:2cqw;margin-bottom:2cqw;border-bottom:1px solid var(--line)}
+  .ba.before p{font-size:1.7cqw;line-height:1.3;font-weight:500;color:var(--body)}
+  .thumb{display:block;width:100%;max-height:12cqw;object-fit:cover;object-position:top left;margin-top:1.2cqw;border-radius:.6cqw;box-shadow:0 .4cqw 1.4cqw rgba(10,25,50,.15)}
+  /* split layout */
+  .split{display:grid;grid-template-columns:24% 1fr;gap:3cqw;height:100%;align-items:center}
+  .split .text{align-self:start}
+  .shot{width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.2cqw;min-height:0;overflow:hidden}
+  .shot img{flex:1 1 0;width:100%;height:100%}
+  .shot img{max-width:100%;max-height:100%;object-fit:contain;min-height:0}
+  .shot img.old{border-radius:.8cqw;box-shadow:0 .6cqw 2.4cqw rgba(10,25,50,.18)}
+  .badge{background:var(--accent);color:var(--ink);font-weight:600;font-size:1.5cqw;padding:.7cqw 1.4cqw;border-radius:.6cqw;align-self:flex-start}
+  .chip{display:inline-block;margin-top:1.8cqw;font-size:1.3cqw;font-weight:600;padding:.6cqw 1.1cqw;border-radius:.5cqw;background:#fff;color:var(--navy)}
+  .chip.before{background:var(--warnBg);color:var(--warn)}
+  .tag{font-size:1.4cqw;color:var(--muted);margin-top:1.4cqw}
+  /* chain */
+  .chain{display:flex;align-items:stretch;gap:1.2cqw;margin-top:4cqw}
+  .chain div{flex:1;background:rgba(255,255,255,.08);border-radius:1cqw;padding:1.8cqw;font-size:2cqw;font-weight:600;line-height:1.2}
+  .chain div.first{background:rgba(255,255,255,.2)}
+  .chain b{display:block;color:var(--accent);font-size:1.4cqw;margin-bottom:.8cqw}
+  .chain .chain-sub{display:block;margin-top:.8cqw;font-size:1.3cqw;font-weight:400;line-height:1.35;color:#DCE6F2}
+  .chain i{align-self:center;color:var(--accent);font-style:normal;font-size:2.4cqw;font-weight:700}
+  .goal{margin-top:auto;background:var(--accent);color:var(--ink);border-radius:1cqw;padding:1.8cqw 2.4cqw;font-size:2.2cqw;font-weight:600}
+  .goal small{display:block;font-size:1.1cqw;letter-spacing:.1em;text-transform:uppercase;color:var(--navy);margin-bottom:.4cqw}
+  /* scope chips */
+  .scope{display:flex;gap:1.2cqw;flex-wrap:wrap;margin-top:4cqw}
+  .scope span{font-size:2cqw;font-weight:600;padding:1.4cqw 2.2cqw;border-radius:1cqw;background:var(--light);color:var(--muted)}
+  .scope span.on{background:var(--navy);color:#fff}
+  /* portal map */
+  .map{display:grid;grid-template-columns:1.8fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr;gap:1.2cqw;margin-top:3.5cqw;flex:1;max-height:62%}
+  .tile{border:.15cqw dashed var(--line);border-radius:1cqw;display:flex;align-items:flex-end;padding:1.6cqw;font-size:1.8cqw;font-weight:600;color:var(--faint)}
+  .tile.on{grid-row:span 2;background:var(--navy);border:none;color:#fff;font-size:3.6cqw;flex-direction:column;align-items:flex-start;justify-content:flex-end}
+  .tile.on small{font-size:1.1cqw;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:.6cqw}
+  .tile.more{grid-column:span 2;justify-content:center;align-items:center;font-size:3cqw}
+  /* diagram */
+  .diagram{display:grid;grid-template-columns:1fr auto 1fr;gap:3cqw;align-items:center;margin-top:3cqw;flex:1}
+  .nav{background:#fff;border-radius:1cqw;padding:2cqw;box-shadow:0 .4cqw 1.6cqw rgba(10,25,50,.08)}
+  .nav p{font-size:1.1cqw;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:1.2cqw}
+  .nav div{font-size:1.9cqw;font-weight:600;padding:1.1cqw 1.4cqw;border-radius:.6cqw;background:var(--light);margin-bottom:.8cqw}
+  .nav .before{background:var(--warnBg);color:var(--warn)}
+  .nav .tabs{display:flex;gap:1.6cqw;font-size:1.5cqw;font-weight:500;color:var(--navy);background:none;padding:.4cqw 1.4cqw}
+  .nav .tabs span:first-child{border-bottom:.2cqw solid var(--navy)}
+  .arrow{font-size:4cqw;color:var(--navy);font-weight:700}
+  /* pair */
+  .pair{display:grid;grid-template-columns:40% 1fr;gap:2.4cqw;align-items:center;height:100%}
+  .pair figure{display:flex;flex-direction:column;gap:1cqw;align-items:flex-start}
+  .pair figcaption{font-size:1.2cqw;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+  .pair figcaption.b{color:var(--warn)} .pair figcaption.a{color:var(--navy)}
+  .pair img{width:100%}
+  /* list */
+  .list{margin-top:3.5cqw;display:flex;flex-direction:column;gap:2.4cqw}
+  .list div{display:flex;gap:2.4cqw;align-items:baseline;font-size:2.8cqw;font-weight:600;border-top:1px solid var(--line);padding-top:2.2cqw}
+  .list b{color:var(--navy);font-size:2.4cqw}
+  .metric{margin-top:3.5cqw;background:rgba(255,255,255,.1);border-radius:1.2cqw;padding:3cqw}
+  .metric small{display:block;font-size:1.2cqw;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:1cqw;font-weight:600}
+  .metric div{font-size:3.4cqw;font-weight:700}
+  .cover{display:grid;grid-template-columns:44% 1fr;height:100%}
+  .cover img{position:absolute;right:0;bottom:0;width:58%}
+  .photo{position:absolute;right:0;top:0;width:45%;height:100%;object-fit:cover}
+  .slide.section{justify-content:center;background:#0B1B33}
+  .section-title{font-size:6.4cqw;line-height:1.05;font-weight:700;letter-spacing:-.01em}
+  /* notes */
+  .notes{display:none;background:#1c1f24;color:#d7dde6;border-radius:0 0 8px 8px;padding:16px 20px;font-size:15px;line-height:1.55;max-width:1280px}
+  body.show-notes .notes{display:block}
+  .notes b{color:#FFC700;font-weight:600;margin-right:6px}
+  .help{position:fixed;bottom:12px;left:50%;transform:translateX(-50%);background:#111;color:#bbb;font-size:13px;padding:8px 14px;border-radius:20px}
+</style>
+</head>
+<body class="show-notes">
+<div class="deck" id="deck">
+
+<!-- 1 -->
+<section class="wrap"><div class="slide light">
+  <div class="eyebrow">Portfolio review · RevenueCat</div>
+  <h1 class="xl" style="max-width:44%">Simplifying orders for Holcim’s customers</h1>
+  <p class="sub" style="max-width:40%;margin-top:auto">Daniel Sáez · Product designer<br>Hanzo for Holcim · 2024</p>
+  <img src="../assets/hcp1.png" alt="Redesigned portal on desktop and mobile" style="position:absolute;right:0;bottom:0;width:60%">
+</div><div class="notes"><b>Say</b>This is a B2B ordering portal I redesigned at Hanzo for Holcim, one of the biggest building-materials companies in the world. About 15 minutes.</div></section>
+
+<section class="wrap"><div class="slide dark section"><h1 class="section-title">The problem</h1><span class="num"></span></div><div class="notes"><b>Say</b>Let me start with the problem.</div></section>
+
+<!-- 2 -->
+<section class="wrap"><div class="slide dark">
+  <img class="photo" src="../assets/hco-03.jpg" alt="Holcim plant">
+  <div style="max-width:48%">
+    <div class="eyebrow">The problem</div>
+    <h1 class="xl">Customers refused to use the portal</h1>
+  </div>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>Holcim sells cement and concrete in 70 countries. Its customers are businesses ordering materials for their job sites. They had a customer portal, and they refused to use it. They kept ordering by phone and email.</div></section>
+
+<!-- 3 -->
+<section class="wrap"><div class="slide dark">
+  <div class="eyebrow">Why it mattered</div>
+  <h1>Why they refused it</h1>
+  <div class="chain">
+    <div class="first"><b>1</b>Hard-to-use portal</div><i>→</i>
+    <div><b>2</b>Customers get stuck<span class="chain-sub">Frustrated, can’t finish, or get it wrong</span></div><i>→</i>
+    <div><b>3</b>They refuse to use it<span class="chain-sub">And order by phone or email</span></div><i>→</i>
+    <div><b>4</b>Manual work for Holcim</div>
+  </div>
+  <div class="goal"><small>Business goal</small>More orders through the portal</div>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>It was a chain. The portal was hard to use, so customers got stuck: frustrated, unable to finish an order, or finishing it wrong. At that point they gave up on the portal and picked up the phone. And every one of those orders was manual work for Holcim. The goal was adoption, and the only lever design had was the first link: the portal itself.</div></section>
+
+<!-- 4 -->
+<section class="wrap"><div class="slide">
+  <div class="eyebrow">Scope</div>
+  <h1>I redesigned the whole portal.<br>Today: orders.</h1>
+  <div class="map">
+    <div class="tile on"><small>Today’s focus</small>Orders</div>
+    <div class="tile">Deliveries</div>
+    <div class="tile">Invoices</div>
+    <div class="tile">Pallet returns</div>
+    <div class="tile">Dashboard</div>
+    <div class="tile more">…</div>
+  </div>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>I owned UX end to end on a small team: a visual designer on the design system, a front-end developer, and a PM at Holcim. I redesigned the whole portal, but today I'll focus on orders, because that's where adoption was won or lost.</div></section>
+
+<!-- 5 -->
+<section class="wrap"><div class="slide dark">
+  <div class="eyebrow">The root cause</div>
+  <h1 class="xl" style="max-width:85%">It was built around Holcim, not its customers</h1>
+  <p class="sub" style="margin-top:auto;max-width:70%">One principle for the whole redesign: stop making customers understand how Holcim is organised.</p>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>I couldn't talk to customers, so I worked with stakeholders, used customer support as a proxy, reviewed the current UI and mapped the whole system with OOUX. The pattern was clear: the portal mirrored Holcim's internal structure, its sections and its vocabulary. Nothing flashy here. It was a full redesign of a product in bad shape, and that one principle guided every decision. Let me show you how it played out in the two things customers do with orders: placing them and following them.</div></section>
+
+<section class="wrap"><div class="slide dark section"><h1 class="section-title">Placing an order</h1><span class="num"></span></div><div class="notes"><b>Say</b>Let’s start where every order starts: placing it.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Asked for a contract number first</p><img class="thumb" src="img/hco-12.jpg" alt="Old portal"></div><div class="ba after"><small>After</small><h1>Start from the job site</h1></div></div>
+  <div class="shot"><img src="img/hco-29.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>Holcim manages orders by contract, so the old form asked for a contract number first. Customers can have several and rarely have the number at hand. What they do know is where the material has to go: the job site. So that’s where ordering starts now.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>One long form that changed with every choice</p></div><div class="ba after"><small>After</small><h1>One step at a time, in a logical order</h1></div></div>
+  <div class="shot"><img src="img/hc5.png" alt=""><img src="img/hc6.png" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>Splitting a form into steps isn’t always right. Here it was, for two reasons. Every choice reshaped what came next: the job site set delivery or pickup, materials came in different units, and ready-mix needed extra details. And the steps follow the order customers naturally think in: where, what, when. These are the two flows.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Deliveries hidden in a modal per material, split into pallet lines</p><img class="thumb" src="img/hco-14-pallets.jpg" alt="Old portal"></div><div class="ba after"><small>After</small><h1>Plan deliveries, not pallets</h1></div></div>
+  <div class="shot"><img src="img/hco-31.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>For a customer, the most important part of an order is when it arrives at the site. In the old portal that was hidden: a “Select date” button per material, opening a modal where the quantity was split into pallet lines, each needing a date and a time window. That’s how Holcim splits product. Customers plan around something else: trucks arriving. So delivery planning became its own step, with every material on one screen. Each row is a numbered delivery, sized in trucks, or tonnes for bulk. The first one is prefilled, and “Apply to all deliveries” copies it to the rest. And because deliveries are numbered, they’re the same deliveries customers follow later.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Mistakes surfaced after the order was sent</p></div><div class="ba after"><small>After</small><h1>Check it before it’s sent</h1></div></div>
+  <div class="shot"><img src="img/hco-32.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>A summary with inline editing, so mistakes are caught before Holcim sees the order, not in a phone call afterwards.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Reorder hid behind “Favourites”, inside the order form</p><img class="thumb" src="img/hco-19.jpg" alt="Old portal"></div><div class="ba after"><small>After</small><h1>Repeat it from the order itself</h1></div></div>
+  <div class="shot"><img src="img/hco-45.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>And the fastest order should be a repeat one. Reorder existed, but as “Favourites”: a template list opened from inside the new-order form, and most customers never found it. Now “Repeat order” sits on every order and in the list, and jumps straight to scheduling deliveries.</div></section>
+
+<section class="wrap"><div class="slide dark section"><h1 class="section-title">Following an order</h1><span class="num"></span></div><div class="notes"><b>Say</b>Once an order is placed, customers need to follow it.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Cement &amp; Aggregates and Ready-mix lived in separate sections</p></div><div class="ba after"><small>After</small><h1>One place for every order</h1></div></div>
+  <div class="shot"><img src="img/hco-37.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>Cement and aggregates and ready-mix are separate business lines inside Holcim, so they were separate sections in the portal. Customers just have orders. Now there’s one Orders section, with the order types as tabs.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Search needed record numbers</p><img class="thumb" src="img/hco-17.jpg" alt="Old portal"></div><div class="ba after"><small>After</small><h1>Search the way customers ask</h1></div></div>
+  <div class="shot"><img src="img/hco-39.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>Search used to need record numbers: sales order, delivery note, customer reference. Now there’s one search for order number, job site or date, and filters like “Last 7 days”.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>Invoices didn’t link back to their order or delivery</p><img class="thumb" src="img/hco-16.jpg" alt="Old portal"></div><div class="ba after"><small>After</small><h1>Every order connected</h1></div></div>
+  <div class="shot"><img src="img/hco-41.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>For Holcim, orders, deliveries and invoices are separate records. For a customer they’re one story. Now they link to each other, both ways.</div></section>
+
+<section class="wrap"><div class="slide light"><div class="split">
+  <div class="text"><div class="ba before"><small>Before</small><p>No overview of how much had been delivered</p></div><div class="ba after"><small>After</small><h1>See where an order is</h1></div></div>
+  <div class="shot"><img src="img/hco-42.jpg" alt=""></div>
+</div><span class="num"></span></div><div class="notes"><b>Say</b>And each material shows how much has been delivered, so customers can see where an order is without opening every delivery.</div></section>
+
+<section class="wrap"><div class="slide dark section"><h1 class="section-title">Looking back</h1><span class="num"></span></div><div class="notes"><b>Say</b>So, did it work, and what would I change?</div></section>
+
+<!-- 18 -->
+<section class="wrap"><div class="slide dark">
+  <div class="eyebrow">After launch</div>
+  <h1 style="max-width:80%">I don’t have the adoption number. Here’s how I’d prove it.</h1>
+  <div class="metric"><small>The one metric</small><div>Share of orders placed in the portal</div></div>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>I don't have results to show yet. If I were judging this, that's the number I'd watch, alongside fewer corrected orders and fewer support calls. Not having it is exactly why, next time, I'd agree on the metric before designing. <b>Check</b>Replace with real proof if you get any before the review.</div></section>
+
+<!-- 19 -->
+<section class="wrap"><div class="slide">
+  <div class="eyebrow">Looking back</div>
+  <h1>What I’d do differently</h1>
+  <div class="list">
+    <div><b>01</b>Talk to real customers, even briefly</div>
+    <div><b>02</b>Agree on the success metric before designing</div>
+  </div>
+  <span class="num"></span>
+</div><div class="notes"><b>Say</b>Two things. Support was a good proxy, but even a few customer calls would have validated the problems first-hand. And I'd agree on the success metric with Holcim before designing, so the launch could be measured.</div></section>
+
+<!-- 20 -->
+<section class="wrap"><div class="slide dark">
+  <h1 class="xl" style="margin-top:auto">Thank you</h1>
+  <p class="sub" style="margin-bottom:auto">Questions?</p>
+  <p class="tag" style="color:#A9C1E0">Daniel Sáez · dst.post@gmail.com · danielszt.github.io</p>
+</div><div class="notes"><b>Say</b>Happy to go deeper into any decision, the OOUX work, or how I worked with the developer.</div></section>
+
+</div>
+<div class="help">↑ ↓ move between slides · N toggle notes</div>
+<script>
+  document.querySelectorAll(".wrap").forEach((w,i)=>{const n=w.querySelector(".num");if(n)n.textContent=i+1;});
+  const slides=[...document.querySelectorAll('.wrap')];
+  const cur=()=>{let best=0,d=Infinity;slides.forEach((s,i)=>{const t=Math.abs(s.getBoundingClientRect().top);if(t<d){d=t;best=i}});return best};
+  document.addEventListener('keydown',e=>{
+    if(['ArrowDown','ArrowRight','PageDown',' '].includes(e.key)){e.preventDefault();slides[Math.min(cur()+1,slides.length-1)].scrollIntoView({behavior:'smooth'})}
+    if(['ArrowUp','ArrowLeft','PageUp'].includes(e.key)){e.preventDefault();slides[Math.max(cur()-1,0)].scrollIntoView({behavior:'smooth'})}
+    if(e.key==='n'||e.key==='N')document.body.classList.toggle('show-notes');
+  });
+</script>
+</body>
+</html>
